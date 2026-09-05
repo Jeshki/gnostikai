@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "AEON — Gnostic texts and apocryphal gospels",
+    "description": "The light the canon hid. A museum-grade digital library of Gnostic and apocryphal Christian texts."
+  },
+  "brand": {
+    "name": "AEON",
+    "subtitle": "Gnostic texts and apocryphal gospels",
+    "tagline": "The light the canon hid."
+  },
+  "nav": {
+    "home": "Home",
+    "library": "Library",
+    "map": "Map",
+    "timeline": "Timeline",
+    "glossary": "Glossary",
+    "compare": "Compare",
+    "search": "Search",
+    "saved": "Saved",
+    "about": "About",
+    "skip": "Skip to content"
+  },
+  "switches": {
+    "language": "Language",
+    "appearance": "Appearance",
+    "dark": "Dark background",
+    "light": "Light background",
+    "both": "Both languages"
+  },
+  "home": {
+    "thunder": "For I am the first and the last.",
+    "thunderAttr": "Thunder, Perfect Mind 2.1",
+    "pathThomas": "Read Thomas",
+    "pathNh": "Browse Nag Hammadi",
+    "pathAbout": "What is Gnosticism?",
+    "featured": "Four thresholds",
+    "codices": "Codices",
+    "start": "Start reading"
+  },
+  "library": {
+    "title": "Corpus",
+    "filters": "Filters",
+    "all": "All",
+    "theme": "Theme",
+    "length": "Length",
+    "full": "Has full text",
+    "empty": "Nothing in this silence. Change a filter — or open Thomas.",
+    "complete": "Complete",
+    "excerpt": "Excerpt",
+    "stub": "Stub"
+  },
+  "reader": {
+    "chapters": "Chapters",
+    "next": "Next text in this codex",
+    "audio": "Soon",
+    "cite": "Cite",
+    "bookmark": "Bookmark",
+    "paper": "Paper",
+    "night": "Night",
+    "sepia": "Sepia",
+    "coming": "Full text forthcoming. Introduction and opening section are stubs.",
+    "excerptNote": "Public-domain excerpt.",
+    "pd": "Public domain",
+    "parallels": "Parallels",
+    "note": "Note",
+    "notes": "Notes",
+    "notesHint": "Tap a saying to open a note and parallels.",
+    "ltPending": "This is the English public-domain text. The DeepL Lithuanian pass has not been run yet.",
+    "deepl": "DeepL machine translation from the public-domain English. The English source remains under EN or LT+EN.",
+    "extraCanon": "extra canon",
+    "related": "Related"
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Text, saying, aeon…",
+    "jump": "Jump",
+    "texts": "Texts",
+    "glossary": "Glossary",
+    "about": "About",
+    "thomas": "Thomas",
+    "empty": "Nothing in this silence. Try “Thomas” or “77”.",
+    "close": "Close"
+  },
+  "about": {
+    "title": "What is Gnosticism?",
+    "disclaimer": "Historical and religious literature. Not a church, not an initiation."
+  },
+  "map": {
+    "kicker": "Thematic map",
+    "title": "Map",
+    "blurb": "Not geography — a field of terms: aeons, archons, Sophia, the Pleroma."
+  },
+  "timeline": {
+    "kicker": "Discovery",
+    "title": "Timeline"
+  },
+  "glossary": {
+    "kicker": "Lexicon",
+    "title": "Glossary"
+  },
+  "saved": {
+    "title": "Saved",
+    "empty": "Empty for now. Bookmark Thomas — it stays on this device."
+  },
+  "compare": {
+    "title": "Compare"
+  },
+  "footer": {
+    "sources": "Sources: Mattison, Zinner, James 1924, ANF, Mead. No Brill CGL or Robinson NHL.",
+    "disclaimer": "A scholarly archive. The canon is neither mocked nor defended.",
+    "about": "About",
+    "corpus": "Corpus"
+  }
+}

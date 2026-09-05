@@ -1,0 +1,714 @@
+{
+  "billed": 7371310,
+  "files": {
+    "thanksgiving": {
+      "hash": "78737e0545583a9cbdcd017e77a32f90b7e93925",
+      "billed": 1829,
+      "at": "2026-09-05T13:35:58.518Z",
+      "sections": 3
+    },
+    "prayer-paul": {
+      "hash": "fd5b266ba2abe1574960ab58788c7ee47810ed58",
+      "billed": 1953,
+      "at": "2026-09-05T13:36:01.026Z",
+      "sections": 4
+    },
+    "norea": {
+      "hash": "01e9729ca12cacbdee5babda06d8e7b2d10e969b",
+      "billed": 2014,
+      "at": "2026-09-05T13:36:04.396Z",
+      "sections": 5
+    },
+    "mary": {
+      "hash": "69ab0297bfb09581091b9fe57c447fc83926ea71",
+      "billed": 7991,
+      "at": "2026-09-05T13:36:05.945Z",
+      "sections": 2
+    },
+    "rheginos": {
+      "hash": "13a520ef4c6e19249975b66ccae837b1d6856e58",
+      "billed": 8923,
+      "at": "2026-09-05T13:36:14.850Z",
+      "sections": 12
+    },
+    "peter-philip": {
+      "hash": "d77df15744bc49905cb3a1d62edb14babee56925",
+      "billed": 9035,
+      "at": "2026-09-05T13:36:21.345Z",
+      "sections": 9
+    },
+    "thunder": {
+      "hash": "cae1ec13cf6fad5772232c4ce7059fe24c3ce678",
+      "billed": 10121,
+      "at": "2026-09-05T13:36:29.866Z",
+      "sections": 12
+    },
+    "three-steles": {
+      "hash": "abe4d3b2d74a6e105ae6b5bdfc35341e3b812c4f",
+      "billed": 11835,
+      "at": "2026-09-05T13:36:38.021Z",
+      "sections": 14
+    },
+    "eighth-ninth": {
+      "hash": "3674ee750259683768fc80d15b1ced63686ebb96",
+      "billed": 13137,
+      "at": "2026-09-05T13:36:41.827Z",
+      "sections": 5
+    },
+    "authoritative": {
+      "hash": "990a21ce9e861724beb214ee4a986999d01e6cda",
+      "billed": 14272,
+      "at": "2026-09-05T13:36:51.109Z",
+      "sections": 13
+    },
+    "eugnostos": {
+      "hash": "7ddca775820b32d70c8e70c0304a4be30cc75bc4",
+      "billed": 15033,
+      "at": "2026-09-05T13:37:01.034Z",
+      "sections": 13
+    },
+    "2james": {
+      "hash": "2f02c7caa45042e24b00029a1b4c8bbe2af5f32c",
+      "billed": 15600,
+      "at": "2026-09-05T13:37:08.998Z",
+      "sections": 11
+    },
+    "contender": {
+      "hash": "bc4b699017e9f0df042549b3c1492ada2e3b2dac",
+      "billed": 16643,
+      "at": "2026-09-05T13:37:14.640Z",
+      "sections": 7
+    },
+    "soul": {
+      "hash": "c664048a5608e8d6bee93d6b7ac4874b30ecf4dd",
+      "billed": 16747,
+      "at": "2026-09-05T13:37:21.196Z",
+      "sections": 8
+    },
+    "adam": {
+      "hash": "1f024caf3ae70d34415c85c86eab43e84627cb48",
+      "billed": 18007,
+      "at": "2026-09-05T13:37:29.876Z",
+      "sections": 12
+    },
+    "valentinus-exposition": {
+      "hash": "c58d6aa62dcfb04ed7b09ba13732216e619b1400",
+      "billed": 18172,
+      "at": "2026-09-05T13:37:40.953Z",
+      "sections": 18
+    },
+    "1james": {
+      "hash": "a0164fc243b3b01414ffb15f9474372ef70c5bde",
+      "billed": 18208,
+      "at": "2026-09-05T13:37:50.825Z",
+      "sections": 15
+    },
+    "archons": {
+      "hash": "848e89731ff570032c128aa5b50bf42bf1c9cdbf",
+      "billed": 18424,
+      "at": "2026-09-05T13:37:58.867Z",
+      "sections": 11
+    },
+    "secret-james": {
+      "hash": "e88c9683577e01a08ff8ed97b4a6d4dae2e1d26e",
+      "billed": 20515,
+      "at": "2026-09-05T13:38:00.238Z",
+      "sections": 2
+    },
+    "interpretation-knowledge": {
+      "hash": "95ba6c646853a24ef8eade4e39a9c3c118841ff7",
+      "billed": 20861,
+      "at": "2026-09-05T13:38:01.366Z",
+      "sections": 1
+    },
+    "judas": {
+      "hash": "f32c7f93acc5b6a04c96b125ad05f2e6f147ac36",
+      "billed": 22780,
+      "at": "2026-09-05T13:38:02.866Z",
+      "sections": 2
+    },
+    "great-seth": {
+      "hash": "71e2fa7239b8b2a8ddfbfb321433e84bd1e86bb6",
+      "billed": 23365,
+      "at": "2026-09-05T13:38:11.874Z",
+      "sections": 12
+    },
+    "dialogue-savior": {
+      "hash": "848cb6c8c2ba3ff7dac34867bd07343435e51e17",
+      "billed": 23658,
+      "at": "2026-09-05T13:38:22.563Z",
+      "sections": 16
+    },
+    "sophia-jesus": {
+      "hash": "6468eb4d1f1adc7aea68397a58b54f1e50b1c5ad",
+      "billed": 23728,
+      "at": "2026-09-05T13:38:32.013Z",
+      "sections": 12
+    },
+    "protennoia": {
+      "hash": "ef88b9ea40707d56333edddca016277bcb3c6b92",
+      "billed": 24870,
+      "at": "2026-09-05T13:38:44.764Z",
+      "sections": 17
+    },
+    "egyptians-sethian": {
+      "hash": "69be925e17b57320d0f0c451dd001079bd9802bc",
+      "billed": 32052,
+      "at": "2026-09-05T13:38:46.116Z",
+      "sections": 1
+    },
+    "truth": {
+      "hash": "4a5d478bd15792017e86fe9ed55c56b4643ee957",
+      "billed": 33483,
+      "at": "2026-09-05T13:38:48.096Z",
+      "sections": 2
+    },
+    "origin": {
+      "hash": "d01e0bdc8ee658d979874b4a40beac8e4bf251e6",
+      "billed": 49751,
+      "at": "2026-09-05T13:39:09.859Z",
+      "sections": 29
+    },
+    "john": {
+      "hash": "766f27436a68de363c8a6c2c1c8b50d183ef41a8",
+      "billed": 49864,
+      "at": "2026-09-05T13:39:27.418Z",
+      "sections": 22
+    },
+    "philip": {
+      "hash": "f0301fef3c3903a0bc74d87b5a16b35f88a97db3",
+      "billed": 50395,
+      "at": "2026-09-05T13:39:29.169Z",
+      "sections": 2
+    },
+    "naassene": {
+      "hash": "28002ba8e80fd51a8429d8cc5df5f6d33cd77f4f",
+      "billed": 1046,
+      "at": "2026-09-05T13:40:19.794Z",
+      "sections": 1
+    },
+    "acts-andrew": {
+      "hash": "940b19f877bc643ab29f143bfb0e905b4364ce75",
+      "billed": 1184,
+      "at": "2026-09-05T13:40:20.882Z",
+      "sections": 1
+    },
+    "fayyum": {
+      "hash": "15b2607ad2abab299f20f12babfcef433926bca3",
+      "billed": 1325,
+      "at": "2026-09-05T13:40:22.157Z",
+      "sections": 1
+    },
+    "matthias": {
+      "hash": "d032eed14f26df4faff8191f07621ab23959ccdd",
+      "billed": 1330,
+      "at": "2026-09-05T13:40:23.668Z",
+      "sections": 1
+    },
+    "pilate-tiberius": {
+      "hash": "c8a80e36732ca79d23519979e29a2026f389403f",
+      "billed": 1574,
+      "at": "2026-09-05T13:40:24.888Z",
+      "sections": 1
+    },
+    "hypsiphrone": {
+      "hash": "f4dd05a3666c8f9dde444e7c1ac8e3c2f45603bb",
+      "billed": 1843,
+      "at": "2026-09-05T13:40:26.334Z",
+      "sections": 2
+    },
+    "poxy-5575": {
+      "hash": "7a355164d308b0eefd1dd0a1c3d54ccca47198c2",
+      "billed": 1880,
+      "at": "2026-09-05T13:40:27.478Z",
+      "sections": 2
+    },
+    "apocalypse-peter-greek": {
+      "hash": "31f5c03ea54299b99faa763612236757b822160a",
+      "billed": 1981,
+      "at": "2026-09-05T13:40:28.776Z",
+      "sections": 1
+    },
+    "laodiceans": {
+      "hash": "b4dcc91722ddf6d5562e4d70ae91b441e84f9382",
+      "billed": 2641,
+      "at": "2026-09-05T13:40:30.257Z",
+      "sections": 1
+    },
+    "abgar": {
+      "hash": "6b79c255d2b5bdeba7d1a3b4888e2812fb54b63f",
+      "billed": 2645,
+      "at": "2026-09-05T13:40:31.537Z",
+      "sections": 1
+    },
+    "egerton": {
+      "hash": "cfbf5e8a23ff9b21a86ada85411246af405e6cd3",
+      "billed": 3377,
+      "at": "2026-09-05T13:40:33.351Z",
+      "sections": 2
+    },
+    "plato-republic": {
+      "hash": "f3d8e703e65a356fa0d475f2881aeb8456034693",
+      "billed": 3636,
+      "at": "2026-09-05T13:40:35.259Z",
+      "sections": 2
+    },
+    "basilides": {
+      "hash": "ceb6688b22654504e6ac4a514ea84f04178677c7",
+      "billed": 4129,
+      "at": "2026-09-05T13:40:36.584Z",
+      "sections": 1
+    },
+    "apelles": {
+      "hash": "a93575fefd9ebda03047a8437e0bd44766381f40",
+      "billed": 4244,
+      "at": "2026-09-05T13:40:38.697Z",
+      "sections": 2
+    },
+    "egyptians-patristic": {
+      "hash": "5808b69714f700d4e692d2693f3c0056a99f7356",
+      "billed": 4260,
+      "at": "2026-09-05T13:40:40.116Z",
+      "sections": 1
+    },
+    "thomas-poxy-654": {
+      "hash": "410ece670eaabb9509b3285ab7c2b7a88ac51ec1",
+      "billed": 4369,
+      "at": "2026-09-05T13:40:41.489Z",
+      "sections": 1
+    },
+    "melchizedek-qumran": {
+      "hash": "5b3d133320a6e6113aa29f3dd99409fa93e25ab8",
+      "billed": 4537,
+      "at": "2026-09-05T13:40:42.811Z",
+      "sections": 1
+    },
+    "stranger-tchacos": {
+      "hash": "702ea0138ed92a795584d657e15469e64edc4d99",
+      "billed": 5621,
+      "at": "2026-09-05T13:40:44.287Z",
+      "sections": 2
+    },
+    "ebionites": {
+      "hash": "bac398da9b39a1ead31bfdc51889a16d4a7c5f7f",
+      "billed": 5622,
+      "at": "2026-09-05T13:40:45.815Z",
+      "sections": 1
+    },
+    "giving-up-pilate": {
+      "hash": "339c13cea52bc043f1cf39219914d002448eb4ba",
+      "billed": 5935,
+      "at": "2026-09-05T13:40:47.181Z",
+      "sections": 1
+    },
+    "act-peter": {
+      "hash": "ebb1c5bc1a86846db31d064db9a5253574b2f49f",
+      "billed": 6180,
+      "at": "2026-09-05T13:40:48.552Z",
+      "sections": 1
+    },
+    "apocalypse-paul": {
+      "hash": "4b4a0101b9d93a67270f3885c294e8f7ced2c861",
+      "billed": 6536,
+      "at": "2026-09-05T13:40:54.094Z",
+      "sections": 7
+    },
+    "death-pilate": {
+      "hash": "1019663f47cfbcaa51d5b7e3f75d33272d99b72a",
+      "billed": 6439,
+      "at": "2026-09-05T13:40:55.526Z",
+      "sections": 1
+    },
+    "secret-mark": {
+      "hash": "4abd54d02a80792186c11bc5e950a2da663cb335",
+      "billed": 6895,
+      "at": "2026-09-05T13:40:57.491Z",
+      "sections": 2
+    },
+    "valentinus": {
+      "hash": "0c2bc6e658c3fa7b66832c620e425d29faaf6ad5",
+      "billed": 8340,
+      "at": "2026-09-05T13:40:59.714Z",
+      "sections": 2
+    },
+    "preaching-peter": {
+      "hash": "3886da86eddb4b209e4ed927be5f175034c6881b",
+      "billed": 9578,
+      "at": "2026-09-05T13:41:01.108Z",
+      "sections": 1
+    },
+    "peter-gospel": {
+      "hash": "c4572219355f22ff49b7c67f93950fc5eb907408",
+      "billed": 9862,
+      "at": "2026-09-05T13:41:02.695Z",
+      "sections": 2
+    },
+    "epiphanes": {
+      "hash": "294bae236574e1c453d34fcb216b19a624e72f1d",
+      "billed": 10778,
+      "at": "2026-09-05T13:41:04.080Z",
+      "sections": 1
+    },
+    "sextus": {
+      "hash": "5866846107375b6b1c9d585e8887d1a0f877251a",
+      "billed": 11004,
+      "at": "2026-09-05T13:41:05.775Z",
+      "sections": 2
+    },
+    "thomas-poxy-1": {
+      "hash": "d72eb1ed8e69b304d0155fa25d8d6c15b10ca5eb",
+      "billed": 12270,
+      "at": "2026-09-05T13:41:07.179Z",
+      "sections": 1
+    },
+    "lost-heretical": {
+      "hash": "b55b36b76f72f579b39720fddda007730842793e",
+      "billed": 12650,
+      "at": "2026-09-05T13:41:08.832Z",
+      "sections": 1
+    },
+    "great-power": {
+      "hash": "f0c1f3b79e75f84fbc9e790deb529ce282dfcca4",
+      "billed": 13163,
+      "at": "2026-09-05T13:41:19.003Z",
+      "sections": 12
+    },
+    "peter-twelve": {
+      "hash": "36edf8272c10a4f763cec65fb31e8c47f6dad834",
+      "billed": 13067,
+      "at": "2026-09-05T13:41:24.527Z",
+      "sections": 7
+    },
+    "melchizedek-2": {
+      "hash": "0934719a92976bc36e2f2b6609b7279a53a27d1d",
+      "billed": 13536,
+      "at": "2026-09-05T13:41:33.907Z",
+      "sections": 14
+    },
+    "apocalypse-peter-nhc": {
+      "hash": "9a506b27fee4f37b8726ee5172208215ba72e340",
+      "billed": 14071,
+      "at": "2026-09-05T13:41:45.560Z",
+      "sections": 14
+    },
+    "valentinian-movement": {
+      "hash": "77d03778bf4ab84383ffcce0cdbaf084130485cd",
+      "billed": 15375,
+      "at": "2026-09-05T13:41:47.867Z",
+      "sections": 2
+    },
+    "asclepius": {
+      "hash": "a0a3e1a364103fd3c3bf86f6b6b54035d1a1a946",
+      "billed": 17722,
+      "at": "2026-09-05T13:41:54.201Z",
+      "sections": 8
+    },
+    "ptolemy-flora": {
+      "hash": "7486b7e8f9e311fa47723059aff728a9aff13631",
+      "billed": 18796,
+      "at": "2026-09-05T13:41:55.657Z",
+      "sections": 1
+    },
+    "infancy-thomas": {
+      "hash": "f96a8a7dd4fcfc3cb2fa189640eb434fcf67558b",
+      "billed": 20563,
+      "at": "2026-09-05T13:41:57.457Z",
+      "sections": 2
+    },
+    "hebrews": {
+      "hash": "9fb07709e06a1a31eb3942218a7096e786a6a8ee",
+      "billed": 21571,
+      "at": "2026-09-05T13:41:58.985Z",
+      "sections": 1
+    },
+    "3-corinthians": {
+      "hash": "dd90abcdb596a224d754e12bf79a23dbe5f56b6f",
+      "billed": 22709,
+      "at": "2026-09-05T13:42:00.437Z",
+      "sections": 1
+    },
+    "allogenes": {
+      "hash": "eb9289b59ef12f4bb1910784bbb69e92d49f8223",
+      "billed": 23794,
+      "at": "2026-09-05T13:42:01.975Z",
+      "sections": 1
+    },
+    "poxy-1224": {
+      "hash": "484b75734e91d175bb5d2f76924f51e5dbbc1074",
+      "billed": 24307,
+      "at": "2026-09-05T13:42:04.100Z",
+      "sections": 1
+    },
+    "testimony-truth": {
+      "hash": "a5efa824e414ffbc2dc4d1131512598a262f54f7",
+      "billed": 26674,
+      "at": "2026-09-05T13:42:17.065Z",
+      "sections": 17
+    },
+    "gospel-q": {
+      "hash": "5683ba58e5a1fa1c832309f90975e0b1d1cd7008",
+      "billed": 26604,
+      "at": "2026-09-05T13:42:18.906Z",
+      "sections": 2
+    },
+    "marsanes": {
+      "hash": "f9f0ed8f2b6d3d65f5c1e8dcf3ba5c0029f5e7c9",
+      "billed": 27960,
+      "at": "2026-09-05T13:42:33.295Z",
+      "sections": 21
+    },
+    "poxy-840": {
+      "hash": "92b580beb4350f677e576b3a14b05f86298134a4",
+      "billed": 28493,
+      "at": "2026-09-05T13:42:35.219Z",
+      "sections": 1
+    },
+    "marcion-gospel": {
+      "hash": "bcb0ec7a17741604459df86f4ebe9673a7993e76",
+      "billed": 29499,
+      "at": "2026-09-05T13:42:36.928Z",
+      "sections": 1
+    },
+    "joseph-carpenter": {
+      "hash": "3fc5cc31d6fe551b4a5ba434cf2ff224d5319d20",
+      "billed": 31065,
+      "at": "2026-09-05T13:42:38.420Z",
+      "sections": 1
+    },
+    "heracleon": {
+      "hash": "5667a66c745eaaf9f4f70f4cc697f37ff7446666",
+      "billed": 34247,
+      "at": "2026-09-05T13:42:39.941Z",
+      "sections": 1
+    },
+    "theodotus": {
+      "hash": "7e93435226807bdf9e92277778ab5a4e5e095d97",
+      "billed": 36086,
+      "at": "2026-09-05T13:42:41.521Z",
+      "sections": 1
+    },
+    "acts-philip": {
+      "hash": "ba6c7f400d6b1065b7e2b71046d76ec58115d33e",
+      "billed": 36488,
+      "at": "2026-09-05T13:42:43.203Z",
+      "sections": 1
+    },
+    "james-infancy": {
+      "hash": "f72e2a34e9b9d8209c312391f147dc5f59858a49",
+      "billed": 36599,
+      "at": "2026-09-05T13:42:45.126Z",
+      "sections": 2
+    },
+    "bartholomew": {
+      "hash": "6a71020da384f6ee31b42b73b277996da7572b23",
+      "billed": 38498,
+      "at": "2026-09-05T13:42:46.655Z",
+      "sections": 1
+    },
+    "silvanus": {
+      "hash": "b49a47bc7b9a97c57edea25d40b93f4bc19a9a9c",
+      "billed": 39691,
+      "at": "2026-09-05T13:43:05.085Z",
+      "sections": 22
+    },
+    "apocalypse-virgin": {
+      "hash": "543334582501029fe9355939b4c622cc7464f9ba",
+      "billed": 40255,
+      "at": "2026-09-05T13:43:06.753Z",
+      "sections": 1
+    },
+    "acts-paul": {
+      "hash": "508244923bf8d26de2d1bad5fa6961deccf621c9",
+      "billed": 46847,
+      "at": "2026-09-05T13:43:08.416Z",
+      "sections": 1
+    },
+    "odes-solomon": {
+      "hash": "d2b0095ddf063ba64c4b3036b82061d46fabdd1a",
+      "billed": 49035,
+      "at": "2026-09-05T13:43:09.880Z",
+      "sections": 1
+    },
+    "hermas": {
+      "hash": "ec7400496dcaee174d807ffd6591871d60efc816",
+      "billed": 49823,
+      "at": "2026-09-05T13:43:11.582Z",
+      "sections": 1
+    },
+    "james-fragments": {
+      "hash": "b2f3e6bfd8bbafa8612a7b27c01b0d8eaece8590",
+      "billed": 49992,
+      "at": "2026-09-05T13:43:13.587Z",
+      "sections": 1
+    },
+    "shem": {
+      "hash": "0a027b14964d58ce0fcf350848c0ff2a9add5b7d",
+      "billed": 52178,
+      "at": "2026-09-05T13:43:15.006Z",
+      "sections": 1
+    },
+    "arabic-infancy": {
+      "hash": "34d5570660baf4a6f9e32a3ed3916ac9c2ce7142",
+      "billed": 54537,
+      "at": "2026-09-05T13:43:16.690Z",
+      "sections": 1
+    },
+    "acts-andrew-matthias": {
+      "hash": "5ee882a4ed9de04db60463333e251b9c96d72dcf",
+      "billed": 72139,
+      "at": "2026-09-05T13:43:18.329Z",
+      "sections": 1
+    },
+    "pseudo-matthew": {
+      "hash": "7c2905b4a889b48feebf335abc38a7c759da8d43",
+      "billed": 72887,
+      "at": "2026-09-05T13:43:20.066Z",
+      "sections": 1
+    },
+    "zostrianos": {
+      "hash": "8fa68908f37455de3ab56fa45900b666f7ecc485",
+      "billed": 76124,
+      "at": "2026-09-05T13:43:21.809Z",
+      "sections": 1
+    },
+    "untitled-bruce": {
+      "hash": "ce51fdb19b1a65382281c03def6fa162eacc83d6",
+      "billed": 77163,
+      "at": "2026-09-05T13:43:23.452Z",
+      "sections": 1
+    },
+    "visio-pauli": {
+      "hash": "9f80e535e6ef8c3ae97a12586a6bcf2db0c4e328",
+      "billed": 84999,
+      "at": "2026-09-05T13:43:25.120Z",
+      "sections": 1
+    },
+    "bartholomew-resurrection": {
+      "hash": "b46940887872429cf15c5e5a8ca8b4bdc57ad327",
+      "billed": 97795,
+      "at": "2026-09-05T13:43:26.952Z",
+      "sections": 1
+    },
+    "against-marcion-2": {
+      "hash": "039058f95289f989c886cda2087eea21fe714429",
+      "billed": 106231,
+      "at": "2026-09-05T13:43:53.706Z",
+      "sections": 31
+    },
+    "against-marcion-3": {
+      "hash": "f22b306644a275f9928c41fb19d7019bece6eb46",
+      "billed": 103889,
+      "at": "2026-09-05T13:44:21.428Z",
+      "sections": 26
+    },
+    "against-marcion-1": {
+      "hash": "786da9453079753f6b7909a57d8688d8776bc270",
+      "billed": 107336,
+      "at": "2026-09-05T13:44:50.414Z",
+      "sections": 31
+    },
+    "acts-peter": {
+      "hash": "d56611baa44b4a780681b3a2b8af5eff50592c3d",
+      "billed": 103061,
+      "at": "2026-09-05T13:44:52.315Z",
+      "sections": 1
+    },
+    "acts-barnabas": {
+      "hash": "346b257160fbffce8c9ec7e26d5a99c7ebb4f040",
+      "billed": 103771,
+      "at": "2026-09-05T13:44:54.354Z",
+      "sections": 1
+    },
+    "tripartite": {
+      "hash": "01c69982710cd3a14652c0e5b8ec8447fc7ff56f",
+      "billed": 109786,
+      "at": "2026-09-05T13:45:30.777Z",
+      "sections": 34
+    },
+    "acts-john": {
+      "hash": "111397cdc5d8945e87aa4c7f1c96e07f7df5dc53",
+      "billed": 112716,
+      "at": "2026-09-05T13:45:32.678Z",
+      "sections": 1
+    },
+    "epistula-apostolorum": {
+      "hash": "09de28a63797aebcdda11a5ee31ca65f8b431050",
+      "billed": 127659,
+      "at": "2026-09-05T13:45:34.763Z",
+      "sections": 1
+    },
+    "vindicta": {
+      "hash": "9ea36d84b1da21c4dd9fba5d311ef02cc6af7528",
+      "billed": 139779,
+      "at": "2026-09-05T13:46:00.470Z",
+      "sections": 1
+    },
+    "against-marcion-5": {
+      "hash": "8178ca7b019297c0f13e2d81133c273fd958625b",
+      "billed": 196169,
+      "at": "2026-09-05T13:46:27.001Z",
+      "sections": 23
+    },
+    "nicodemus": {
+      "hash": "858b00f9f8eb0b449687023020082521f3db6484",
+      "billed": 194078,
+      "at": "2026-09-05T13:46:31.804Z",
+      "sections": 1
+    },
+    "acts-thomas": {
+      "hash": "3a36b3c9f91e9d3a097a5464d66c00df77ad3fc8",
+      "billed": 204761,
+      "at": "2026-09-05T13:46:37.049Z",
+      "sections": 1
+    },
+    "apocalypse-thomas": {
+      "hash": "1601f8c2a1731fd101ae4fb7610694a872442317",
+      "billed": 291590,
+      "at": "2026-09-05T13:46:43.714Z",
+      "sections": 1
+    },
+    "paul-seneca": {
+      "hash": "2779d1d1876fbbca44d879d02ebad361196bb887",
+      "billed": 311287,
+      "at": "2026-09-05T13:46:50.678Z",
+      "sections": 1
+    },
+    "against-marcion-4": {
+      "hash": "38e823b5c92945f240a553c659fa0ccfe38b6c51",
+      "billed": 340133,
+      "at": "2026-09-05T13:47:43.375Z",
+      "sections": 45
+    },
+    "acts-peter-paul": {
+      "hash": "bca4ebb2f7fd69c8131a73b61cf4971642febc45",
+      "billed": 334945,
+      "at": "2026-09-05T13:47:51.917Z",
+      "sections": 1
+    },
+    "life-of-john": {
+      "hash": "4171dbab1d0753cb6d8e7544609bd93f1e3ff7f8",
+      "billed": 434654,
+      "at": "2026-09-05T13:48:03.643Z",
+      "sections": 1
+    },
+    "pistis-sophia": {
+      "hash": "78d34a43afeddc58d87a8a4d01fe1de59aede7b3",
+      "billed": 598920,
+      "at": "2026-09-05T13:48:19.504Z",
+      "sections": 1
+    },
+    "clementine-homilies": {
+      "hash": "8a83e64b55686469504472c559b8cc9905576ea8",
+      "billed": 603954,
+      "at": "2026-09-05T13:48:32.305Z",
+      "sections": 1
+    },
+    "clementine-recognitions": {
+      "hash": "6484e0ef8c4663cbc0416f1e7f660203eec90159",
+      "billed": 655262,
+      "at": "2026-09-05T13:48:46.135Z",
+      "sections": 1
+    }
+  },
+  "glossaryId": "192048b2-81f1-4f79-9554-7a2ab0015222"
+}

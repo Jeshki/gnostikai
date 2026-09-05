@@ -1,0 +1,4848 @@
+[
+  {
+    "slug": "egerton",
+    "title": "Unknown Gospel: Egerton Papyrus 2",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/egerton",
+    "license": "Public Domain (translator dedication)",
+    "chars": 3321,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Unknown Gospel: Egerton Papyrus 2",
+        "titleLt": "The Unknown Gospel: Egerton Papyrus 2"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "james-infancy",
+    "title": "Infancy Gospel of James",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/infancyjames",
+    "license": "Public Domain (translator dedication)",
+    "chars": 36553,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Infancy Gospel of James",
+        "titleLt": "The Infancy Gospel of James"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "infancy-thomas",
+    "title": "Infancy Gospel of Thomas",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/infancythomas",
+    "license": "Public Domain (translator dedication)",
+    "chars": 20516,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Infancy Gospel of Thomas",
+        "titleLt": "The Infancy Gospel of Thomas"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "secret-james",
+    "title": "Secret Book of James",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/james",
+    "license": "Public Domain (translator dedication)",
+    "chars": 20472,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Secret Book of James",
+        "titleLt": "The Secret Book of James"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "judas",
+    "title": "Gospel of Judas",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/judas",
+    "license": "Public Domain (translator dedication)",
+    "chars": 22742,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Gospel of Judas",
+        "titleLt": "The Gospel of Judas"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "mary",
+    "title": "Gospel of Mary",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/mary",
+    "license": "Public Domain (translator dedication)",
+    "chars": 7954,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Gospel of Mary",
+        "titleLt": "The Gospel of Mary"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "peter-gospel",
+    "title": "Gospel of Peter",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/peter",
+    "license": "Public Domain (translator dedication)",
+    "chars": 9824,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Gospel of Peter",
+        "titleLt": "The Gospel of Peter"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "philip",
+    "title": "Gospel of Philip",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/philip",
+    "license": "Public Domain (translator dedication)",
+    "chars": 50356,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Gospel of Philip",
+        "titleLt": "The Gospel of Philip"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "gospel-q",
+    "title": "Gospel of Q",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/quelle",
+    "license": "Public Domain (translator dedication)",
+    "chars": 26570,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Gospel of Q",
+        "titleLt": "The Gospel of Q"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "poxy-5575",
+    "title": "Sayings of Jesus: P.Oxy 5575",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/sayings-of-jesus-poxy-5575",
+    "license": "Public Domain (translator dedication)",
+    "chars": 1833,
+    "sections": 2,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Sayings of Jesus: P.Oxy 5575",
+        "titleLt": "Sayings of Jesus: P.Oxy 5575"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "secret-mark",
+    "title": "Secret Gospel of Mark",
+    "translator": "Samuel Zinner",
+    "source": "https://www.gospels.net/secret-gospel-of-mark",
+    "license": "Public Domain (translator dedication)",
+    "chars": 6854,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Secret Gospel of Mark",
+        "titleLt": "The Secret Gospel of Mark"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Samuel Zinner",
+        "titleLt": "by Samuel Zinner"
+      }
+    ]
+  },
+  {
+    "slug": "stranger-tchacos",
+    "title": "The Stranger's Book",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/stranger",
+    "license": "Public Domain (translator dedication)",
+    "chars": 5603,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Stranger’s Book",
+        "titleLt": "The Stranger’s Book"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "truth",
+    "title": "Gospel of Truth",
+    "translator": "Mark M. Mattison",
+    "source": "https://www.gospels.net/truth",
+    "license": "Public Domain (translator dedication)",
+    "chars": 33445,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Gospel of Truth",
+        "titleLt": "The Gospel of Truth"
+      },
+      {
+        "id": "2",
+        "titleEn": "by Mark M. Mattison",
+        "titleLt": "by Mark M. Mattison"
+      }
+    ]
+  },
+  {
+    "slug": "1james",
+    "title": "The Apocalypse of James",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/1james/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 17796,
+    "sections": 15,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Apocalypse of James",
+        "titleLt": "The Apocalypse of James"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Jesus and James",
+        "titleLt": "1. Jesus and James"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Existent One",
+        "titleLt": "2. The Existent One"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Achamoth, the Lower Wisdom, Creates Powers and Divinities",
+        "titleLt": "3. Achamoth, the Lower Wisdom, Creates Powers and Divinities"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Twelve Archons",
+        "titleLt": "4. The Twelve Archons"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Seventy-Two Pairs",
+        "titleLt": "5. The Seventy-Two Pairs"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Overcoming the Powers",
+        "titleLt": "6. Overcoming the Powers"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. James’ Redemption",
+        "titleLt": "7. James’ Redemption"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Plan to Defeat the Archons",
+        "titleLt": "8. The Plan to Defeat the Archons"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. James, the Second Teacher",
+        "titleLt": "9. James, the Second Teacher"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Jesus Encourages James",
+        "titleLt": "10. Jesus Encourages James"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. The Toll Collectors",
+        "titleLt": "11. The Toll Collectors"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. The Transmission of the Revelation",
+        "titleLt": "12. The Transmission of the Revelation"
+      },
+      {
+        "id": "14",
+        "titleEn": "13. The Seven Women Disciples",
+        "titleLt": "13. The Seven Women Disciples"
+      },
+      {
+        "id": "15",
+        "titleEn": "14. The Martyrdom of James",
+        "titleLt": "14. The Martyrdom of James"
+      }
+    ]
+  },
+  {
+    "slug": "apocalypse-peter-nhc",
+    "title": "The Coptic Revelation of Peter",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/2apeter/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 13670,
+    "sections": 14,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Coptic Revelation of Peter",
+        "titleLt": "The Coptic Revelation of Peter"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Savior Warns Peter",
+        "titleLt": "1. The Savior Warns Peter"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Threat of Violence",
+        "titleLt": "2. The Threat of Violence"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Blind and Deaf",
+        "titleLt": "3. The Blind and Deaf"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. An Evil, Deceitful Leader",
+        "titleLt": "4. An Evil, Deceitful Leader"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Immortal Souls",
+        "titleLt": "5. Immortal Souls"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Leaders Who Wander",
+        "titleLt": "6. Leaders Who Wander"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Leaders Who Invent Error",
+        "titleLt": "7. Leaders Who Invent Error"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. Leaders Who Oppress ‘The Little Ones’",
+        "titleLt": "8. Leaders Who Oppress ‘The Little Ones’"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. Leaders Who Call Themselves Bishops and Deacons",
+        "titleLt": "9. Leaders Who Call Themselves Bishops and Deacons"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Their Error Exposed",
+        "titleLt": "10. Their Error Exposed"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. The Crucifixion of the Savior’s Physicality",
+        "titleLt": "11. The Crucifixion of the Savior’s Physicality"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. The Living Savior",
+        "titleLt": "12. The Living Savior"
+      },
+      {
+        "id": "14",
+        "titleEn": "13. Jesus Encourages Peter",
+        "titleLt": "13. Jesus Encourages Peter"
+      }
+    ]
+  },
+  {
+    "slug": "2james",
+    "title": "The Second Apocalypse of James",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/2james/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 15302,
+    "sections": 11,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Second Apocalypse of James",
+        "titleLt": "The Second Apocalypse of James"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. A Priestly Relative Urges James’ Father to Intervene",
+        "titleLt": "1. A Priestly Relative Urges James’ Father to Intervene"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. James Begins His Speech",
+        "titleLt": "2. James Begins His Speech"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. I Am",
+        "titleLt": "3. I Am"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Jesus Warns James",
+        "titleLt": "4. Jesus Warns James"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Creator Who Imprisons",
+        "titleLt": "5. The Creator Who Imprisons"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The Good Door through James",
+        "titleLt": "6. The Good Door through James"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. James Warns the Crowds",
+        "titleLt": "7. James Warns the Crowds"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The End of the Priest’s Report",
+        "titleLt": "8. The End of the Priest’s Report"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. The Stoning of James",
+        "titleLt": "9. The Stoning of James"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. James’ Last Words",
+        "titleLt": "10. James’ Last Words"
+      }
+    ]
+  },
+  {
+    "slug": "melchizedek-2",
+    "title": "2 Melchizedek",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/2melchizedek/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 13080,
+    "sections": 14,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "2 Melchizedek",
+        "titleLt": "2 Melchizedek"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Incarnation of Jesus Christ, Son of God",
+        "titleLt": "1. The Incarnation of Jesus Christ, Son of God"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. His Life, Death, and Resurrection",
+        "titleLt": "2. His Life, Death, and Resurrection"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Revelation of the Savior",
+        "titleLt": "3. The Revelation of the Savior"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Gamaliel Invokes Divine Beings through Jesus Christ",
+        "titleLt": "4. Gamaliel Invokes Divine Beings through Jesus Christ"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The High Priest, Sacrifices, and Baptism",
+        "titleLt": "5. The High Priest, Sacrifices, and Baptism"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The Real Adam and Eve",
+        "titleLt": "6. The Real Adam and Eve"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. The Final Battle and the Destruction of Death",
+        "titleLt": "7. The Final Battle and the Destruction of Death"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Commissioning of Melchizedek",
+        "titleLt": "8. The Commissioning of Melchizedek"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. Melchizedek Praises Divine Beings",
+        "titleLt": "9. Melchizedek Praises Divine Beings"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Confess Him",
+        "titleLt": "10. Confess Him"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. Divine Messengers",
+        "titleLt": "11. Divine Messengers"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. The Death and Resurrection of Christ",
+        "titleLt": "12. The Death and Resurrection of Christ"
+      },
+      {
+        "id": "14",
+        "titleEn": "13. Conclusion",
+        "titleLt": "13. Conclusion"
+      }
+    ]
+  },
+  {
+    "slug": "great-seth",
+    "title": "The 2nd Discourse of the Great Seth",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/2seth/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 23010,
+    "sections": 12,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The 2nd Discourse of the Great Seth",
+        "titleLt": "The 2nd Discourse of the Great Seth"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Perfect Greatness",
+        "titleLt": "1. The Perfect Greatness"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Incarnation",
+        "titleLt": "2. The Incarnation"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Yaldabaoth and the Archons Scheme",
+        "titleLt": "3. Yaldabaoth and the Archons Scheme"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Crucified Not in Reality, but in Appearance",
+        "titleLt": "4. Crucified Not in Reality, but in Appearance"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Son of Greatness Ascends",
+        "titleLt": "5. The Son of Greatness Ascends"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The Meaning of the Crucifixion",
+        "titleLt": "6. The Meaning of the Crucifixion"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Triumph over Persecution",
+        "titleLt": "7. Triumph over Persecution"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Patriarchs Were a Farce",
+        "titleLt": "8. The Patriarchs Were a Farce"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. I am Christ, the Son of Man",
+        "titleLt": "9. I am Christ, the Son of Man"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Salvation and Harmony",
+        "titleLt": "10. Salvation and Harmony"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. A Perfect Friend",
+        "titleLt": "11. A Perfect Friend"
+      }
+    ]
+  },
+  {
+    "slug": "three-steles",
+    "title": "The Three Steles of Seth",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/3seth/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 11503,
+    "sections": 14,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Three Steles of Seth",
+        "titleLt": "The Three Steles of Seth"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Revelation of Dositheos",
+        "titleLt": "1. The Revelation of Dositheos"
+      },
+      {
+        "id": "3",
+        "titleEn": "The First Stele of Seth",
+        "titleLt": "The First Stele of Seth"
+      },
+      {
+        "id": "4",
+        "titleEn": "2. Praise to Pigeradamas",
+        "titleLt": "2. Praise to Pigeradamas"
+      },
+      {
+        "id": "5",
+        "titleEn": "3. Praise to the Self-Begotten One",
+        "titleLt": "3. Praise to the Self-Begotten One"
+      },
+      {
+        "id": "6",
+        "titleEn": "4. Praise to Barbelo",
+        "titleLt": "4. Praise to Barbelo"
+      },
+      {
+        "id": "7",
+        "titleEn": "The Second Stele of Seth",
+        "titleLt": "The Second Stele of Seth"
+      },
+      {
+        "id": "8",
+        "titleEn": "5. Communal Praise",
+        "titleLt": "5. Communal Praise"
+      },
+      {
+        "id": "9",
+        "titleEn": "6. Communal Petition",
+        "titleLt": "6. Communal Petition"
+      },
+      {
+        "id": "10",
+        "titleEn": "The Third Stele of Seth",
+        "titleLt": "The Third Stele of Seth"
+      },
+      {
+        "id": "11",
+        "titleEn": "7. Opening Doxology",
+        "titleLt": "7. Opening Doxology"
+      },
+      {
+        "id": "12",
+        "titleEn": "8. Doxology to the Concealed One",
+        "titleLt": "8. Doxology to the Concealed One"
+      },
+      {
+        "id": "13",
+        "titleEn": "9. Closing Doxology",
+        "titleLt": "9. Closing Doxology"
+      },
+      {
+        "id": "14",
+        "titleEn": "10. The Path of Ascent",
+        "titleLt": "10. The Path of Ascent"
+      }
+    ]
+  },
+  {
+    "slug": "eighth-ninth",
+    "title": "Discourse on the Eighth and Ninth",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/89/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 12961,
+    "sections": 5,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Discourse on the Eighth and Ninth",
+        "titleLt": "Discourse on the Eighth and Ninth"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Preliminary Instruction on Reaching the Eighth and Ninth",
+        "titleLt": "1. Preliminary Instruction on Reaching the Eighth and Ninth"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Prayer for Ascent",
+        "titleLt": "2. The Prayer for Ascent"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Visions of the Eighth and Ninth",
+        "titleLt": "3. Visions of the Eighth and Ninth"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Writing the Secret Book",
+        "titleLt": "4. Writing the Secret Book"
+      }
+    ]
+  },
+  {
+    "slug": "peter-twelve",
+    "title": "The Acts of Peter",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/acts-peter/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 12893,
+    "sections": 7,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Acts of Peter",
+        "titleLt": "The Acts of Peter"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Peter and the Apostles Set Sail",
+        "titleLt": "1. Peter and the Apostles Set Sail"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Pearl Merchant",
+        "titleLt": "2. The Pearl Merchant"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Difficult Road",
+        "titleLt": "3. The Difficult Road"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Apostles Reach the City",
+        "titleLt": "4. The Apostles Reach the City"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Physician",
+        "titleLt": "5. The Physician"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The Lord Instructs the Disciples",
+        "titleLt": "6. The Lord Instructs the Disciples"
+      }
+    ]
+  },
+  {
+    "slug": "adam",
+    "title": "The Revelation of Adam",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/adam/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 17671,
+    "sections": 12,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Revelation of Adam",
+        "titleLt": "The Revelation of Adam"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Adam and Eve Forget Their True Nature",
+        "titleLt": "1. Adam and Eve Forget Their True Nature"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Fight for Adam's Mind",
+        "titleLt": "2. The Fight for Adam's Mind"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Noah, Servant of the Lord of Darkness",
+        "titleLt": "3. Noah, Servant of the Lord of Darkness"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Noah on Trial",
+        "titleLt": "4. Noah on Trial"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Noah Divides the Earth",
+        "titleLt": "5. Noah Divides the Earth"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The 400,000 Spread Knowledge",
+        "titleLt": "6. The 400,000 Spread Knowledge"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Rescue from Fire",
+        "titleLt": "7. Rescue from Fire"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Illuminator of Knowledge",
+        "titleLt": "8. The Illuminator of Knowledge"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. The Oracles of the Thirteen Kingdoms",
+        "titleLt": "9. The Oracles of the Thirteen Kingdoms"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. The Seed of Seth Vindicated",
+        "titleLt": "10. The Seed of Seth Vindicated"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. Conclusion",
+        "titleLt": "11. Conclusion"
+      }
+    ]
+  },
+  {
+    "slug": "archons",
+    "title": "Substance of the Archons",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/archons/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 18155,
+    "sections": 11,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Substance of the Archons",
+        "titleLt": "Substance of the Archons"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Blind God",
+        "titleLt": "1. The Blind God"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Archons Create Adam",
+        "titleLt": "2. The Archons Create Adam"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Garden of Eden and Creation of Eve",
+        "titleLt": "3. The Garden of Eden and Creation of Eve"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. They Eat the Fruit",
+        "titleLt": "4. They Eat the Fruit"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Cain and Abel; Norea and Seth",
+        "titleLt": "5. Cain and Abel; Norea and Seth"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The Flood",
+        "titleLt": "6. The Flood"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Eleleth Saves Norea",
+        "titleLt": "7. Eleleth Saves Norea"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Origin of the Archons",
+        "titleLt": "8. The Origin of the Archons"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. An Archon Repents",
+        "titleLt": "9. An Archon Repents"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Norea’s Final Questions",
+        "titleLt": "10. Norea’s Final Questions"
+      }
+    ]
+  },
+  {
+    "slug": "asclepius",
+    "title": "Excerpt from the Perfect Discourse",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/asclepius/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 17509,
+    "sections": 8,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Excerpt from the Perfect Discourse",
+        "titleLt": "Excerpt from the Perfect Discourse"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Mystery of Intercourse",
+        "titleLt": "1. The Mystery of Intercourse"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. Instruction is Derived from Knowledge",
+        "titleLt": "2. Instruction is Derived from Knowledge"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Humans Become Superior to the Gods",
+        "titleLt": "3. Humans Become Superior to the Gods"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Idols and Images",
+        "titleLt": "4. Idols and Images"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Destruction of Egypt",
+        "titleLt": "5. The Destruction of Egypt"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. God's Will",
+        "titleLt": "6. God's Will"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. God's Demon",
+        "titleLt": "7. God's Demon"
+      }
+    ]
+  },
+  {
+    "slug": "contender",
+    "title": "Thomas the Contender",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/contender/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 16469,
+    "sections": 7,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Thomas the Contender",
+        "titleLt": "Thomas the Contender"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Savior Walks with Thomas",
+        "titleLt": "1. The Savior Walks with Thomas"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Visible and the Invisible",
+        "titleLt": "2. The Visible and the Invisible"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Wisdom and Foolishness",
+        "titleLt": "3. Wisdom and Foolishness"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Day of Judgement",
+        "titleLt": "4. The Day of Judgement"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Condemnation of the Godless",
+        "titleLt": "5. Condemnation of the Godless"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Beatitudes",
+        "titleLt": "6. Beatitudes"
+      }
+    ]
+  },
+  {
+    "slug": "dialogue-savior",
+    "title": "Dialogue of the Savior",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/dialogue/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 23277,
+    "sections": 16,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Dialogue of the Savior",
+        "titleLt": "Dialogue of the Savior"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Disciples Rest",
+        "titleLt": "1. The Disciples Rest"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. How to Pray",
+        "titleLt": "2. How to Pray"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Apocalypse",
+        "titleLt": "3. The Apocalypse"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Order Within",
+        "titleLt": "4. Order Within"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Seeking and Revealing",
+        "titleLt": "5. Seeking and Revealing"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Creation and Circumcision",
+        "titleLt": "6. Creation and Circumcision"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. The Place of Life",
+        "titleLt": "7. The Place of Life"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. Heaven and Earth",
+        "titleLt": "8. Heaven and Earth"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. Those without Knowledge",
+        "titleLt": "9. Those without Knowledge"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Jesus Reveals the Heavens",
+        "titleLt": "10. Jesus Reveals the Heavens"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. The Archons and the Bridal Chamber",
+        "titleLt": "11. The Archons and the Bridal Chamber"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. Life and Death",
+        "titleLt": "12. Life and Death"
+      },
+      {
+        "id": "14",
+        "titleEn": "13. Seek and Reveal",
+        "titleLt": "13. Seek and Reveal"
+      },
+      {
+        "id": "15",
+        "titleEn": "14. The Works of the Father and the Works of the World",
+        "titleLt": "14. The Works of the Father and the Works of the World"
+      },
+      {
+        "id": "16",
+        "titleEn": "15. Stay Diligent",
+        "titleLt": "15. Stay Diligent"
+      }
+    ]
+  },
+  {
+    "slug": "eugnostos",
+    "title": "Eugnostos",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/eugnostos/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 14728,
+    "sections": 13,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Eugnostos",
+        "titleLt": "Eugnostos"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Few Understand the Divine",
+        "titleLt": "1. Few Understand the Divine"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. He Who Is",
+        "titleLt": "2. He Who Is"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Everlasting Totality",
+        "titleLt": "3. The Everlasting Totality"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Prime Mover",
+        "titleLt": "4. The Prime Mover"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Sophia and the Immortal Human",
+        "titleLt": "5. Sophia and the Immortal Human"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The Cosmic Order",
+        "titleLt": "6. The Cosmic Order"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. The Holy Host of Angels",
+        "titleLt": "7. The Holy Host of Angels"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Consort of the Savior",
+        "titleLt": "8. The Consort of the Savior"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. The 360 Powers",
+        "titleLt": "9. The 360 Powers"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. The Aeons Assemble",
+        "titleLt": "10. The Aeons Assemble"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. The Names of the Aeons",
+        "titleLt": "11. The Names of the Aeons"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. The Aeons Complete and Coming Clarity",
+        "titleLt": "12. The Aeons Complete and Coming Clarity"
+      }
+    ]
+  },
+  {
+    "slug": "valentinus-exposition",
+    "title": "A Valentinian Exposition and Liturgical Readings",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/exposition/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 17765,
+    "sections": 18,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "A Valentinian Exposition and Liturgical Readings",
+        "titleLt": "A Valentinian Exposition and Liturgical Readings"
+      },
+      {
+        "id": "2",
+        "titleEn": "A Valentinian Exposition",
+        "titleLt": "A Valentinian Exposition"
+      },
+      {
+        "id": "3",
+        "titleEn": "1. The Root of the All",
+        "titleLt": "1. The Root of the All"
+      },
+      {
+        "id": "4",
+        "titleEn": "2. The Father and the Only One",
+        "titleLt": "2. The Father and the Only One"
+      },
+      {
+        "id": "5",
+        "titleEn": "3. The Limit",
+        "titleLt": "3. The Limit"
+      },
+      {
+        "id": "6",
+        "titleEn": "4. The Fullness",
+        "titleLt": "4. The Fullness"
+      },
+      {
+        "id": "7",
+        "titleEn": "5. Sophia's Fall",
+        "titleLt": "5. Sophia's Fall"
+      },
+      {
+        "id": "8",
+        "titleEn": "6. Sophia Repents",
+        "titleLt": "6. Sophia Repents"
+      },
+      {
+        "id": "9",
+        "titleEn": "7. The Creation",
+        "titleLt": "7. The Creation"
+      },
+      {
+        "id": "10",
+        "titleEn": "8. The Creation of the Angels",
+        "titleLt": "8. The Creation of the Angels"
+      },
+      {
+        "id": "11",
+        "titleEn": "9. From the Fall to the Flood",
+        "titleLt": "9. From the Fall to the Flood"
+      },
+      {
+        "id": "12",
+        "titleEn": "10. The All will be Rectified",
+        "titleLt": "10. The All will be Rectified"
+      },
+      {
+        "id": "13",
+        "titleEn": "Liturgical Readings",
+        "titleLt": "Liturgical Readings"
+      },
+      {
+        "id": "14",
+        "titleEn": "11. On Anointing",
+        "titleLt": "11. On Anointing"
+      },
+      {
+        "id": "15",
+        "titleEn": "12. On the First Baptism",
+        "titleLt": "12. On the First Baptism"
+      },
+      {
+        "id": "16",
+        "titleEn": "13. On Baptism",
+        "titleLt": "13. On Baptism"
+      },
+      {
+        "id": "17",
+        "titleEn": "14. On the Eucharist (A)",
+        "titleLt": "14. On the Eucharist (A)"
+      },
+      {
+        "id": "18",
+        "titleEn": "15. On the Eucharist (B)",
+        "titleLt": "15. On the Eucharist (B)"
+      }
+    ]
+  },
+  {
+    "slug": "hypsiphrone",
+    "title": "Hypsiphrone",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/hypsiphrone/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 1809,
+    "sections": 2,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Hypsiphrone",
+        "titleLt": "Hypsiphrone"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Hypsiphrone Descends",
+        "titleLt": "1. Hypsiphrone Descends"
+      }
+    ]
+  },
+  {
+    "slug": "john",
+    "title": "The Secret Book of John",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/john/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 49349,
+    "sections": 22,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Secret Book of John",
+        "titleLt": "The Secret Book of John"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. John and the Pharisee",
+        "titleLt": "1. John and the Pharisee"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Savior Appears",
+        "titleLt": "2. The Savior Appears"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Monad",
+        "titleLt": "3. The Monad"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Barbelo",
+        "titleLt": "4. Barbelo"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Pentad",
+        "titleLt": "5. The Pentad"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Christ Anointed",
+        "titleLt": "6. Christ Anointed"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. The Four Lights",
+        "titleLt": "7. The Four Lights"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. Adamas and Seth",
+        "titleLt": "8. Adamas and Seth"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. Sophia's Error",
+        "titleLt": "9. Sophia's Error"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Yaltabaoth Creates the Archons",
+        "titleLt": "10. Yaltabaoth Creates the Archons"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. The Seven Kings",
+        "titleLt": "11. The Seven Kings"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. The Mother Repents",
+        "titleLt": "12. The Mother Repents"
+      },
+      {
+        "id": "14",
+        "titleEn": "13. The Authorities Create Adam",
+        "titleLt": "13. The Authorities Create Adam"
+      },
+      {
+        "id": "15",
+        "titleEn": "14. The Spirit is Blown into Adam",
+        "titleLt": "14. The Spirit is Blown into Adam"
+      },
+      {
+        "id": "16",
+        "titleEn": "15. The Archons Conspire Against Adam",
+        "titleLt": "15. The Archons Conspire Against Adam"
+      },
+      {
+        "id": "17",
+        "titleEn": "16. The Chief Archon Creates Eve",
+        "titleLt": "16. The Chief Archon Creates Eve"
+      },
+      {
+        "id": "18",
+        "titleEn": "17. The Chief Archon Pollutes Eve",
+        "titleLt": "17. The Chief Archon Pollutes Eve"
+      },
+      {
+        "id": "19",
+        "titleEn": "18. The Destiny of Souls",
+        "titleLt": "18. The Destiny of Souls"
+      },
+      {
+        "id": "20",
+        "titleEn": "19. The Vile Spirit",
+        "titleLt": "19. The Vile Spirit"
+      },
+      {
+        "id": "21",
+        "titleEn": "20. The Savior Enters the Realm of Darkness",
+        "titleLt": "20. The Savior Enters the Realm of Darkness"
+      },
+      {
+        "id": "22",
+        "titleEn": "21. Conclusion",
+        "titleLt": "21. Conclusion"
+      }
+    ]
+  },
+  {
+    "slug": "authoritative",
+    "title": "The Authentic Logos",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/logos/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 13971,
+    "sections": 13,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Authentic Logos",
+        "titleLt": "The Authentic Logos"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Origin of the Soul",
+        "titleLt": "1. The Origin of the Soul"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Logos as Medicine",
+        "titleLt": "2. The Logos as Medicine"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Trial of the Soul",
+        "titleLt": "3. The Trial of the Soul"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Parable of the Wheat and Chaff",
+        "titleLt": "4. The Parable of the Wheat and Chaff"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Competition",
+        "titleLt": "5. The Competition"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The Healing Logos",
+        "titleLt": "6. The Healing Logos"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. The Parable of the Fish",
+        "titleLt": "7. The Parable of the Fish"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Devil’s Bait",
+        "titleLt": "8. The Devil’s Bait"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. The Right Kinds of Food",
+        "titleLt": "9. The Right Kinds of Food"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. The True Shepherd",
+        "titleLt": "10. The True Shepherd"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. The Ignorant Ones",
+        "titleLt": "11. The Ignorant Ones"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. The Soul Complete",
+        "titleLt": "12. The Soul Complete"
+      }
+    ]
+  },
+  {
+    "slug": "marsanes",
+    "title": "Marsanes",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/marsanes/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 27478,
+    "sections": 21,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Marsanes",
+        "titleLt": "Marsanes"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Father Draws Near",
+        "titleLt": "1. The Father Draws Near"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Thirteen Seals",
+        "titleLt": "2. The Thirteen Seals"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Self-Generated One",
+        "titleLt": "3. The Self-Generated One"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Nature of Silence",
+        "titleLt": "4. The Nature of Silence"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Triple-Powered One",
+        "titleLt": "5. The Triple-Powered One"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Barbelo",
+        "titleLt": "6. Barbelo"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Marsanes Ascends",
+        "titleLt": "7. Marsanes Ascends"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. Power Beyond Understanding",
+        "titleLt": "8. Power Beyond Understanding"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. Taxonomy of the Powers",
+        "titleLt": "9. Taxonomy of the Powers"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. The Signs of the Zodiac",
+        "titleLt": "10. The Signs of the Zodiac"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. Letter Mysticism",
+        "titleLt": "11. Letter Mysticism"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. Letters of the Soul",
+        "titleLt": "12. Letters of the Soul"
+      },
+      {
+        "id": "14",
+        "titleEn": "13. Letters of the Angels",
+        "titleLt": "13. Letters of the Angels"
+      },
+      {
+        "id": "15",
+        "titleEn": "14. Letter Arithmetic",
+        "titleLt": "14. Letter Arithmetic"
+      },
+      {
+        "id": "16",
+        "titleEn": "15. Syllables and Nouns",
+        "titleLt": "15. Syllables and Nouns"
+      },
+      {
+        "id": "17",
+        "titleEn": "16. The Formation of Words",
+        "titleLt": "16. The Formation of Words"
+      },
+      {
+        "id": "18",
+        "titleEn": "17. Hide These Secrets from Sinners",
+        "titleLt": "17. Hide These Secrets from Sinners"
+      },
+      {
+        "id": "19",
+        "titleEn": "18. Marsanes Responds",
+        "titleLt": "18. Marsanes Responds"
+      },
+      {
+        "id": "20",
+        "titleEn": "19. Gamaliel and the Terrifying Angels",
+        "titleLt": "19. Gamaliel and the Terrifying Angels"
+      },
+      {
+        "id": "21",
+        "titleEn": "20. Judgement",
+        "titleLt": "20. Judgement"
+      }
+    ]
+  },
+  {
+    "slug": "norea",
+    "title": "The Thought of Norea",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/norea/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 1929,
+    "sections": 5,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Thought of Norea",
+        "titleLt": "The Thought of Norea"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Norea's Prayer",
+        "titleLt": "1. Norea's Prayer"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. Norea Exalted",
+        "titleLt": "2. Norea Exalted"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Norea Speaks",
+        "titleLt": "3. Norea Speaks"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Norea Complete",
+        "titleLt": "4. Norea Complete"
+      }
+    ]
+  },
+  {
+    "slug": "origin",
+    "title": "On the Origin of the World",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/origin/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 48842,
+    "sections": 29,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "On the Origin of the World",
+        "titleLt": "On the Origin of the World"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Everyone is Wrong about Chaos",
+        "titleLt": "1. Everyone is Wrong about Chaos"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Emanation of Sophia and the Hosts",
+        "titleLt": "2. The Emanation of Sophia and the Hosts"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Manifestation of Yaldabaoth",
+        "titleLt": "3. The Manifestation of Yaldabaoth"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Yaldabaoth Creates Heaven, Earth, and Sons",
+        "titleLt": "4. Yaldabaoth Creates Heaven, Earth, and Sons"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Seven Heavens of Chaos",
+        "titleLt": "5. The Seven Heavens of Chaos"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The Transgression of Yaldabaoth",
+        "titleLt": "6. The Transgression of Yaldabaoth"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Sabaoth Sings Praises to Pistis",
+        "titleLt": "7. Sabaoth Sings Praises to Pistis"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. Sabaoth Creates Angels, Israel, and Jesus Christ",
+        "titleLt": "8. Sabaoth Creates Angels, Israel, and Jesus Christ"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. Yaldabaoth Begets Death",
+        "titleLt": "9. Yaldabaoth Begets Death"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Yaldabaoth is Ashamed",
+        "titleLt": "10. Yaldabaoth is Ashamed"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. Adam of Light",
+        "titleLt": "11. Adam of Light"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. Eros",
+        "titleLt": "12. Eros"
+      },
+      {
+        "id": "14",
+        "titleEn": "13. Paradise",
+        "titleLt": "13. Paradise"
+      },
+      {
+        "id": "15",
+        "titleEn": "14. The Creation of Plants and Animals",
+        "titleLt": "14. The Creation of Plants and Animals"
+      },
+      {
+        "id": "16",
+        "titleEn": "15. The Creation of Heavenly Bodies",
+        "titleLt": "15. The Creation of Heavenly Bodies"
+      },
+      {
+        "id": "17",
+        "titleEn": "16. The Creation of the Man",
+        "titleLt": "16. The Creation of the Man"
+      },
+      {
+        "id": "18",
+        "titleEn": "17. Eve",
+        "titleLt": "17. Eve"
+      },
+      {
+        "id": "19",
+        "titleEn": "18. The Seven Archons Fashion Adam",
+        "titleLt": "18. The Seven Archons Fashion Adam"
+      },
+      {
+        "id": "20",
+        "titleEn": "19. Eve Gives Life to Adam",
+        "titleLt": "19. Eve Gives Life to Adam"
+      },
+      {
+        "id": "21",
+        "titleEn": "20. The Authorities and their Angels Assault the Likeness of Eve",
+        "titleLt": "20. The Authorities and their Angels Assault the Likeness of Eve"
+      },
+      {
+        "id": "22",
+        "titleEn": "21. The Offspring of the Archon, the Authorities, and their Angels",
+        "titleLt": "21. The Offspring of the Archon, the Authorities, and their Angels"
+      },
+      {
+        "id": "23",
+        "titleEn": "22. The Tree of Knowledge",
+        "titleLt": "22. The Tree of Knowledge"
+      },
+      {
+        "id": "24",
+        "titleEn": "23. The Archons Curse Eve, Adam, and All Creation",
+        "titleLt": "23. The Archons Curse Eve, Adam, and All Creation"
+      },
+      {
+        "id": "25",
+        "titleEn": "24. Sophia Zoe",
+        "titleLt": "24. Sophia Zoe"
+      },
+      {
+        "id": "26",
+        "titleEn": "25. The Seven Archons and their Demonic Angels",
+        "titleLt": "25. The Seven Archons and their Demonic Angels"
+      },
+      {
+        "id": "27",
+        "titleEn": "26. The Deathless Man",
+        "titleLt": "26. The Deathless Man"
+      },
+      {
+        "id": "28",
+        "titleEn": "27. The Logos",
+        "titleLt": "27. The Logos"
+      },
+      {
+        "id": "29",
+        "titleEn": "28. The Consummation of the Age",
+        "titleLt": "28. The Consummation of the Age"
+      }
+    ]
+  },
+  {
+    "slug": "apocalypse-paul",
+    "title": "The Revelation of Paul",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/paul/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 6323,
+    "sections": 7,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Revelation of Paul",
+        "titleLt": "The Revelation of Paul"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Small Child's Revelation",
+        "titleLt": "1. The Small Child's Revelation"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The 3rd and 4th Heavens and the Trial of the Soul",
+        "titleLt": "2. The 3rd and 4th Heavens and the Trial of the Soul"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The 5th Heaven",
+        "titleLt": "3. The 5th Heaven"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The 6th Heaven",
+        "titleLt": "4. The 6th Heaven"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The 7th Heaven and the Ancient of Days",
+        "titleLt": "5. The 7th Heaven and the Ancient of Days"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The 8th, 9th, and 10th Heavens",
+        "titleLt": "6. The 8th, 9th, and 10th Heavens"
+      }
+    ]
+  },
+  {
+    "slug": "peter-philip",
+    "title": "The Letter of Peter to Philip",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/peter-philip/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 8779,
+    "sections": 9,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Letter of Peter to Philip",
+        "titleLt": "The Letter of Peter to Philip"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Peter Writes to Philip",
+        "titleLt": "1. Peter Writes to Philip"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. Peter Gathers the Apostles to Pray for Safety",
+        "titleLt": "2. Peter Gathers the Apostles to Pray for Safety"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Jesus Appears to the Apostles",
+        "titleLt": "3. Jesus Appears to the Apostles"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Tyrannical One",
+        "titleLt": "4. The Tyrannical One"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Incarnation of Jesus Christ",
+        "titleLt": "5. The Incarnation of Jesus Christ"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Battling the Powers",
+        "titleLt": "6. Battling the Powers"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Suffering and Death",
+        "titleLt": "7. Suffering and Death"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Apostles Set Out",
+        "titleLt": "8. The Apostles Set Out"
+      }
+    ]
+  },
+  {
+    "slug": "plato-republic",
+    "title": "Plato's Republic",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/plato/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 3601,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Plato's Republic",
+        "titleLt": "Plato's Republic"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Plato's Republic",
+        "titleLt": "1. Plato's Republic"
+      }
+    ]
+  },
+  {
+    "slug": "great-power",
+    "title": "The Idea of Our Great Power",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/power/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 12859,
+    "sections": 12,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Idea of Our Great Power",
+        "titleLt": "The Idea of Our Great Power"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Our Great Power",
+        "titleLt": "1. Our Great Power"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. In the Beginning",
+        "titleLt": "2. In the Beginning"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Noah and The Aeon of Matter",
+        "titleLt": "3. Noah and The Aeon of Matter"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Psychic (or Soulish) Aeon",
+        "titleLt": "4. The Psychic (or Soulish) Aeon"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Life and Death of the One Who Knows",
+        "titleLt": "5. The Life and Death of the One Who Knows"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. He Defeats the Archons",
+        "titleLt": "6. He Defeats the Archons"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Many Follow Him",
+        "titleLt": "7. Many Follow Him"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Archons Strike Back",
+        "titleLt": "8. The Archons Strike Back"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. The Archon of the West",
+        "titleLt": "9. The Archon of the West"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Judgment by Fire",
+        "titleLt": "10. Judgment by Fire"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. The Aeon of Beauty",
+        "titleLt": "11. The Aeon of Beauty"
+      }
+    ]
+  },
+  {
+    "slug": "prayer-paul",
+    "title": "Prayer of the Apostle Paul",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/prayer/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 1847,
+    "sections": 4,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Prayer of the Apostle Paul",
+        "titleLt": "Prayer of the Apostle Paul"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Petition for Union",
+        "titleLt": "1. The Petition for Union"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Petition for Authority",
+        "titleLt": "2. The Petition for Authority"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Petition for Gnosis",
+        "titleLt": "3. The Petition for Gnosis"
+      }
+    ]
+  },
+  {
+    "slug": "rheginos",
+    "title": "Treatise on the Resurrection",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/resurrection/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 8608,
+    "sections": 12,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Treatise on the Resurrection",
+        "titleLt": "Treatise on the Resurrection"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Search for Answers",
+        "titleLt": "1. The Search for Answers"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Lord was Human and Divine",
+        "titleLt": "2. The Lord was Human and Divine"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Savior Swallowed Up Death",
+        "titleLt": "3. The Savior Swallowed Up Death"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Spiritual Resurrection",
+        "titleLt": "4. The Spiritual Resurrection"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Faith and Reason",
+        "titleLt": "5. Faith and Reason"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Chosen for Salvation",
+        "titleLt": "6. Chosen for Salvation"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. The Flesh and the All",
+        "titleLt": "7. The Flesh and the All"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Resurrection is Real",
+        "titleLt": "8. The Resurrection is Real"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. The World is an Illusion",
+        "titleLt": "9. The World is an Illusion"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Experience the Resurrection Now",
+        "titleLt": "10. Experience the Resurrection Now"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. Conclusion",
+        "titleLt": "11. Conclusion"
+      }
+    ]
+  },
+  {
+    "slug": "sextus",
+    "title": "The Sentences of Sextus",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/sextus/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 10972,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Sentences of Sextus",
+        "titleLt": "The Sentences of Sextus"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Coptic",
+        "titleLt": "1. Coptic"
+      }
+    ]
+  },
+  {
+    "slug": "silvanus",
+    "title": "The Teachings of Silvanus",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/silvanus/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 39070,
+    "sections": 22,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Teachings of Silvanus",
+        "titleLt": "The Teachings of Silvanus"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Fortify Your Mind Like a City",
+        "titleLt": "1. Fortify Your Mind Like a City"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. Unwholesome Thoughts are Dangerous Beasts",
+        "titleLt": "2. Unwholesome Thoughts are Dangerous Beasts"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Reason and Mind",
+        "titleLt": "3. Reason and Mind"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Wisdom and Folly",
+        "titleLt": "4. Wisdom and Folly"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Come Back to Your Divine Nature",
+        "titleLt": "5. Come Back to Your Divine Nature"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Know Yourself",
+        "titleLt": "6. Know Yourself"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. The Plots of the Enemy",
+        "titleLt": "7. The Plots of the Enemy"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. Trust No One to Be Your Friend",
+        "titleLt": "8. Trust No One to Be Your Friend"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. Live Together with Christ",
+        "titleLt": "9. Live Together with Christ"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Recognize God through Christ",
+        "titleLt": "10. Recognize God through Christ"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. Examine Yourself",
+        "titleLt": "11. Examine Yourself"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. Christ Rescues the Children of Death",
+        "titleLt": "12. Christ Rescues the Children of Death"
+      },
+      {
+        "id": "14",
+        "titleEn": "13. Be Not a Tomb",
+        "titleLt": "13. Be Not a Tomb"
+      },
+      {
+        "id": "15",
+        "titleEn": "14. Christ is Wisdom; You are a Door",
+        "titleLt": "14. Christ is Wisdom; You are a Door"
+      },
+      {
+        "id": "16",
+        "titleEn": "15. The Soul That is Pure",
+        "titleLt": "15. The Soul That is Pure"
+      },
+      {
+        "id": "17",
+        "titleEn": "16. The Temple Inside You",
+        "titleLt": "16. The Temple Inside You"
+      },
+      {
+        "id": "18",
+        "titleEn": "17. Christ is the True Friend",
+        "titleLt": "17. Christ is the True Friend"
+      },
+      {
+        "id": "19",
+        "titleEn": "18. A Hymn of Praise",
+        "titleLt": "18. A Hymn of Praise"
+      },
+      {
+        "id": "20",
+        "titleEn": "19. Fight the Great Fight",
+        "titleLt": "19. Fight the Great Fight"
+      },
+      {
+        "id": "21",
+        "titleEn": "20. God is Manifest, Yet Hidden",
+        "titleLt": "20. God is Manifest, Yet Hidden"
+      },
+      {
+        "id": "22",
+        "titleEn": "21. Knock and Receive the Inexpressible Miracle",
+        "titleLt": "21. Knock and Receive the Inexpressible Miracle"
+      }
+    ]
+  },
+  {
+    "slug": "sophia-jesus",
+    "title": "The Sophia of Jesus Christ",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/sophia/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 23372,
+    "sections": 12,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Sophia of Jesus Christ",
+        "titleLt": "The Sophia of Jesus Christ"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Savior Appears",
+        "titleLt": "1. The Savior Appears"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. He Who Is",
+        "titleLt": "2. He Who Is"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Appearance and Spirit of He Who Is",
+        "titleLt": "3. The Appearance and Spirit of He Who Is"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Reflection of the Father",
+        "titleLt": "4. The Reflection of the Father"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. The Immortal Human, Sophia, and Ogdoad",
+        "titleLt": "5. The Immortal Human, Sophia, and Ogdoad"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The First-Begotten Androgynous Son",
+        "titleLt": "6. The First-Begotten Androgynous Son"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Pistis Sophia",
+        "titleLt": "7. Pistis Sophia"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Greater Aeons",
+        "titleLt": "8. The Greater Aeons"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. The Angels, Firmaments, and Realms",
+        "titleLt": "9. The Angels, Firmaments, and Realms"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Mother Sophia and Yaldabaoth",
+        "titleLt": "10. Mother Sophia and Yaldabaoth"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. Final Exhortation and Joyful Preaching",
+        "titleLt": "11. Final Exhortation and Joyful Preaching"
+      }
+    ]
+  },
+  {
+    "slug": "soul",
+    "title": "Exegesis on the Soul",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/soul/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 16523,
+    "sections": 8,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Exegesis on the Soul",
+        "titleLt": "Exegesis on the Soul"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. The Fall of the Soul",
+        "titleLt": "1. The Fall of the Soul"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Prostitution of the Soul according to the Scriptures",
+        "titleLt": "2. The Prostitution of the Soul according to the Scriptures"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Restoration of the Soul",
+        "titleLt": "3. The Restoration of the Soul"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Marriage of the Soul",
+        "titleLt": "4. The Marriage of the Soul"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Repentance",
+        "titleLt": "5. Repentance"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The Repentance of Odysseus and Helen",
+        "titleLt": "6. The Repentance of Odysseus and Helen"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Conclusion",
+        "titleLt": "7. Conclusion"
+      }
+    ]
+  },
+  {
+    "slug": "testimony-truth",
+    "title": "The Testimony of Truth",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/testimony/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 26238,
+    "sections": 17,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Testimony of Truth",
+        "titleLt": "The Testimony of Truth"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Reject The Law",
+        "titleLt": "1. Reject The Law"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Arrival of the Son of Man",
+        "titleLt": "2. The Arrival of the Son of Man"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. The Error of the Martyrs",
+        "titleLt": "3. The Error of the Martyrs"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Resurrection",
+        "titleLt": "4. The Resurrection"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Born Again by the Logos",
+        "titleLt": "5. Born Again by the Logos"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Renounce the World",
+        "titleLt": "6. Renounce the World"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. The Testimony of the Saved",
+        "titleLt": "7. The Testimony of the Saved"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. John and Elizabeth vs. Christ and Maria",
+        "titleLt": "8. John and Elizabeth vs. Christ and Maria"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. The Jealous God",
+        "titleLt": "9. The Jealous God"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. The Serpent is Christ",
+        "titleLt": "10. The Serpent is Christ"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. The Confusion of the Heretics",
+        "titleLt": "11. The Confusion of the Heretics"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. The One who Possesses Wisdom",
+        "titleLt": "12. The One who Possesses Wisdom"
+      },
+      {
+        "id": "14",
+        "titleEn": "13. The Generation of the Son of Man",
+        "titleLt": "13. The Generation of the Son of Man"
+      },
+      {
+        "id": "15",
+        "titleEn": "14. True Baptism",
+        "titleLt": "14. True Baptism"
+      },
+      {
+        "id": "16",
+        "titleEn": "15. Idol Worship and Demons",
+        "titleLt": "15. Idol Worship and Demons"
+      },
+      {
+        "id": "17",
+        "titleEn": "16. Conclusion",
+        "titleLt": "16. Conclusion"
+      }
+    ]
+  },
+  {
+    "slug": "thanksgiving",
+    "title": "The Prayer of Thanksgiving",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/thanksgiving/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 1755,
+    "sections": 3,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Prayer of Thanksgiving",
+        "titleLt": "The Prayer of Thanksgiving"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Gratitude for Revelation",
+        "titleLt": "1. Gratitude for Revelation"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. To Know the Father",
+        "titleLt": "2. To Know the Father"
+      }
+    ]
+  },
+  {
+    "slug": "protennoia",
+    "title": "Trimorphic Protennoia",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/thought/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 24383,
+    "sections": 17,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Trimorphic Protennoia",
+        "titleLt": "Trimorphic Protennoia"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Primal Thought",
+        "titleLt": "1. Primal Thought"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. The Concealed Voice",
+        "titleLt": "2. The Concealed Voice"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Rescued by the Mystery",
+        "titleLt": "3. Rescued by the Mystery"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. The Logos and the Three Names",
+        "titleLt": "4. The Logos and the Three Names"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. I am Barbelo",
+        "titleLt": "5. I am Barbelo"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. The Perfect Son and the Aeons",
+        "titleLt": "6. The Perfect Son and the Aeons"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. The Four Aeons",
+        "titleLt": "7. The Four Aeons"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. The Origin of Yaldabaoth",
+        "titleLt": "8. The Origin of Yaldabaoth"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. Primal Thought Responds",
+        "titleLt": "9. Primal Thought Responds"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Primal Thought is the Mother of the Voice",
+        "titleLt": "10. Primal Thought is the Mother of the Voice"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. The Time of Fulfillment",
+        "titleLt": "11. The Time of Fulfillment"
+      },
+      {
+        "id": "13",
+        "titleEn": "12. Primal Thought is Androgynous",
+        "titleLt": "12. Primal Thought is Androgynous"
+      },
+      {
+        "id": "14",
+        "titleEn": "13. Primal Thought is the Logos",
+        "titleLt": "13. Primal Thought is the Logos"
+      },
+      {
+        "id": "15",
+        "titleEn": "14. The Three Descents of Primal Thought",
+        "titleLt": "14. The Three Descents of Primal Thought"
+      },
+      {
+        "id": "16",
+        "titleEn": "15. The Five Seals",
+        "titleLt": "15. The Five Seals"
+      },
+      {
+        "id": "17",
+        "titleEn": "16. Primal Thought Saves the Sons of Light, Including Jesus",
+        "titleLt": "16. Primal Thought Saves the Sons of Light, Including Jesus"
+      }
+    ]
+  },
+  {
+    "slug": "thunder",
+    "title": "The Thunder, Perfect Mind",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/thunder/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 9892,
+    "sections": 12,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Thunder, Perfect Mind",
+        "titleLt": "The Thunder, Perfect Mind"
+      },
+      {
+        "id": "2",
+        "titleEn": "1. Introduction",
+        "titleLt": "1. Introduction"
+      },
+      {
+        "id": "3",
+        "titleEn": "2. First “I Am” Speech",
+        "titleLt": "2. First “I Am” Speech"
+      },
+      {
+        "id": "4",
+        "titleEn": "3. Heed Me",
+        "titleLt": "3. Heed Me"
+      },
+      {
+        "id": "5",
+        "titleEn": "4. Why Do You Hate Me?",
+        "titleLt": "4. Why Do You Hate Me?"
+      },
+      {
+        "id": "6",
+        "titleEn": "5. Second “I Am” Speech",
+        "titleLt": "5. Second “I Am” Speech"
+      },
+      {
+        "id": "7",
+        "titleEn": "6. Embrace Me",
+        "titleLt": "6. Embrace Me"
+      },
+      {
+        "id": "8",
+        "titleEn": "7. Third “I Am” Speech",
+        "titleLt": "7. Third “I Am” Speech"
+      },
+      {
+        "id": "9",
+        "titleEn": "8. I Am the Call",
+        "titleLt": "8. I Am the Call"
+      },
+      {
+        "id": "10",
+        "titleEn": "9. I am Justice",
+        "titleLt": "9. I am Justice"
+      },
+      {
+        "id": "11",
+        "titleEn": "10. Obey Me and Live Forever",
+        "titleLt": "10. Obey Me and Live Forever"
+      },
+      {
+        "id": "12",
+        "titleEn": "11. Heed His Words",
+        "titleLt": "11. Heed His Words"
+      }
+    ]
+  },
+  {
+    "slug": "tripartite",
+    "title": "The Tripartite Tractate",
+    "translator": "Samuel Zinner (ed. Mark Mattison)",
+    "source": "https://othergospels.com/tripartite/",
+    "license": "Public Domain (Other Gospels NHC Initiative dedication)",
+    "chars": 108921,
+    "sections": 34,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Tripartite Tractate",
+        "titleLt": "The Tripartite Tractate"
+      },
+      {
+        "id": "2",
+        "titleEn": "Tract 1Cosmology",
+        "titleLt": "Tract 1Cosmology"
+      },
+      {
+        "id": "3",
+        "titleEn": "1. The Father",
+        "titleLt": "1. The Father"
+      },
+      {
+        "id": "4",
+        "titleEn": "2. The Son",
+        "titleLt": "2. The Son"
+      },
+      {
+        "id": "5",
+        "titleEn": "3. The Church",
+        "titleLt": "3. The Church"
+      },
+      {
+        "id": "6",
+        "titleEn": "4. The Aeons",
+        "titleLt": "4. The Aeons"
+      },
+      {
+        "id": "7",
+        "titleEn": "5. The All",
+        "titleLt": "5. The All"
+      },
+      {
+        "id": "8",
+        "titleEn": "6. The Procreation of the Aeons",
+        "titleLt": "6. The Procreation of the Aeons"
+      },
+      {
+        "id": "9",
+        "titleEn": "7. The Father and the Son",
+        "titleLt": "7. The Father and the Son"
+      },
+      {
+        "id": "10",
+        "titleEn": "8. The Aeons Procreate",
+        "titleLt": "8. The Aeons Procreate"
+      },
+      {
+        "id": "11",
+        "titleEn": "9. The Aeons Seek the Father",
+        "titleLt": "9. The Aeons Seek the Father"
+      },
+      {
+        "id": "12",
+        "titleEn": "10. The Nature of Emanation",
+        "titleLt": "10. The Nature of Emanation"
+      },
+      {
+        "id": "13",
+        "titleEn": "11. The Mistake of the Last Aeon, the Word",
+        "titleLt": "11. The Mistake of the Last Aeon, the Word"
+      },
+      {
+        "id": "14",
+        "titleEn": "12. The Conversion Called “Repentance”",
+        "titleLt": "12. The Conversion Called “Repentance”"
+      },
+      {
+        "id": "15",
+        "titleEn": "13. The Battle Between the Emanations",
+        "titleLt": "13. The Battle Between the Emanations"
+      },
+      {
+        "id": "16",
+        "titleEn": "14. The Aeons’ Prayer Produces the Son",
+        "titleLt": "14. The Aeons’ Prayer Produces the Son"
+      },
+      {
+        "id": "17",
+        "titleEn": "15. The Son Reveals Himself",
+        "titleLt": "15. The Son Reveals Himself"
+      },
+      {
+        "id": "18",
+        "titleEn": "16. The Fullness of the Word",
+        "titleLt": "16. The Fullness of the Word"
+      },
+      {
+        "id": "19",
+        "titleEn": "17. The Aeon of the Word",
+        "titleLt": "17. The Aeon of the Word"
+      },
+      {
+        "id": "20",
+        "titleEn": "18. The Work of the Word",
+        "titleLt": "18. The Work of the Word"
+      },
+      {
+        "id": "21",
+        "titleEn": "19. The Two Orders",
+        "titleLt": "19. The Two Orders"
+      },
+      {
+        "id": "22",
+        "titleEn": "20. The Demiurge",
+        "titleLt": "20. The Demiurge"
+      },
+      {
+        "id": "23",
+        "titleEn": "Tract 2The Creation of Humanity",
+        "titleLt": "Tract 2The Creation of Humanity"
+      },
+      {
+        "id": "24",
+        "titleEn": "21. The Origins of Humanity and Death",
+        "titleLt": "21. The Origins of Humanity and Death"
+      },
+      {
+        "id": "25",
+        "titleEn": "Tract 3Destinies and Fates",
+        "titleLt": "Tract 3Destinies and Fates"
+      },
+      {
+        "id": "26",
+        "titleEn": "22. Different Opinions",
+        "titleLt": "22. Different Opinions"
+      },
+      {
+        "id": "27",
+        "titleEn": "23. The Prophesied Savior",
+        "titleLt": "23. The Prophesied Savior"
+      },
+      {
+        "id": "28",
+        "titleEn": "24. The Incarnation",
+        "titleLt": "24. The Incarnation"
+      },
+      {
+        "id": "29",
+        "titleEn": "25. Three Categories of Humans",
+        "titleLt": "25. Three Categories of Humans"
+      },
+      {
+        "id": "30",
+        "titleEn": "26. The Election, the Calling, the Restoration, and the Redemption",
+        "titleLt": "26. The Election, the Calling, the Restoration, and the Redemption"
+      },
+      {
+        "id": "31",
+        "titleEn": "27. The Father’s Revelation",
+        "titleLt": "27. The Father’s Revelation"
+      },
+      {
+        "id": "32",
+        "titleEn": "28. The True Baptism",
+        "titleLt": "28. The True Baptism"
+      },
+      {
+        "id": "33",
+        "titleEn": "29. More about the Calling",
+        "titleLt": "29. More about the Calling"
+      },
+      {
+        "id": "34",
+        "titleEn": "30. Conclusion",
+        "titleLt": "30. Conclusion"
+      }
+    ]
+  },
+  {
+    "slug": "apelles",
+    "title": "Apelles",
+    "translator": "G.R.S. Mead",
+    "source": "http://www.gnosis.org/library/grs-mead/fragments_faith_forgotten/fff39.htm",
+    "license": "Public Domain (US; Mead Fragments of a Faith Forgotten, 1900)",
+    "chars": 4229,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Apelles",
+        "titleLt": "Apelles"
+      },
+      {
+        "id": "2",
+        "titleEn": "APELLES.",
+        "titleLt": "APELLES."
+      }
+    ]
+  },
+  {
+    "slug": "pistis-sophia",
+    "title": "Pistis Sophia",
+    "translator": "G.R.S. Mead",
+    "source": "https://archive.org/details/pistissophia00mead",
+    "license": "Public Domain (US; Mead 1896)",
+    "chars": 598907,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Pistis Sophia",
+        "titleLt": "Pistis Sophia"
+      }
+    ]
+  },
+  {
+    "slug": "valentinian-movement",
+    "title": "The Valentinian Movement",
+    "translator": "G.R.S. Mead",
+    "source": "http://www.gnosis.org/library/grs-mead/fragments_faith_forgotten/fff41.htm",
+    "license": "Public Domain (US; Mead Fragments of a Faith Forgotten, 1900)",
+    "chars": 15339,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "The Valentinian Movement",
+        "titleLt": "The Valentinian Movement"
+      },
+      {
+        "id": "2",
+        "titleEn": "THE VALENTINIAN MOVEMENT.",
+        "titleLt": "THE VALENTINIAN MOVEMENT."
+      }
+    ]
+  },
+  {
+    "slug": "valentinus",
+    "title": "Valentinus",
+    "translator": "G.R.S. Mead",
+    "source": "http://www.gnosis.org/library/grs-mead/fragments_faith_forgotten/fff42.htm",
+    "license": "Public Domain (US; Mead Fragments of a Faith Forgotten, 1900)",
+    "chars": 8323,
+    "sections": 2,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Valentinus",
+        "titleLt": "Valentinus"
+      },
+      {
+        "id": "2",
+        "titleEn": "VALENTINUS.",
+        "titleLt": "VALENTINUS."
+      }
+    ]
+  },
+  {
+    "slug": "james-fragments",
+    "title": "Fragments of Early Gospels, Etc.",
+    "translator": "Montague Rhodes James",
+    "source": "https://en.wikisource.org/wiki/The_Apocryphal_New_Testament_(1924)/Fragments_of_Early_Gospels",
+    "license": "Public Domain (US; James Apocryphal New Testament 1924)",
+    "chars": 49960,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Fragments of Early Gospels, Etc.",
+        "titleLt": "Fragments of Early Gospels, Etc."
+      }
+    ]
+  },
+  {
+    "slug": "lost-heretical",
+    "title": "Lost Heretical Books",
+    "translator": "Montague Rhodes James",
+    "source": "https://en.wikisource.org/wiki/The_Apocryphal_New_Testament_(1924)/Lost_Heretical_Books",
+    "license": "Public Domain (US; James Apocryphal New Testament 1924)",
+    "chars": 12630,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Lost Heretical Books",
+        "titleLt": "Lost Heretical Books"
+      }
+    ]
+  },
+  {
+    "slug": "against-marcion-1",
+    "title": "Against Marcion, Book I",
+    "translator": "Alexander Roberts, James Donaldson, A. Cleveland Coxe (ANF)",
+    "source": "https://www.newadvent.org/fathers/03121.htm",
+    "license": "Public Domain (US; Ante-Nicene Fathers, 1885)",
+    "chars": 101859,
+    "sections": 31,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Against Marcion, Book I",
+        "titleLt": "Against Marcion, Book I"
+      },
+      {
+        "id": "2",
+        "titleEn": "Chapter 1. Preface. Reason for a New Work. Pontus Lends Its Rough Character to the Heretic Marcion, a Native. His Heresy Characterized in a Brief Invective.",
+        "titleLt": "Chapter 1. Preface. Reason for a New Work. Pontus Lends Its Rough Character to the Heretic Marcion, a Native. His Heresy Characterized in a Brief Invective."
+      },
+      {
+        "id": "3",
+        "titleEn": "Chapter 2. Marcion, Aided by Cerdon, Teaches a Duality of Gods; How He Constructed This Heresy of an Evil and a Good God.",
+        "titleLt": "Chapter 2. Marcion, Aided by Cerdon, Teaches a Duality of Gods; How He Constructed This Heresy of an Evil and a Good God."
+      },
+      {
+        "id": "4",
+        "titleEn": "Chapter 3. The Unity of God. He is the Supreme Being, and There Cannot Be a Second Supreme.",
+        "titleLt": "Chapter 3. The Unity of God. He is the Supreme Being, and There Cannot Be a Second Supreme."
+      },
+      {
+        "id": "5",
+        "titleEn": "Chapter 4. Defence of the Divine Unity Against Objection. No Analogy Between Human Powers and God's Sovereignty. The Objection Otherwise Untenable, for Why Stop at Two Gods?",
+        "titleLt": "Chapter 4. Defence of the Divine Unity Against Objection. No Analogy Between Human Powers and God's Sovereignty. The Objection Otherwise Untenable, for Why Stop at Two Gods?"
+      },
+      {
+        "id": "6",
+        "titleEn": "Chapter 5. The Dual Principle Falls to the Ground; Plurality of Gods, of Whatever Number, More Consistent. Absurdity and Injury to Piety Resulting from Marcion's Duality.",
+        "titleLt": "Chapter 5. The Dual Principle Falls to the Ground; Plurality of Gods, of Whatever Number, More Consistent. Absurdity and Injury to Piety Resulting from Marcion's Duality."
+      },
+      {
+        "id": "7",
+        "titleEn": "Chapter 6. Marcion Untrue to His Theory. He Pretends that His Gods are Equal, But He Really Makes Them Diverse. Then, Allowing Their Divinity, Denies This Diversity.",
+        "titleLt": "Chapter 6. Marcion Untrue to His Theory. He Pretends that His Gods are Equal, But He Really Makes Them Diverse. Then, Allowing Their Divinity, Denies This Diversity."
+      },
+      {
+        "id": "8",
+        "titleEn": "Chapter 7. Other Beings Besides God are in Scripture Called God. This Objection Frivolous, for It is Not a Question of Names. The Divine Essence is the Thing at Issue. Heresy, in Its General Terms, Thus Far Treated.",
+        "titleLt": "Chapter 7. Other Beings Besides God are in Scripture Called God. This Objection Frivolous, for It is Not a Question of Names. The Divine Essence is the Thing at Issue. Heresy, in Its General Terms, Thus Far Treated."
+      },
+      {
+        "id": "9",
+        "titleEn": "Chapter 8. Specific Points. The Novelty of Marcion's God Fatal to His Pretensions. God is from Everlasting, He Cannot Be in Any Wise New.",
+        "titleLt": "Chapter 8. Specific Points. The Novelty of Marcion's God Fatal to His Pretensions. God is from Everlasting, He Cannot Be in Any Wise New."
+      },
+      {
+        "id": "10",
+        "titleEn": "Chapter 9. Marcion's Gnostic Pretensions Vain, for the True God is Neither Unknown Nor Uncertain. The Creator, Whom He Owns to Be God, Alone Supplies an Induction, by Which to Judge of the True God.",
+        "titleLt": "Chapter 9. Marcion's Gnostic Pretensions Vain, for the True God is Neither Unknown Nor Uncertain. The Creator, Whom He Owns to Be God, Alone Supplies an Induction, by Which to Judge of the True God."
+      },
+      {
+        "id": "11",
+        "titleEn": "Chapter 10. The Creator Was Known as the True God from the First by His Creation. Acknowledged by the Soul and Conscience of Man Before He Was Revealed by Moses.",
+        "titleLt": "Chapter 10. The Creator Was Known as the True God from the First by His Creation. Acknowledged by the Soul and Conscience of Man Before He Was Revealed by Moses."
+      },
+      {
+        "id": "12",
+        "titleEn": "Chapter 11. The Evidence for God External to Him; But the External Creation Which Yields This Evidence is Really Not Extraneous, for All Things are God's. Marcion's God, Having Nothing to Show for Himself, No God at All. Marcion's Scheme Absurdly Defective, Not Furnishing Evidence for His New God's Existence, Which Should at Least Be Able to Compete with the Full Evidence of the Creator.",
+        "titleLt": "Chapter 11. The Evidence for God External to Him; But the External Creation Which Yields This Evidence is Really Not Extraneous, for All Things are God's. Marcion's God, Having Nothing to Show for Himself, No God at All. Marcion's Scheme Absurdly Defective, Not Furnishing Evidence for His New God's Existence, Which Should at Least Be Able to Compete with the Full Evidence of the Creator."
+      },
+      {
+        "id": "13",
+        "titleEn": "Chapter 12. Impossibility of Acknowledging God Without This External Evidence  Of His Existence. Marcion's Rejection of Such Evidence for His God Savours of Impudence and Malignity.",
+        "titleLt": "Chapter 12. Impossibility of Acknowledging God Without This External Evidence  Of His Existence. Marcion's Rejection of Such Evidence for His God Savours of Impudence and Malignity."
+      },
+      {
+        "id": "14",
+        "titleEn": "Chapter 13. The Marcionites Depreciate the Creation, Which, However, is a Worthy Witness of God. This Worthiness Illustrated by References to the Heathen Philosophers, Who Were Apt to Invest the Several Parts of Creation with Divine Attributes.",
+        "titleLt": "Chapter 13. The Marcionites Depreciate the Creation, Which, However, is a Worthy Witness of God. This Worthiness Illustrated by References to the Heathen Philosophers, Who Were Apt to Invest the Several Parts of Creation with Divine Attributes."
+      },
+      {
+        "id": "15",
+        "titleEn": "Chapter 14. All Portions of Creation Attest the Excellence of the Creator, Whom Marcion Vilifies. His Inconsistency Herein Exposed. Marcion's Own God Did Not Hesitate to Use the Creator's Works in Instituting His Own Religion.",
+        "titleLt": "Chapter 14. All Portions of Creation Attest the Excellence of the Creator, Whom Marcion Vilifies. His Inconsistency Herein Exposed. Marcion's Own God Did Not Hesitate to Use the Creator's Works in Instituting His Own Religion."
+      },
+      {
+        "id": "16",
+        "titleEn": "Chapter 15. The Lateness of the Revelation of Marcion's God. The Question of the Place Occupied by the Rival Deities. Instead of Two Gods, Marcion Really (Although, as It Would Seem, Unconsciously) Had Nine Gods in His System.",
+        "titleLt": "Chapter 15. The Lateness of the Revelation of Marcion's God. The Question of the Place Occupied by the Rival Deities. Instead of Two Gods, Marcion Really (Although, as It Would Seem, Unconsciously) Had Nine Gods in His System."
+      },
+      {
+        "id": "17",
+        "titleEn": "Chapter 16. Marcion Assumes the Existence of Two Gods from the Antithesis Between Things Visible and Things Invisible. This Antithetical Principle in Fact Characteristic of the Works of the Creator, the One God — Maker of All Things Visible and Invisible.",
+        "titleLt": "Chapter 16. Marcion Assumes the Existence of Two Gods from the Antithesis Between Things Visible and Things Invisible. This Antithetical Principle in Fact Characteristic of the Works of the Creator, the One God — Maker of All Things Visible and Invisible."
+      },
+      {
+        "id": "18",
+        "titleEn": "Chapter 17. Not Enough, as the Marcionites Pretend, that the Supreme God Should Rescue Man; He Must Also Have Created Him. The Existence of God Proved by His Creation, a Prior Consideration to His Character.",
+        "titleLt": "Chapter 17. Not Enough, as the Marcionites Pretend, that the Supreme God Should Rescue Man; He Must Also Have Created Him. The Existence of God Proved by His Creation, a Prior Consideration to His Character."
+      },
+      {
+        "id": "19",
+        "titleEn": "Chapter 18. Notwithstanding Their Conceits, the God of the Marcionites Fails in the Vouchers Both of Created Evidence and of Adequate Revelation.",
+        "titleLt": "Chapter 18. Notwithstanding Their Conceits, the God of the Marcionites Fails in the Vouchers Both of Created Evidence and of Adequate Revelation."
+      },
+      {
+        "id": "20",
+        "titleEn": "Chapter 19. Jesus Christ, the Revealer of the Creator, Could Not Be the Same as Marcion's God, Who Was Only Made Known by the Heretic Some CXV. Years After Christ, and That, Too, on a Principle Utterly Unsuited to the Teaching of Jesus Christ, I.e., the Opposition Between the Law and the Gospels.",
+        "titleLt": "Chapter 19. Jesus Christ, the Revealer of the Creator, Could Not Be the Same as Marcion's God, Who Was Only Made Known by the Heretic Some CXV. Years After Christ, and That, Too, on a Principle Utterly Unsuited to the Teaching of Jesus Christ, I.e., the Opposition Between the Law and the Gospels."
+      },
+      {
+        "id": "21",
+        "titleEn": "Chapter 20. Marcion, Justifying His Antithesis Between the Law and the Gospel by the Contention of St. Paul with St. Peter, Shown to Have Mistaken St. Paul's Position and Argument. Marcion's Doctrine Confuted Out of St. Paul's Teaching, Which Agrees Wholly with the Creator's Decrees.",
+        "titleLt": "Chapter 20. Marcion, Justifying His Antithesis Between the Law and the Gospel by the Contention of St. Paul with St. Peter, Shown to Have Mistaken St. Paul's Position and Argument. Marcion's Doctrine Confuted Out of St. Paul's Teaching, Which Agrees Wholly with the Creator's Decrees."
+      },
+      {
+        "id": "22",
+        "titleEn": "Chapter 21. St. Paul Preached No New God, When He Announced the Repeal of Some of God's Ancient Ordinances. Never Any Hesitation About Belief in the Creator, as the God Whom Christ Revealed, Until Marcion's Heresy.",
+        "titleLt": "Chapter 21. St. Paul Preached No New God, When He Announced the Repeal of Some of God's Ancient Ordinances. Never Any Hesitation About Belief in the Creator, as the God Whom Christ Revealed, Until Marcion's Heresy."
+      },
+      {
+        "id": "23",
+        "titleEn": "Chapter 22. God's Attribute of Goodness Considered as Natural; The God of Marcion Found Wanting Herein. It Came Not to Man's Rescue When First Wanted.",
+        "titleLt": "Chapter 22. God's Attribute of Goodness Considered as Natural; The God of Marcion Found Wanting Herein. It Came Not to Man's Rescue When First Wanted."
+      },
+      {
+        "id": "24",
+        "titleEn": "Chapter 23. God's Attribute of Goodness Considered as Rational. Marcion's God Defective Here Also; His Goodness Irrational and Misapplied.",
+        "titleLt": "Chapter 23. God's Attribute of Goodness Considered as Rational. Marcion's God Defective Here Also; His Goodness Irrational and Misapplied."
+      },
+      {
+        "id": "25",
+        "titleEn": "Chapter 24. The Goodness of Marcion's God Only Imperfectly Manifested; It Saves But Few, and the Souls Merely of These. Marcion's Contempt of the Body Absurd.",
+        "titleLt": "Chapter 24. The Goodness of Marcion's God Only Imperfectly Manifested; It Saves But Few, and the Souls Merely of These. Marcion's Contempt of the Body Absurd."
+      },
+      {
+        "id": "26",
+        "titleEn": "Chapter 25. God is Not a Being of Simple Goodness; Other Attributes Belong to Him. Marcion Shows Inconsistency in the Portraiture of His Simply Good and Emotionless God.",
+        "titleLt": "Chapter 25. God is Not a Being of Simple Goodness; Other Attributes Belong to Him. Marcion Shows Inconsistency in the Portraiture of His Simply Good and Emotionless God."
+      },
+      {
+        "id": "27",
+        "titleEn": "Chapter 26. In the Attribute of Justice, Marcion's God is Hopelessly Weak and Ungodlike. He Dislikes Evil, But Does Not Punish Its Perpetration.",
+        "titleLt": "Chapter 26. In the Attribute of Justice, Marcion's God is Hopelessly Weak and Ungodlike. He Dislikes Evil, But Does Not Punish Its Perpetration."
+      },
+      {
+        "id": "28",
+        "titleEn": "Chapter 27. Dangerous Effects to Religion and Morality of the Doctrine of So Weak a God.",
+        "titleLt": "Chapter 27. Dangerous Effects to Religion and Morality of the Doctrine of So Weak a God."
+      },
+      {
+        "id": "29",
+        "titleEn": "Chapter 28. This Perverse Doctrine Deprives Baptism of All Its Grace. If Marcion Be Right, the Sacrament Would Confer No Remission of Sins, No Regeneration, No Gift of the Spirit.",
+        "titleLt": "Chapter 28. This Perverse Doctrine Deprives Baptism of All Its Grace. If Marcion Be Right, the Sacrament Would Confer No Remission of Sins, No Regeneration, No Gift of the Spirit."
+      },
+      {
+        "id": "30",
+        "titleEn": "Chapter 29. Marcion Forbids Marriage. Tertullian Eloquently Defends It as Holy, and Carefully Discriminates Between Marcion's Doctrine and His Own Montanism.",
+        "titleLt": "Chapter 29. Marcion Forbids Marriage. Tertullian Eloquently Defends It as Holy, and Carefully Discriminates Between Marcion's Doctrine and His Own Montanism."
+      },
+      {
+        "id": "31",
+        "titleEn": "About this page",
+        "titleLt": "About this page"
+      }
+    ]
+  },
+  {
+    "slug": "against-marcion-2",
+    "title": "Against Marcion, Book II",
+    "translator": "Alexander Roberts, James Donaldson, A. Cleveland Coxe (ANF)",
+    "source": "https://www.newadvent.org/fathers/03122.htm",
+    "license": "Public Domain (US; Ante-Nicene Fathers, 1885)",
+    "chars": 101277,
+    "sections": 31,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Against Marcion, Book II",
+        "titleLt": "Against Marcion, Book II"
+      },
+      {
+        "id": "2",
+        "titleEn": "Chapter 1. The Methods of Marcion's Argument Incorrect and Absurd. The Proper Course of the Argument.",
+        "titleLt": "Chapter 1. The Methods of Marcion's Argument Incorrect and Absurd. The Proper Course of the Argument."
+      },
+      {
+        "id": "3",
+        "titleEn": "Chapter 2. The True Doctrine of God the Creator. The Heretics Pretended to a Knowledge of the Divine Being, Opposed to and Subversive of Revelation. God's Nature and Ways Past Human Discovery. Adam's Heresy.",
+        "titleLt": "Chapter 2. The True Doctrine of God the Creator. The Heretics Pretended to a Knowledge of the Divine Being, Opposed to and Subversive of Revelation. God's Nature and Ways Past Human Discovery. Adam's Heresy."
+      },
+      {
+        "id": "4",
+        "titleEn": "Chapter 3. God Known by His Works. His Goodness Shown in His Creative Energy; But Everlasting in Its Nature; Inherent in God, Previous to All Exhibition of It. The First Stage of This Goodness Prior to Man.",
+        "titleLt": "Chapter 3. God Known by His Works. His Goodness Shown in His Creative Energy; But Everlasting in Its Nature; Inherent in God, Previous to All Exhibition of It. The First Stage of This Goodness Prior to Man."
+      },
+      {
+        "id": "5",
+        "titleEn": "Chapter 4. The Next Stage Occurs in the Creation of Man by the Eternal Word. Spiritual as Well as Physical Gifts to Man. The Blessings of Man's Free-Will.",
+        "titleLt": "Chapter 4. The Next Stage Occurs in the Creation of Man by the Eternal Word. Spiritual as Well as Physical Gifts to Man. The Blessings of Man's Free-Will."
+      },
+      {
+        "id": "6",
+        "titleEn": "Chapter 5. Marcion's Cavils Considered. His Objection Refuted, I.e., Man's Fall Showed Failure in God. The Perfection of Man's Being Lay in His Liberty, Which God Purposely Bestowed on Him. The Fall Imputable to Man's Own Choice.",
+        "titleLt": "Chapter 5. Marcion's Cavils Considered. His Objection Refuted, I.e., Man's Fall Showed Failure in God. The Perfection of Man's Being Lay in His Liberty, Which God Purposely Bestowed on Him. The Fall Imputable to Man's Own Choice."
+      },
+      {
+        "id": "7",
+        "titleEn": "Chapter 6. This Liberty Vindicated in Respect of Its Original Creation; Suitable Also for Exhibiting the Goodness and the Purpose of God. Reward and Punishment Impossible If Man Were Good or Evil Through Necessity and Not Choice.",
+        "titleLt": "Chapter 6. This Liberty Vindicated in Respect of Its Original Creation; Suitable Also for Exhibiting the Goodness and the Purpose of God. Reward and Punishment Impossible If Man Were Good or Evil Through Necessity and Not Choice."
+      },
+      {
+        "id": "8",
+        "titleEn": "Chapter 7. If God Had Anyhow Checked Man's Liberty, Marcion Would Have Been Ready with Another and Opposite Cavil. Man's Fall Foreseen by God. Provision Made for It Remedially and Consistently with His Truth and Goodness.",
+        "titleLt": "Chapter 7. If God Had Anyhow Checked Man's Liberty, Marcion Would Have Been Ready with Another and Opposite Cavil. Man's Fall Foreseen by God. Provision Made for It Remedially and Consistently with His Truth and Goodness."
+      },
+      {
+        "id": "9",
+        "titleEn": "Chapter 8. Man, Endued with Liberty, Superior to the Angels, Overcomes Even the Angel Which Lured Him to His Fall, When Repentant and Resuming Obedience to God.",
+        "titleLt": "Chapter 8. Man, Endued with Liberty, Superior to the Angels, Overcomes Even the Angel Which Lured Him to His Fall, When Repentant and Resuming Obedience to God."
+      },
+      {
+        "id": "10",
+        "titleEn": "Chapter 9. Another Cavil Answered, I.e., the Fall Imputable to God, Because Man's Soul is a Portion of the Spiritual Essence of the Creator. The Divine Afflatus Not in Fault in the Sin of Man, But the Human Will Which Was Additional to It.",
+        "titleLt": "Chapter 9. Another Cavil Answered, I.e., the Fall Imputable to God, Because Man's Soul is a Portion of the Spiritual Essence of the Creator. The Divine Afflatus Not in Fault in the Sin of Man, But the Human Will Which Was Additional to It."
+      },
+      {
+        "id": "11",
+        "titleEn": "Chapter 10. Another Cavil Met, I.e., the Devil Who Instigated Man to Sin Himself the Creature of God. Nay, the Primeval Cherub Only Was God's Work. The Devilish Nature Superadded by Wilfulness. In Man's Recovery the Devil is Vanquished in a Conflict on His Own Ground.",
+        "titleLt": "Chapter 10. Another Cavil Met, I.e., the Devil Who Instigated Man to Sin Himself the Creature of God. Nay, the Primeval Cherub Only Was God's Work. The Devilish Nature Superadded by Wilfulness. In Man's Recovery the Devil is Vanquished in a Conflict on His Own Ground."
+      },
+      {
+        "id": "12",
+        "titleEn": "Chapter 11. If, After Man's Sin, God Exercised His Attribute of Justice and Judgment, This Was Compatible with His Goodness, and Enhances the True Idea of the Perfection of God's Character.",
+        "titleLt": "Chapter 11. If, After Man's Sin, God Exercised His Attribute of Justice and Judgment, This Was Compatible with His Goodness, and Enhances the True Idea of the Perfection of God's Character."
+      },
+      {
+        "id": "13",
+        "titleEn": "Chapter 12. The Attributes of Goodness and Justice Should Not Be Separated. They are Compatible in the True God. The Function of Justice in the Divine Being Described.",
+        "titleLt": "Chapter 12. The Attributes of Goodness and Justice Should Not Be Separated. They are Compatible in the True God. The Function of Justice in the Divine Being Described."
+      },
+      {
+        "id": "14",
+        "titleEn": "Chapter 13. Further Description of the Divine Justice; Since the Fall of Man It Has Regulated the Divine Goodness. God's Claims on Our Love and Our Fear Reconciled.",
+        "titleLt": "Chapter 13. Further Description of the Divine Justice; Since the Fall of Man It Has Regulated the Divine Goodness. God's Claims on Our Love and Our Fear Reconciled."
+      },
+      {
+        "id": "15",
+        "titleEn": "Chapter 14. Evil of Two Kinds, Penal and Criminal. It is Not of the Latter Sort that God is the Author, But Only of the Former, Which are Penal, and Included in His Justice.",
+        "titleLt": "Chapter 14. Evil of Two Kinds, Penal and Criminal. It is Not of the Latter Sort that God is the Author, But Only of the Former, Which are Penal, and Included in His Justice."
+      },
+      {
+        "id": "16",
+        "titleEn": "Chapter 15. The Severity of God Compatible with Reason and Justice. When Inflicted, Not Meant to Be Arbitrary, But Remedial.",
+        "titleLt": "Chapter 15. The Severity of God Compatible with Reason and Justice. When Inflicted, Not Meant to Be Arbitrary, But Remedial."
+      },
+      {
+        "id": "17",
+        "titleEn": "Chapter 16. To the Severity of God There Belong Accessory Qualities, Compatible with Justice. If Human Passions are Predicated of God, They Must Not Be Measured on the Scale of Human Imperfection.",
+        "titleLt": "Chapter 16. To the Severity of God There Belong Accessory Qualities, Compatible with Justice. If Human Passions are Predicated of God, They Must Not Be Measured on the Scale of Human Imperfection."
+      },
+      {
+        "id": "18",
+        "titleEn": "Chapter 17. Trace God's Government in History and in His Precepts, and You Will Find It Full of His Goodness.",
+        "titleLt": "Chapter 17. Trace God's Government in History and in His Precepts, and You Will Find It Full of His Goodness."
+      },
+      {
+        "id": "19",
+        "titleEn": "Chapter 18. Some of God's Laws Defended as Good, Which the Marcionites Impeached, Such as the Lex Talionis. Useful Purposes in a Social and Moral Point of View of This, and Sundry Other Enactments.",
+        "titleLt": "Chapter 18. Some of God's Laws Defended as Good, Which the Marcionites Impeached, Such as the Lex Talionis. Useful Purposes in a Social and Moral Point of View of This, and Sundry Other Enactments."
+      },
+      {
+        "id": "20",
+        "titleEn": "Chapter 19. The Minute Prescriptions of the Law Meant to Keep the People Dependent on God. The Prophets Sent by God in Pursuance of His Goodness. Many Beautiful Passages from Them Quoted in Illustration of This Attribute.",
+        "titleLt": "Chapter 19. The Minute Prescriptions of the Law Meant to Keep the People Dependent on God. The Prophets Sent by God in Pursuance of His Goodness. Many Beautiful Passages from Them Quoted in Illustration of This Attribute."
+      },
+      {
+        "id": "21",
+        "titleEn": "Chapter 20. The Marcionites Charged God with Having Instigated the Hebrews to Spoil the Egyptians. Defence of the Divine Dispensation in that Matter.",
+        "titleLt": "Chapter 20. The Marcionites Charged God with Having Instigated the Hebrews to Spoil the Egyptians. Defence of the Divine Dispensation in that Matter."
+      },
+      {
+        "id": "22",
+        "titleEn": "Chapter 21. The Law of the Sabbath-Day Explained. The Eight Days' Procession Around Jericho. The Gathering of Sticks a Violation.",
+        "titleLt": "Chapter 21. The Law of the Sabbath-Day Explained. The Eight Days' Procession Around Jericho. The Gathering of Sticks a Violation."
+      },
+      {
+        "id": "23",
+        "titleEn": "Chapter 22. The Brazen Serpent and the Golden Cherubim Were Not Violations of the Second Commandment. Their Meaning.",
+        "titleLt": "Chapter 22. The Brazen Serpent and the Golden Cherubim Were Not Violations of the Second Commandment. Their Meaning."
+      },
+      {
+        "id": "24",
+        "titleEn": "Chapter 23. God's Purposes in Election and Rejection of the Same Men, Such as King Saul, Explained, in Answer to the Marcionite Cavil.",
+        "titleLt": "Chapter 23. God's Purposes in Election and Rejection of the Same Men, Such as King Saul, Explained, in Answer to the Marcionite Cavil."
+      },
+      {
+        "id": "25",
+        "titleEn": "Chapter 24. Instances of God's Repentance, and Notably in the Case of the Ninevites, Accounted for and Vindicated.",
+        "titleLt": "Chapter 24. Instances of God's Repentance, and Notably in the Case of the Ninevites, Accounted for and Vindicated."
+      },
+      {
+        "id": "26",
+        "titleEn": "Chapter 25. God's Dealings with Adam at the Fall, and with Cain After His Crime, Admirably Explained and Defended.",
+        "titleLt": "Chapter 25. God's Dealings with Adam at the Fall, and with Cain After His Crime, Admirably Explained and Defended."
+      },
+      {
+        "id": "27",
+        "titleEn": "Chapter 26. The Oath of God: Its Meaning. Moses, When Deprecating God's Wrath Against Israel, a Type of Christ.",
+        "titleLt": "Chapter 26. The Oath of God: Its Meaning. Moses, When Deprecating God's Wrath Against Israel, a Type of Christ."
+      },
+      {
+        "id": "28",
+        "titleEn": "Chapter 27. Other Objections Considered. God's Condescension in the Incarnation. Nothing Derogatory to the Divine Being in This Economy. The Divine Majesty Worthily Sustained by the Almighty Father, Never Visible to Man. Perverseness of the Marcionite Cavils.",
+        "titleLt": "Chapter 27. Other Objections Considered. God's Condescension in the Incarnation. Nothing Derogatory to the Divine Being in This Economy. The Divine Majesty Worthily Sustained by the Almighty Father, Never Visible to Man. Perverseness of the Marcionite Cavils."
+      },
+      {
+        "id": "29",
+        "titleEn": "Chapter 28. The Tables Turned Upon Marcion, by Contrasts, in Favour of the True God.",
+        "titleLt": "Chapter 28. The Tables Turned Upon Marcion, by Contrasts, in Favour of the True God."
+      },
+      {
+        "id": "30",
+        "titleEn": "Chapter 29. Marcion's Own Antitheses, If Only the Title and Object of the Work Be Excepted, Afford Proofs of the Consistent Attributes of the True God.",
+        "titleLt": "Chapter 29. Marcion's Own Antitheses, If Only the Title and Object of the Work Be Excepted, Afford Proofs of the Consistent Attributes of the True God."
+      },
+      {
+        "id": "31",
+        "titleEn": "About this page",
+        "titleLt": "About this page"
+      }
+    ]
+  },
+  {
+    "slug": "against-marcion-3",
+    "title": "Against Marcion, Book III",
+    "translator": "Alexander Roberts, James Donaldson, A. Cleveland Coxe (ANF)",
+    "source": "https://www.newadvent.org/fathers/03123.htm",
+    "license": "Public Domain (US; Ante-Nicene Fathers, 1885)",
+    "chars": 101419,
+    "sections": 26,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Against Marcion, Book III",
+        "titleLt": "Against Marcion, Book III"
+      },
+      {
+        "id": "2",
+        "titleEn": "Chapter 1. Introductory; A Brief Statement of the Preceding Argument in Connection with the Subject of This Book.",
+        "titleLt": "Chapter 1. Introductory; A Brief Statement of the Preceding Argument in Connection with the Subject of This Book."
+      },
+      {
+        "id": "3",
+        "titleEn": "Chapter 2. Why Christ's Coming Should Be Previously Announced.",
+        "titleLt": "Chapter 2. Why Christ's Coming Should Be Previously Announced."
+      },
+      {
+        "id": "4",
+        "titleEn": "Chapter 3. Miracles Alone, Without Prophecy, an Insufficient Evidence of Christ's Mission.",
+        "titleLt": "Chapter 3. Miracles Alone, Without Prophecy, an Insufficient Evidence of Christ's Mission."
+      },
+      {
+        "id": "5",
+        "titleEn": "Chapter 4. Marcion's Christ Not the Subject of Prophecy. The Absurd Consequences of This Theory of the Heretic.",
+        "titleLt": "Chapter 4. Marcion's Christ Not the Subject of Prophecy. The Absurd Consequences of This Theory of the Heretic."
+      },
+      {
+        "id": "6",
+        "titleEn": "Chapter 5. Sundry Features of the Prophetic Style: Principles of Its Interpretation.",
+        "titleLt": "Chapter 5. Sundry Features of the Prophetic Style: Principles of Its Interpretation."
+      },
+      {
+        "id": "7",
+        "titleEn": "Chapter 6. Community in Certain Points of Marcionite and Jewish Error. Prophecies of Christ's Rejection Examined.",
+        "titleLt": "Chapter 6. Community in Certain Points of Marcionite and Jewish Error. Prophecies of Christ's Rejection Examined."
+      },
+      {
+        "id": "8",
+        "titleEn": "Chapter 7. Prophecy Sets Forth Two Different Conditions of Christ, One Lowly, the Other Majestic. This Fact Points to Two Advents of Christ.",
+        "titleLt": "Chapter 7. Prophecy Sets Forth Two Different Conditions of Christ, One Lowly, the Other Majestic. This Fact Points to Two Advents of Christ."
+      },
+      {
+        "id": "9",
+        "titleEn": "Chapter 8. Absurdity of Marcion's Docetic Opinions; Reality of Christ's Incarnation.",
+        "titleLt": "Chapter 8. Absurdity of Marcion's Docetic Opinions; Reality of Christ's Incarnation."
+      },
+      {
+        "id": "10",
+        "titleEn": "Chapter 9. Refutation of Marcion's Objections Derived from the Cases of the Angels, and the Pre-Incarnate Manifestations of the Son of God.",
+        "titleLt": "Chapter 9. Refutation of Marcion's Objections Derived from the Cases of the Angels, and the Pre-Incarnate Manifestations of the Son of God."
+      },
+      {
+        "id": "11",
+        "titleEn": "Chapter 10. The Truly Incarnate State More Worthy of God Than Marcion's Fantastic Flesh.",
+        "titleLt": "Chapter 10. The Truly Incarnate State More Worthy of God Than Marcion's Fantastic Flesh."
+      },
+      {
+        "id": "12",
+        "titleEn": "Chapter 11. Christ Was Truly Born; Marcion's Absurd Cavil in Defence of a Putative Nativity.",
+        "titleLt": "Chapter 11. Christ Was Truly Born; Marcion's Absurd Cavil in Defence of a Putative Nativity."
+      },
+      {
+        "id": "13",
+        "titleEn": "Chapter 12. Isaiah's Prophecy of Emmanuel. Christ Entitled to that Name.",
+        "titleLt": "Chapter 12. Isaiah's Prophecy of Emmanuel. Christ Entitled to that Name."
+      },
+      {
+        "id": "14",
+        "titleEn": "Chapter 13. Isaiah's Prophecies Considered. The Virginity of Christ's Mother a Sign. Other Prophecies Also Signs. Metaphorical Sense of Proper Names in Sundry Passages of the Prophets.",
+        "titleLt": "Chapter 13. Isaiah's Prophecies Considered. The Virginity of Christ's Mother a Sign. Other Prophecies Also Signs. Metaphorical Sense of Proper Names in Sundry Passages of the Prophets."
+      },
+      {
+        "id": "15",
+        "titleEn": "Chapter 14. Figurative Style of Certain Messianic Prophecies in the Psalms. Military Metaphors Applied to Christ.",
+        "titleLt": "Chapter 14. Figurative Style of Certain Messianic Prophecies in the Psalms. Military Metaphors Applied to Christ."
+      },
+      {
+        "id": "16",
+        "titleEn": "Chapter 15. The Title Christ Suitable as a Name of the Creator's Son, But Unsuited to Marcion's Christ.",
+        "titleLt": "Chapter 15. The Title Christ Suitable as a Name of the Creator's Son, But Unsuited to Marcion's Christ."
+      },
+      {
+        "id": "17",
+        "titleEn": "Chapter 16. The Sacred Name Jesus Most Suited to the Christ of the Creator. Joshua a Type of Him.",
+        "titleLt": "Chapter 16. The Sacred Name Jesus Most Suited to the Christ of the Creator. Joshua a Type of Him."
+      },
+      {
+        "id": "18",
+        "titleEn": "Chapter 17. Prophecies in Isaiah and the Psalms Respecting Christ's Humiliation.",
+        "titleLt": "Chapter 17. Prophecies in Isaiah and the Psalms Respecting Christ's Humiliation."
+      },
+      {
+        "id": "19",
+        "titleEn": "Chapter 18. — Types of the Death of Christ. Isaac; Joseph; Jacob Against Simeon and Levi; Moses Praying Against Amalek; The Brazen Serpent.",
+        "titleLt": "Chapter 18. — Types of the Death of Christ. Isaac; Joseph; Jacob Against Simeon and Levi; Moses Praying Against Amalek; The Brazen Serpent."
+      },
+      {
+        "id": "20",
+        "titleEn": "Chapter 19. Prophecies of the Death of Christ.",
+        "titleLt": "Chapter 19. Prophecies of the Death of Christ."
+      },
+      {
+        "id": "21",
+        "titleEn": "Chapter 20. — The Subsequent Influence of Christ's Death in the World Predicted. The Sure Mercies of David. What These are.",
+        "titleLt": "Chapter 20. — The Subsequent Influence of Christ's Death in the World Predicted. The Sure Mercies of David. What These are."
+      },
+      {
+        "id": "22",
+        "titleEn": "Chapter 21. The Call of the Gentiles Under the Influence of the Gospel Foretold.",
+        "titleLt": "Chapter 21. The Call of the Gentiles Under the Influence of the Gospel Foretold."
+      },
+      {
+        "id": "23",
+        "titleEn": "Chapter 22. The Success of the Apostles, and Their Sufferings in the Cause of the Gospel, Foretold.",
+        "titleLt": "Chapter 22. The Success of the Apostles, and Their Sufferings in the Cause of the Gospel, Foretold."
+      },
+      {
+        "id": "24",
+        "titleEn": "Chapter 23. The Dispersion of the Jews, and Their Desolate Condition for Rejecting Christ, Foretold.",
+        "titleLt": "Chapter 23. The Dispersion of the Jews, and Their Desolate Condition for Rejecting Christ, Foretold."
+      },
+      {
+        "id": "25",
+        "titleEn": "Chapter 25. Christ's Millennial and Heavenly Glory in Company with His Saints.",
+        "titleLt": "Chapter 25. Christ's Millennial and Heavenly Glory in Company with His Saints."
+      },
+      {
+        "id": "26",
+        "titleEn": "About this page",
+        "titleLt": "About this page"
+      }
+    ]
+  },
+  {
+    "slug": "against-marcion-4",
+    "title": "Against Marcion, Book IV",
+    "translator": "Alexander Roberts, James Donaldson, A. Cleveland Coxe (ANF)",
+    "source": "https://www.newadvent.org/fathers/03124.htm",
+    "license": "Public Domain (US; Ante-Nicene Fathers, 1885)",
+    "chars": 328608,
+    "sections": 45,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Against Marcion, Book IV",
+        "titleLt": "Against Marcion, Book IV"
+      },
+      {
+        "id": "2",
+        "titleEn": "Chapter 1. Examination of the Antitheses of Marcion, Bringing Them to the Test of Marcion's Own Gospel. Certain True Antitheses in the Dispensations of the Old and the New Testaments. These Variations Quite Compatible with One and the Same God, Who Ordered Them.",
+        "titleLt": "Chapter 1. Examination of the Antitheses of Marcion, Bringing Them to the Test of Marcion's Own Gospel. Certain True Antitheses in the Dispensations of the Old and the New Testaments. These Variations Quite Compatible with One and the Same God, Who Ordered Them."
+      },
+      {
+        "id": "3",
+        "titleEn": "Chapter 2. St. Luke's Gospel, Selected by Marcion as His Authority, and Mutilated by Him. The Other Gospels Equally Authoritative. Marcion's Terms of Discussion, However, Accepted, and Grappled with on the Footing of St. Luke's Gospel Alone.",
+        "titleLt": "Chapter 2. St. Luke's Gospel, Selected by Marcion as His Authority, and Mutilated by Him. The Other Gospels Equally Authoritative. Marcion's Terms of Discussion, However, Accepted, and Grappled with on the Footing of St. Luke's Gospel Alone."
+      },
+      {
+        "id": "4",
+        "titleEn": "Chapter 3. — Marcion Insinuated the Untrustworthiness of Certain Apostles Whom St. Paul Rebuked. The Rebuke Shows that It Cannot Be Regarded as Derogating from Their Authority. The Apostolic Gospels Perfectly Authentic.",
+        "titleLt": "Chapter 3. — Marcion Insinuated the Untrustworthiness of Certain Apostles Whom St. Paul Rebuked. The Rebuke Shows that It Cannot Be Regarded as Derogating from Their Authority. The Apostolic Gospels Perfectly Authentic."
+      },
+      {
+        "id": "5",
+        "titleEn": "Chapter 4. Each Side Claims to Possess the True Gospel. Antiquity the Criterion of Truth in Such a Matter. Marcion's Pretensions as an Amender of the Gospel.",
+        "titleLt": "Chapter 4. Each Side Claims to Possess the True Gospel. Antiquity the Criterion of Truth in Such a Matter. Marcion's Pretensions as an Amender of the Gospel."
+      },
+      {
+        "id": "6",
+        "titleEn": "Chapter 5. By the Rule of Antiquity, the Catholic Gospels are Found to Be True, Including the Real St. Luke's. Marcion's Only a Mutilated Edition. The Heretic's Weakness and Inconsistency in Ignoring the Other Gospels.",
+        "titleLt": "Chapter 5. By the Rule of Antiquity, the Catholic Gospels are Found to Be True, Including the Real St. Luke's. Marcion's Only a Mutilated Edition. The Heretic's Weakness and Inconsistency in Ignoring the Other Gospels."
+      },
+      {
+        "id": "7",
+        "titleEn": "Chapter 6. Marcion's Object in Adulterating the Gospel. No Difference Between the Christ of the Creator and the Christ of the Gospel. No Rival Christ Admissible. The Connection of the True Christ with the Dispensation of the Old Testament Asserted.",
+        "titleLt": "Chapter 6. Marcion's Object in Adulterating the Gospel. No Difference Between the Christ of the Creator and the Christ of the Gospel. No Rival Christ Admissible. The Connection of the True Christ with the Dispensation of the Old Testament Asserted."
+      },
+      {
+        "id": "8",
+        "titleEn": "Chapter 7. Marcion Rejected the Preceding Portion of St. Luke's Gospel. Therefore This Review Opens with an Examination of the Case of the Evil Spirit in the Synagogue of Capernaum. He Whom the Demon Acknowledged Was the Creator's Christ.",
+        "titleLt": "Chapter 7. Marcion Rejected the Preceding Portion of St. Luke's Gospel. Therefore This Review Opens with an Examination of the Case of the Evil Spirit in the Synagogue of Capernaum. He Whom the Demon Acknowledged Was the Creator's Christ."
+      },
+      {
+        "id": "9",
+        "titleEn": "Chapter 8. Other Proofs from the Same Chapter, that Jesus, Who Preached at Nazareth, and Was Acknowledged by Certain Demons as Christ the Son of God, Was the Creator's Christ. As Occasion Offers, the Docetic Errors of Marcion are Exposed.",
+        "titleLt": "Chapter 8. Other Proofs from the Same Chapter, that Jesus, Who Preached at Nazareth, and Was Acknowledged by Certain Demons as Christ the Son of God, Was the Creator's Christ. As Occasion Offers, the Docetic Errors of Marcion are Exposed."
+      },
+      {
+        "id": "10",
+        "titleEn": "Chapter 9. Out of St. Luke's Fifth Chapter are Found Proofs of Christ's Belonging to the Creator, E.g. In the Call of Fishermen to the Apostolic Office, and in the Cleansing of the Leper. Christ Compared with the Prophet Elisha.",
+        "titleLt": "Chapter 9. Out of St. Luke's Fifth Chapter are Found Proofs of Christ's Belonging to the Creator, E.g. In the Call of Fishermen to the Apostolic Office, and in the Cleansing of the Leper. Christ Compared with the Prophet Elisha."
+      },
+      {
+        "id": "11",
+        "titleEn": "Chapter 10. Further Proofs of the Same Truth in the Same Chapter, from the Healing of the Paralytic, and from the Designation Son of Man Which Jesus Gives Himself. Tertullian Sustains His Argument by Several Quotations from the Prophets.",
+        "titleLt": "Chapter 10. Further Proofs of the Same Truth in the Same Chapter, from the Healing of the Paralytic, and from the Designation Son of Man Which Jesus Gives Himself. Tertullian Sustains His Argument by Several Quotations from the Prophets."
+      },
+      {
+        "id": "12",
+        "titleEn": "Chapter 11. The Call of Levi the Publican. Christ in Relation to the Baptist. Christ as the Bridegroom. The Parable of the Old Wine and the New. Arguments Connecting Christ with the Creator.",
+        "titleLt": "Chapter 11. The Call of Levi the Publican. Christ in Relation to the Baptist. Christ as the Bridegroom. The Parable of the Old Wine and the New. Arguments Connecting Christ with the Creator."
+      },
+      {
+        "id": "13",
+        "titleEn": "Chapter 12. Christ's Authority Over the Sabbath. As Its Lord He Recalled It from Pharisaic Neglect to the Original Purpose of Its Institution by the Creator the Case of the Disciples Who Plucked the Ears of Grain on the Sabbath. The Withered Hand Healed on the Sabbath.",
+        "titleLt": "Chapter 12. Christ's Authority Over the Sabbath. As Its Lord He Recalled It from Pharisaic Neglect to the Original Purpose of Its Institution by the Creator the Case of the Disciples Who Plucked the Ears of Grain on the Sabbath. The Withered Hand Healed on the Sabbath."
+      },
+      {
+        "id": "14",
+        "titleEn": "Chapter 13. Christ's Connection with the Creator Shown. Many Quotations Out of the Old Testament Prophetically Bear on Certain Events of the Life of Jesus — Such as His Ascent to Praying on the Mountain; His Selection of Twelve Apostles; His Changing Simon's Name to Peter, and Gentiles from Tyre and Sidon Resorting to Him.",
+        "titleLt": "Chapter 13. Christ's Connection with the Creator Shown. Many Quotations Out of the Old Testament Prophetically Bear on Certain Events of the Life of Jesus — Such as His Ascent to Praying on the Mountain; His Selection of Twelve Apostles; His Changing Simon's Name to Peter, and Gentiles from Tyre and Sidon Resorting to Him."
+      },
+      {
+        "id": "15",
+        "titleEn": "Chapter 14. Christ's Sermon on the Mount. In Manner and Contents It So Resembles the Creator's Dispensational Words and Deeds. It Suggests Therefore the Conclusion that Jesus is the Creator's Christ. The Beatitudes.",
+        "titleLt": "Chapter 14. Christ's Sermon on the Mount. In Manner and Contents It So Resembles the Creator's Dispensational Words and Deeds. It Suggests Therefore the Conclusion that Jesus is the Creator's Christ. The Beatitudes."
+      },
+      {
+        "id": "16",
+        "titleEn": "Chapter 15. Sermon on the Mount Continued. Its Woes in Strict Agreement with the Creator's Disposition. Many Quotations Out of the Old Testament in Proof of This.",
+        "titleLt": "Chapter 15. Sermon on the Mount Continued. Its Woes in Strict Agreement with the Creator's Disposition. Many Quotations Out of the Old Testament in Proof of This."
+      },
+      {
+        "id": "17",
+        "titleEn": "Chapter 16. The Precept of Loving One's Enemies. It is as Much Taught in the Creator's Scriptures of the Old Testament as in Christ's Sermon. The Lex Talionis of Moses Admirably Explained in Consistency with the Kindness and Love Which Jesus Christ Came to Proclaim and Enforce in Behalf of the Creator. Sundry Precepts of Charity Explained.",
+        "titleLt": "Chapter 16. The Precept of Loving One's Enemies. It is as Much Taught in the Creator's Scriptures of the Old Testament as in Christ's Sermon. The Lex Talionis of Moses Admirably Explained in Consistency with the Kindness and Love Which Jesus Christ Came to Proclaim and Enforce in Behalf of the Creator. Sundry Precepts of Charity Explained."
+      },
+      {
+        "id": "18",
+        "titleEn": "Chapter 17. Concerning Loans. Prohibition of Usury and the Usurious Spirit. The Law Preparatory to the Gospel in Its Provisions; So in the Present Instance. On Reprisals. Christ's Teaching Throughout Proves Him to Be Sent by the Creator.",
+        "titleLt": "Chapter 17. Concerning Loans. Prohibition of Usury and the Usurious Spirit. The Law Preparatory to the Gospel in Its Provisions; So in the Present Instance. On Reprisals. Christ's Teaching Throughout Proves Him to Be Sent by the Creator."
+      },
+      {
+        "id": "19",
+        "titleEn": "Chapter 18. Concerning the Centurion's Faith. The Raising of the Widow's Son. John Baptist, and His Message to Christ; And the Woman Who Was a Sinner. Proofs Extracted from All of the Relation of Christ to the Creator.",
+        "titleLt": "Chapter 18. Concerning the Centurion's Faith. The Raising of the Widow's Son. John Baptist, and His Message to Christ; And the Woman Who Was a Sinner. Proofs Extracted from All of the Relation of Christ to the Creator."
+      },
+      {
+        "id": "20",
+        "titleEn": "Chapter 19. The Rich Women of Piety Who Followed Jesus Christ's Teaching by Parables. The Marcionite Cavil Derived from Christ's Remark, When Told of His Mother and His Brethren. Explanation of Christ's Apparent Rejection Them.",
+        "titleLt": "Chapter 19. The Rich Women of Piety Who Followed Jesus Christ's Teaching by Parables. The Marcionite Cavil Derived from Christ's Remark, When Told of His Mother and His Brethren. Explanation of Christ's Apparent Rejection Them."
+      },
+      {
+        "id": "21",
+        "titleEn": "Chapter 20. Comparison of Christ's Power Over Winds and Waves with Moses' Command of the Waters of the Red Sea and the Jordan. Christ's Power Over Unclean Spirits. The Case of the Legion. The Cure of the Issue of Blood. The Mosaic Uncleanness on This Point Explained.",
+        "titleLt": "Chapter 20. Comparison of Christ's Power Over Winds and Waves with Moses' Command of the Waters of the Red Sea and the Jordan. Christ's Power Over Unclean Spirits. The Case of the Legion. The Cure of the Issue of Blood. The Mosaic Uncleanness on This Point Explained."
+      },
+      {
+        "id": "22",
+        "titleEn": "Chapter 21. Christ's Connection with the Creator Shown from Several Incidents in the Old Testament, Compared with St. Luke's Narrative of the Mission of the Disciples. The Feeding of the Multitude. The Confession of St. Peter. Being Ashamed of Christ. This Shame is Only Possible of the True Christ. Marcionite Pretensions Absurd.",
+        "titleLt": "Chapter 21. Christ's Connection with the Creator Shown from Several Incidents in the Old Testament, Compared with St. Luke's Narrative of the Mission of the Disciples. The Feeding of the Multitude. The Confession of St. Peter. Being Ashamed of Christ. This Shame is Only Possible of the True Christ. Marcionite Pretensions Absurd."
+      },
+      {
+        "id": "23",
+        "titleEn": "Chapter 22. The Same Conclusion Supported by the Transfiguration. Marcion Inconsistent in Associating with Christ in Glory Two Such Eminent Servants of the Creator as Moses and Elijah. St. Peter's Ignorance Accounted for on Montanist Principle.",
+        "titleLt": "Chapter 22. The Same Conclusion Supported by the Transfiguration. Marcion Inconsistent in Associating with Christ in Glory Two Such Eminent Servants of the Creator as Moses and Elijah. St. Peter's Ignorance Accounted for on Montanist Principle."
+      },
+      {
+        "id": "24",
+        "titleEn": "Chapter 23. Impossible that Marcion's Christ Should Reprove the Faithless Generation. Such Loving Consideration for Infants as the True Christ Was Apt to Show, Also Impossible for the Other. On the Three Different Characters Confronted and Instructed by Christ in Samaria.",
+        "titleLt": "Chapter 23. Impossible that Marcion's Christ Should Reprove the Faithless Generation. Such Loving Consideration for Infants as the True Christ Was Apt to Show, Also Impossible for the Other. On the Three Different Characters Confronted and Instructed by Christ in Samaria."
+      },
+      {
+        "id": "25",
+        "titleEn": "Chapter 24. On the Mission of the Seventy Disciples, and Christ's Charge to Them. Precedents Drawn from the Old Testament. Absurdity of Supposing that Marcion's Christ Could Have Given the Power of Treading on Serpents and Scorpions.",
+        "titleLt": "Chapter 24. On the Mission of the Seventy Disciples, and Christ's Charge to Them. Precedents Drawn from the Old Testament. Absurdity of Supposing that Marcion's Christ Could Have Given the Power of Treading on Serpents and Scorpions."
+      },
+      {
+        "id": "26",
+        "titleEn": "Chapter 25. Christ Thanks the Father for Revealing to Babes What He Had Concealed from the Wise. This Concealment Judiciously Effected by the Creator. Other Points in St. Luke's Chap. X. Shown to Be Only Possible to the Creator's Christ.",
+        "titleLt": "Chapter 25. Christ Thanks the Father for Revealing to Babes What He Had Concealed from the Wise. This Concealment Judiciously Effected by the Creator. Other Points in St. Luke's Chap. X. Shown to Be Only Possible to the Creator's Christ."
+      },
+      {
+        "id": "27",
+        "titleEn": "Chapter 26. From St. Luke's Eleventh Chapter Other Evidence that Christ Comes from the Creator. The Lord's Prayer and Other Words of Christ. The Dumb Spirit and Christ's Discourse on Occasion of the Expulsion. The Exclamation of the Woman in the Crowd.",
+        "titleLt": "Chapter 26. From St. Luke's Eleventh Chapter Other Evidence that Christ Comes from the Creator. The Lord's Prayer and Other Words of Christ. The Dumb Spirit and Christ's Discourse on Occasion of the Expulsion. The Exclamation of the Woman in the Crowd."
+      },
+      {
+        "id": "28",
+        "titleEn": "Chapter 27. Christ's Reprehension of the Pharisees Seeking a Sign. His Censure of Their Love of Outward Show Rather Than Inward Holiness. Scripture Abounds with Admonitions of a Similar Purport. Proofs of His Mission from the Creator.",
+        "titleLt": "Chapter 27. Christ's Reprehension of the Pharisees Seeking a Sign. His Censure of Their Love of Outward Show Rather Than Inward Holiness. Scripture Abounds with Admonitions of a Similar Purport. Proofs of His Mission from the Creator."
+      },
+      {
+        "id": "29",
+        "titleEn": "Chapter 28. Examples from the Old Testament, Balaam, Moses, and Hezekiah, to Show How Completely the Instruction and Conduct of Christ  Are in Keeping with the Will and Purpose of the Creator.",
+        "titleLt": "Chapter 28. Examples from the Old Testament, Balaam, Moses, and Hezekiah, to Show How Completely the Instruction and Conduct of Christ  Are in Keeping with the Will and Purpose of the Creator."
+      },
+      {
+        "id": "30",
+        "titleEn": "Chapter 29. Parallels from the Prophets to Illustrate Christ's Teaching in the Rest of This Chapter of St. Luke. The Sterner Attributes of Christ, in His Judicial Capacity, Show Him to Have Come from the Creator. Incidental Rebukes of Marcion's Doctrine of Celibacy, and of His Altering of the Text of the Gospel.",
+        "titleLt": "Chapter 29. Parallels from the Prophets to Illustrate Christ's Teaching in the Rest of This Chapter of St. Luke. The Sterner Attributes of Christ, in His Judicial Capacity, Show Him to Have Come from the Creator. Incidental Rebukes of Marcion's Doctrine of Celibacy, and of His Altering of the Text of the Gospel."
+      },
+      {
+        "id": "31",
+        "titleEn": "Chapter 30. Parables of the Mustard-Seed, and of the Leaven. Transition to the Solemn Exclusion Which Will Ensue When the Master of the House Has Shut the Door. This Judicial Exclusion Will Be Administered by Christ, Who is Shown Thereby to Possess the Attribute of the Creator.",
+        "titleLt": "Chapter 30. Parables of the Mustard-Seed, and of the Leaven. Transition to the Solemn Exclusion Which Will Ensue When the Master of the House Has Shut the Door. This Judicial Exclusion Will Be Administered by Christ, Who is Shown Thereby to Possess the Attribute of the Creator."
+      },
+      {
+        "id": "32",
+        "titleEn": "Chapter 31. Christ's Advice to Invite the Poor in Accordance with Isaiah. The Parable of the Great Supper a Pictorial Sketch of the Creator's Own Dispensations of Mercy and Grace. The Rejections of the Invitation Paralleled by Quotations from the Old Testament. Marcion's Christ Could Not Fulfil the Conditions Indicated in This Parable. The Absurdity of the Marcionite Interpretation.",
+        "titleLt": "Chapter 31. Christ's Advice to Invite the Poor in Accordance with Isaiah. The Parable of the Great Supper a Pictorial Sketch of the Creator's Own Dispensations of Mercy and Grace. The Rejections of the Invitation Paralleled by Quotations from the Old Testament. Marcion's Christ Could Not Fulfil the Conditions Indicated in This Parable. The Absurdity of the Marcionite Interpretation."
+      },
+      {
+        "id": "33",
+        "titleEn": "Chapter 32. A Sort of Sorites, as the Logicians Call It, to Show that the Parables of the Lost Sheep and the Lost Drachma Have No Suitable Application to the Christ of Marcion.",
+        "titleLt": "Chapter 32. A Sort of Sorites, as the Logicians Call It, to Show that the Parables of the Lost Sheep and the Lost Drachma Have No Suitable Application to the Christ of Marcion."
+      },
+      {
+        "id": "34",
+        "titleEn": "Chapter 33. The Marcionite Interpretation of God and Mammon Refuted. The Prophets Justify Christ's Admonition Against Covetousness and Pride. John Baptist the Link Between the Old and the New Dispensations of the Creator. So Said Christ — But So Also Had Isaiah Said Long Before. One Only God, the Creator, by His Own Will Changed the Dispensations. No New God Had a Hand in the Change.",
+        "titleLt": "Chapter 33. The Marcionite Interpretation of God and Mammon Refuted. The Prophets Justify Christ's Admonition Against Covetousness and Pride. John Baptist the Link Between the Old and the New Dispensations of the Creator. So Said Christ — But So Also Had Isaiah Said Long Before. One Only God, the Creator, by His Own Will Changed the Dispensations. No New God Had a Hand in the Change."
+      },
+      {
+        "id": "35",
+        "titleEn": "Chapter 34. Moses, Allowing Divorce, and Christ Prohibiting It, Explained. John Baptist and Herod. Marcion's Attempt to Discover an Antithesis in the Parable of the Rich Man and the Poor Man in Hades Confuted. The Creator's Appointment Manifested in Both States.",
+        "titleLt": "Chapter 34. Moses, Allowing Divorce, and Christ Prohibiting It, Explained. John Baptist and Herod. Marcion's Attempt to Discover an Antithesis in the Parable of the Rich Man and the Poor Man in Hades Confuted. The Creator's Appointment Manifested in Both States."
+      },
+      {
+        "id": "36",
+        "titleEn": "Chapter 35. The Judicial Severity of Christ and the Tenderness of the Creator, Asserted in Contradiction to Marcion. The Cure of the Ten Lepers. Old Testament Analogies. The Kingdom of God Within You; This Teaching Similar to that of Moses. Christ, the Stone Rejected by the Builders. Indications of Severity in the Coming of Christ. Proofs that He is Not the Impassible Being Marcion Imagined.",
+        "titleLt": "Chapter 35. The Judicial Severity of Christ and the Tenderness of the Creator, Asserted in Contradiction to Marcion. The Cure of the Ten Lepers. Old Testament Analogies. The Kingdom of God Within You; This Teaching Similar to that of Moses. Christ, the Stone Rejected by the Builders. Indications of Severity in the Coming of Christ. Proofs that He is Not the Impassible Being Marcion Imagined."
+      },
+      {
+        "id": "37",
+        "titleEn": "Chapter 36. The Parables of the Importunate Widow, and of the Pharisee and the Publican. Christ's Answer to the Rich Ruler, the Cure of the Blind Man. His Salutation — Son of David. All Proofs of Christ's Relation to the Creator, Marcion's Antithesis Between David and Christ Confuted.",
+        "titleLt": "Chapter 36. The Parables of the Importunate Widow, and of the Pharisee and the Publican. Christ's Answer to the Rich Ruler, the Cure of the Blind Man. His Salutation — Son of David. All Proofs of Christ's Relation to the Creator, Marcion's Antithesis Between David and Christ Confuted."
+      },
+      {
+        "id": "38",
+        "titleEn": "Chapter 37. Christ and Zacchæus. The Salvation of the Body as Denied by Marcion. The Parable of the Ten Servants Entrusted with Ten Pounds. Christ a Judge, Who is to Administer the Will of the Austere Man, I.e. The Creator.",
+        "titleLt": "Chapter 37. Christ and Zacchæus. The Salvation of the Body as Denied by Marcion. The Parable of the Ten Servants Entrusted with Ten Pounds. Christ a Judge, Who is to Administer the Will of the Austere Man, I.e. The Creator."
+      },
+      {
+        "id": "39",
+        "titleEn": "Chapter 38. Christ's Refutations of the Pharisees. Rendering Dues to Cæsar and to God. Next of the Sadducees, Respecting Marriage in the Resurrection. These Prove Him Not to Be Marcion's But the Creator's Christ. Marcion's Tamperings in Order to Make Room for His Second God, Exposed and Confuted.",
+        "titleLt": "Chapter 38. Christ's Refutations of the Pharisees. Rendering Dues to Cæsar and to God. Next of the Sadducees, Respecting Marriage in the Resurrection. These Prove Him Not to Be Marcion's But the Creator's Christ. Marcion's Tamperings in Order to Make Room for His Second God, Exposed and Confuted."
+      },
+      {
+        "id": "40",
+        "titleEn": "Chapter 39. Concerning Those Who Come in the Name of Christ. The Terrible Signs of His Coming. He Whose Coming is So Grandly Described Both in the Old Testament and the New Testament, is None Other Than the Christ of the Creator. This Proof Enhanced by the Parable of the Fig-Tree and All the Trees. Parallel Passages of Prophecy.",
+        "titleLt": "Chapter 39. Concerning Those Who Come in the Name of Christ. The Terrible Signs of His Coming. He Whose Coming is So Grandly Described Both in the Old Testament and the New Testament, is None Other Than the Christ of the Creator. This Proof Enhanced by the Parable of the Fig-Tree and All the Trees. Parallel Passages of Prophecy."
+      }
+    ]
+  },
+  {
+    "slug": "against-marcion-5",
+    "title": "Against Marcion, Book V",
+    "translator": "Alexander Roberts, James Donaldson, A. Cleveland Coxe (ANF)",
+    "source": "https://www.newadvent.org/fathers/03125.htm",
+    "license": "Public Domain (US; Ante-Nicene Fathers, 1885)",
+    "chars": 187503,
+    "sections": 23,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Against Marcion, Book V",
+        "titleLt": "Against Marcion, Book V"
+      },
+      {
+        "id": "2",
+        "titleEn": "Chapter 1. Introductory. The Apostle Paul Himself Not the Preacher of a New God. Called by Jesus Christ, Although After the Other Apostles, His Mission Was from the Creator. States How. The Argument, as in the Case of the Gospel, Confining Proofs to Such Portions of St. Paul's Writings as Marcion Allowed.",
+        "titleLt": "Chapter 1. Introductory. The Apostle Paul Himself Not the Preacher of a New God. Called by Jesus Christ, Although After the Other Apostles, His Mission Was from the Creator. States How. The Argument, as in the Case of the Gospel, Confining Proofs to Such Portions of St. Paul's Writings as Marcion Allowed."
+      },
+      {
+        "id": "3",
+        "titleEn": "Chapter 2. On the Epistle to the Galatians. The Abolition of the Ordinances of the Mosaic Law No Proof of Another God. The Divine Lawgiver, the Creator Himself, Was the Abrogator. The Apostle's Doctrine in the First Chapter Shown to Accord with the Teaching of the Old Testament. The Acts of the Apostles Shown to Be Genuine Against Marcion. This Book Agrees with the Pauline Epistles.",
+        "titleLt": "Chapter 2. On the Epistle to the Galatians. The Abolition of the Ordinances of the Mosaic Law No Proof of Another God. The Divine Lawgiver, the Creator Himself, Was the Abrogator. The Apostle's Doctrine in the First Chapter Shown to Accord with the Teaching of the Old Testament. The Acts of the Apostles Shown to Be Genuine Against Marcion. This Book Agrees with the Pauline Epistles."
+      },
+      {
+        "id": "4",
+        "titleEn": "Chapter 3. St. Paul Quite in Accordance with St. Peter and Other Apostles of the Circumcision. His Censure of St. Peter Explained, and Rescued from Marcion's Misapplication. The Strong Protests of This Epistle Against Judaizers. Yet Its Teaching is Shown to Be in Keeping with the Law and the Prophets. Marcion's Tampering with St. Paul's Writings Censured.",
+        "titleLt": "Chapter 3. St. Paul Quite in Accordance with St. Peter and Other Apostles of the Circumcision. His Censure of St. Peter Explained, and Rescued from Marcion's Misapplication. The Strong Protests of This Epistle Against Judaizers. Yet Its Teaching is Shown to Be in Keeping with the Law and the Prophets. Marcion's Tampering with St. Paul's Writings Censured."
+      },
+      {
+        "id": "5",
+        "titleEn": "Chapter 4. Another Instance of Marcion's Tampering with St. Paul's Text. The Fulness of Time, Announced by the Apostle, Foretold by the Prophets. Mosaic Rites Abrogated by the Creator Himself. Marcion's Tricks About Abraham's Name. The Creator, by His Christ, the Fountain of the Grace and the Liberty Which St. Paul Announced. Marcion's Docetism Refuted.",
+        "titleLt": "Chapter 4. Another Instance of Marcion's Tampering with St. Paul's Text. The Fulness of Time, Announced by the Apostle, Foretold by the Prophets. Mosaic Rites Abrogated by the Creator Himself. Marcion's Tricks About Abraham's Name. The Creator, by His Christ, the Fountain of the Grace and the Liberty Which St. Paul Announced. Marcion's Docetism Refuted."
+      },
+      {
+        "id": "6",
+        "titleEn": "Chapter 5. The First Epistle to the Corinthians. The Pauline Salutation of Grace and Peace Shown to Be Anti-Marcionite. The Cross of Christ Purposed by the Creator. Marcion Only Perpetuates the Offence and Foolishness of Christ's Cross by His Impious Severance of the Gospel from the Creator. Analogies Between the Law and the Gospel in the Matter of Weak Things, and Foolish Things and Base Things.",
+        "titleLt": "Chapter 5. The First Epistle to the Corinthians. The Pauline Salutation of Grace and Peace Shown to Be Anti-Marcionite. The Cross of Christ Purposed by the Creator. Marcion Only Perpetuates the Offence and Foolishness of Christ's Cross by His Impious Severance of the Gospel from the Creator. Analogies Between the Law and the Gospel in the Matter of Weak Things, and Foolish Things and Base Things."
+      },
+      {
+        "id": "7",
+        "titleEn": "Chapter 6. The Divine Way of Wisdom, and Greatness, and Might. God's Hiding of Himself, and Subsequent Revelation. To Marcion's God Such a Concealment and Manifestation Impossible. God's Predestination. No Such Prior System of Intention Possible to a God Previously Unknown as Was Marcion's. The Powers of the World Which Crucified Christ. St. Paul, as a Wise Master-Builder, Associated with Prophecy. Sundry Injunctions of the Apostle Parallel with the Teaching of the Old Testament.",
+        "titleLt": "Chapter 6. The Divine Way of Wisdom, and Greatness, and Might. God's Hiding of Himself, and Subsequent Revelation. To Marcion's God Such a Concealment and Manifestation Impossible. God's Predestination. No Such Prior System of Intention Possible to a God Previously Unknown as Was Marcion's. The Powers of the World Which Crucified Christ. St. Paul, as a Wise Master-Builder, Associated with Prophecy. Sundry Injunctions of the Apostle Parallel with the Teaching of the Old Testament."
+      },
+      {
+        "id": "8",
+        "titleEn": "Chapter 7. St. Paul's Phraseology Often Suggested by the Jewish Scriptures. Christ Our Passover — A Phrase Which Introduces Us to the Very Heart of the Ancient Dispensation. Christ's True Corporeity. Married and Unmarried States. Meaning of the Time is Short. In His Exhortations and Doctrine, the Apostle Wholly Teaches According to the Mind and Purposes of the God of the Old Testament. Prohibition of Meats and Drinks Withdrawn by the Creator.",
+        "titleLt": "Chapter 7. St. Paul's Phraseology Often Suggested by the Jewish Scriptures. Christ Our Passover — A Phrase Which Introduces Us to the Very Heart of the Ancient Dispensation. Christ's True Corporeity. Married and Unmarried States. Meaning of the Time is Short. In His Exhortations and Doctrine, the Apostle Wholly Teaches According to the Mind and Purposes of the God of the Old Testament. Prohibition of Meats and Drinks Withdrawn by the Creator."
+      },
+      {
+        "id": "9",
+        "titleEn": "Chapter 8. Man the Image of the Creator, and Christ the Head of the Man. Spiritual Gifts. The Sevenfold Spirit Described by Isaiah. The Apostle and the Prophet Compared. Marcion Challenged to Produce Anything Like These Gifts of the Spirit Foretold in Prophecy in His God.",
+        "titleLt": "Chapter 8. Man the Image of the Creator, and Christ the Head of the Man. Spiritual Gifts. The Sevenfold Spirit Described by Isaiah. The Apostle and the Prophet Compared. Marcion Challenged to Produce Anything Like These Gifts of the Spirit Foretold in Prophecy in His God."
+      },
+      {
+        "id": "10",
+        "titleEn": "Chapter 9. The Doctrine of the Resurrection. The Body Will Rise Again. Christ's Judicial Character. Jewish Perversions of Prophecy Exposed and Confuted. Messianic Psalms Vindicated. Jewish and Rationalistic Interpretations on This Point Similar. Jesus — Not Hezekiah or Solomon — The Subject of These Prophecies in the Psalms. None But He is the Christ of the Old and the New Testaments.",
+        "titleLt": "Chapter 9. The Doctrine of the Resurrection. The Body Will Rise Again. Christ's Judicial Character. Jewish Perversions of Prophecy Exposed and Confuted. Messianic Psalms Vindicated. Jewish and Rationalistic Interpretations on This Point Similar. Jesus — Not Hezekiah or Solomon — The Subject of These Prophecies in the Psalms. None But He is the Christ of the Old and the New Testaments."
+      },
+      {
+        "id": "11",
+        "titleEn": "Chapter 10. Doctrine of the Resurrection of the Body, Continued. How are the Dead Raised? And with What Body Do They Come? These Questions Answered in Such a Sense as to Maintain the Truth of the Raised Body, Against Marcion. Christ as the Second Adam Connected with the Creator of the First Man. Let Us Bear the Image of the Heavenly. The Triumph Over Death in Accordance with the Prophets. Hosea and St. Paul Compared.",
+        "titleLt": "Chapter 10. Doctrine of the Resurrection of the Body, Continued. How are the Dead Raised? And with What Body Do They Come? These Questions Answered in Such a Sense as to Maintain the Truth of the Raised Body, Against Marcion. Christ as the Second Adam Connected with the Creator of the First Man. Let Us Bear the Image of the Heavenly. The Triumph Over Death in Accordance with the Prophets. Hosea and St. Paul Compared."
+      },
+      {
+        "id": "12",
+        "titleEn": "Chapter 11. The Second Epistle to the Corinthians. The Creator the Father of Mercies. Shown to Be Such in the Old Testament, and Also in Christ. The Newness of the New Testament. The Veil of Obdurate Blindness Upon Israel, Not Reprehensible on Marcion's Principles. The Jews Guilty in Rejecting the Christ of the Creator. Satan, the God of This World. The Treasure in Earthen Vessels Explained Against Marcion. The Creator's Relation to These Vessels, I.e. Our Bodies.",
+        "titleLt": "Chapter 11. The Second Epistle to the Corinthians. The Creator the Father of Mercies. Shown to Be Such in the Old Testament, and Also in Christ. The Newness of the New Testament. The Veil of Obdurate Blindness Upon Israel, Not Reprehensible on Marcion's Principles. The Jews Guilty in Rejecting the Christ of the Creator. Satan, the God of This World. The Treasure in Earthen Vessels Explained Against Marcion. The Creator's Relation to These Vessels, I.e. Our Bodies."
+      },
+      {
+        "id": "13",
+        "titleEn": "Chapter 12. The Eternal Home in Heaven. Beautiful Exposition by Tertullian of the Apostle's Consolatory Teaching Against the Fear of Death, So Apt to Arise Under Anti-Christian Oppression. The Judgment-Seat of Christ — The Idea, Anti-Marcionite. Paradise. Judicial Characteristics of Christ Which are Inconsistent with the Heretical Views About Him; The Apostle's Sharpness, or Severity, Shows Him to Be a Fit Preacher of the Creator's Christ.",
+        "titleLt": "Chapter 12. The Eternal Home in Heaven. Beautiful Exposition by Tertullian of the Apostle's Consolatory Teaching Against the Fear of Death, So Apt to Arise Under Anti-Christian Oppression. The Judgment-Seat of Christ — The Idea, Anti-Marcionite. Paradise. Judicial Characteristics of Christ Which are Inconsistent with the Heretical Views About Him; The Apostle's Sharpness, or Severity, Shows Him to Be a Fit Preacher of the Creator's Christ."
+      },
+      {
+        "id": "14",
+        "titleEn": "Chapter 13. The Epistle to the Romans. St. Paul Cannot Help Using Phrases Which Bespeak the Justice of God, Even When He is Eulogizing the Mercies of the Gospel. Marcion Particularly Hard in Mutilation of This Epistle. Yet Our Author Argues on Common Ground. The Judgment at Last Will Be in Accordance with the Gospel. The Justified by Faith Exhorted to Have Peace with God. The Administration of the Old and the New Dispensations in One and the Same Hand.",
+        "titleLt": "Chapter 13. The Epistle to the Romans. St. Paul Cannot Help Using Phrases Which Bespeak the Justice of God, Even When He is Eulogizing the Mercies of the Gospel. Marcion Particularly Hard in Mutilation of This Epistle. Yet Our Author Argues on Common Ground. The Judgment at Last Will Be in Accordance with the Gospel. The Justified by Faith Exhorted to Have Peace with God. The Administration of the Old and the New Dispensations in One and the Same Hand."
+      },
+      {
+        "id": "15",
+        "titleEn": "Chapter 14. The Divine Power Shown in Christ's Incarnation. Meaning of St. Paul's Phrase. Likeness of Sinful Flesh. No Docetism in It. Resurrection of Our Real Bodies. A Wide Chasm Made in the Epistle by Marcion's Erasure. When the Jews are Upbraided by the Apostle for Their Misconduct to God; Inasmuch as that God Was the Creator, a Proof is in Fact Given that St. Paul's God Was the Creator. The Precepts at the End of the Epistle, Which Marcion Allowed, Shown to Be in Exact Accordance with the Creator's Scriptures.",
+        "titleLt": "Chapter 14. The Divine Power Shown in Christ's Incarnation. Meaning of St. Paul's Phrase. Likeness of Sinful Flesh. No Docetism in It. Resurrection of Our Real Bodies. A Wide Chasm Made in the Epistle by Marcion's Erasure. When the Jews are Upbraided by the Apostle for Their Misconduct to God; Inasmuch as that God Was the Creator, a Proof is in Fact Given that St. Paul's God Was the Creator. The Precepts at the End of the Epistle, Which Marcion Allowed, Shown to Be in Exact Accordance with the Creator's Scriptures."
+      },
+      {
+        "id": "16",
+        "titleEn": "Chapter 15. The First Epistle to the Thessalonians. The Shorter Epistles Pungent in Sense and Very Valuable. St. Paul Upbraids the Jews for the Death First of Their Prophets and Then of Christ. This a Presumption that Both Christ and the Prophets Pertained to the Same God. The Law of Nature, Which is in Fact the Creator's Discipline, and the Gospel of Christ Both Enjoin Chastity. The Resurrection Provided for in the Old Testament by Christ. Man's Compound Nature.",
+        "titleLt": "Chapter 15. The First Epistle to the Thessalonians. The Shorter Epistles Pungent in Sense and Very Valuable. St. Paul Upbraids the Jews for the Death First of Their Prophets and Then of Christ. This a Presumption that Both Christ and the Prophets Pertained to the Same God. The Law of Nature, Which is in Fact the Creator's Discipline, and the Gospel of Christ Both Enjoin Chastity. The Resurrection Provided for in the Old Testament by Christ. Man's Compound Nature."
+      },
+      {
+        "id": "17",
+        "titleEn": "Chapter 16. The Second Epistle to the Thessalonians. An Absurd Erasure of Marcion; Its Object Transparent. The Final Judgment on the Heathen as Well as the Jews Could Not Be Administered by Marcion's Christ. The Man of Sin — What? Inconsistency of Marcion's View. The Antichrist. The Great Events of the Last Apostasy Within the Providence and Intention of the Creator, Whose are All Things from the Beginning. Similarity of the Pauline Precepts with Those of the Creator.",
+        "titleLt": "Chapter 16. The Second Epistle to the Thessalonians. An Absurd Erasure of Marcion; Its Object Transparent. The Final Judgment on the Heathen as Well as the Jews Could Not Be Administered by Marcion's Christ. The Man of Sin — What? Inconsistency of Marcion's View. The Antichrist. The Great Events of the Last Apostasy Within the Providence and Intention of the Creator, Whose are All Things from the Beginning. Similarity of the Pauline Precepts with Those of the Creator."
+      },
+      {
+        "id": "18",
+        "titleEn": "Chapter 17. The Epistle to the Laodiceans. The Proper Designation is to the Ephesians. Recapitulation of All Things in Christ from the Beginning of the Creation. No Room for Marcion's Christ Here. Numerous Parallels Between This Epistle and Passages in the Old Testament. The Prince of the Power of the Air, and the God of This World — Who? Creation and Regeneration the Work of One God. How Christ Has Made the Law Obsolete. A Vain Erasure of Marcion's. The Apostles as Well as the Prophets from the Creator.",
+        "titleLt": "Chapter 17. The Epistle to the Laodiceans. The Proper Designation is to the Ephesians. Recapitulation of All Things in Christ from the Beginning of the Creation. No Room for Marcion's Christ Here. Numerous Parallels Between This Epistle and Passages in the Old Testament. The Prince of the Power of the Air, and the God of This World — Who? Creation and Regeneration the Work of One God. How Christ Has Made the Law Obsolete. A Vain Erasure of Marcion's. The Apostles as Well as the Prophets from the Creator."
+      },
+      {
+        "id": "19",
+        "titleEn": "Chapter 18. Another Foolish Erasure of Marcion's Exposed. Certain Figurative Expressions of the Apostle, Suggested by the Language of the Old Testament. Collation of Many Passages of This Epistle, with Precepts and Statements in the Pentateuch, the Psalms, and the Prophets. All Alike Teach Us the Will and Purpose of the Creator.",
+        "titleLt": "Chapter 18. Another Foolish Erasure of Marcion's Exposed. Certain Figurative Expressions of the Apostle, Suggested by the Language of the Old Testament. Collation of Many Passages of This Epistle, with Precepts and Statements in the Pentateuch, the Psalms, and the Prophets. All Alike Teach Us the Will and Purpose of the Creator."
+      },
+      {
+        "id": "20",
+        "titleEn": "Chapter 19. The Epistle to the Colossians. Time the Criterion of Truth and Heresy. Application of the Canon. The Image of the Invisible God Explained. Pre-Existence of Our Christ in the Creator's Ancient Dispensations. What is Included in the Fulness of Christ. The Epicurean Character of Marcion's God. The Catholic Truth in Opposition Thereto. The Law is to Christ What the Shadow is to the Substance.",
+        "titleLt": "Chapter 19. The Epistle to the Colossians. Time the Criterion of Truth and Heresy. Application of the Canon. The Image of the Invisible God Explained. Pre-Existence of Our Christ in the Creator's Ancient Dispensations. What is Included in the Fulness of Christ. The Epicurean Character of Marcion's God. The Catholic Truth in Opposition Thereto. The Law is to Christ What the Shadow is to the Substance."
+      },
+      {
+        "id": "21",
+        "titleEn": "Chapter 20. The Epistle to the Philippians. The Variances Amongst the Preachers of Christ No Argument that There Was More Than One Only Christ. St. Paul's Phrases — Form of a Servant, Likeness, and Fashion of a Man — No Sanction of Docetism. No Antithesis (Such as Marcion Alleged) in the God of Judaism and the God of the Gospel Deducible from Certain Contrasts Mentioned in This Epistle. A Parallel with a Passage in Genesis. The Resurrection of the Body, and the Change Thereof.",
+        "titleLt": "Chapter 20. The Epistle to the Philippians. The Variances Amongst the Preachers of Christ No Argument that There Was More Than One Only Christ. St. Paul's Phrases — Form of a Servant, Likeness, and Fashion of a Man — No Sanction of Docetism. No Antithesis (Such as Marcion Alleged) in the God of Judaism and the God of the Gospel Deducible from Certain Contrasts Mentioned in This Epistle. A Parallel with a Passage in Genesis. The Resurrection of the Body, and the Change Thereof."
+      },
+      {
+        "id": "22",
+        "titleEn": "Chapter 21. The Epistle to Philemon. This Epistle Not Mutilated. Marcion's Inconsistency in Accepting This, and Rejecting Three Other Epistles Addressed to Individuals. Conclusions. Tertullian Vindicates the Symmetry and Deliberate Purpose of His Work Against Marcion.",
+        "titleLt": "Chapter 21. The Epistle to Philemon. This Epistle Not Mutilated. Marcion's Inconsistency in Accepting This, and Rejecting Three Other Epistles Addressed to Individuals. Conclusions. Tertullian Vindicates the Symmetry and Deliberate Purpose of His Work Against Marcion."
+      },
+      {
+        "id": "23",
+        "titleEn": "About this page",
+        "titleLt": "About this page"
+      }
+    ]
+  },
+  {
+    "slug": "poxy-1224",
+    "title": "P.Oxy. 1224 — Uncanonical Gospel Fragment",
+    "translator": "Bernard P. Grenfell and Arthur S. Hunt",
+    "source": "https://archive.org/details/oxyrhynchuspapyr10gren",
+    "license": "Public Domain (US; Oxyrhynchus Papyri edition pre-1931)",
+    "chars": 24266,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "P.Oxy. 1224 — Uncanonical Gospel Fragment",
+        "titleLt": "P.Oxy. 1224 — Uncanonical Gospel Fragment"
+      }
+    ]
+  },
+  {
+    "slug": "poxy-840",
+    "title": "P.Oxy. 840 — Fragment of an Uncanonical Gospel",
+    "translator": "Bernard P. Grenfell and Arthur S. Hunt",
+    "source": "https://archive.org/details/oxyrhynchuspapyr05gren",
+    "license": "Public Domain (US; Oxyrhynchus Papyri edition pre-1931)",
+    "chars": 28447,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "P.Oxy. 840 — Fragment of an Uncanonical Gospel",
+        "titleLt": "P.Oxy. 840 — Fragment of an Uncanonical Gospel"
+      }
+    ]
+  },
+  {
+    "slug": "zostrianos",
+    "title": "Zostrianos\nhttps://othergospels.com/zostrianos/",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 76124,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "melchizedek-qumran",
+    "title": "1 Melchizedek",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 4537,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "odes-solomon",
+    "title": "Odes of Solomon",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 49035,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "untitled-bruce",
+    "title": "Untitled Text (Bruce) — Gnosis of the Light",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 77163,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "act-peter",
+    "title": "The Act of Peter (Berlin BG 8502,4)",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 6180,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "shem",
+    "title": "The Paraphrase of Shem",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 52178,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "egyptians-sethian",
+    "title": "Sacred Book / Coptic Gospel of the Egyptians",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 32052,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "allogenes",
+    "title": "Allogenes (NHC XI,3)",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 23794,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "interpretation-knowledge",
+    "title": "The Interpretation of Knowledge",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 20861,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "pseudo-matthew",
+    "title": "The Gospel of Pseudo-Matthew",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 72887,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "arabic-infancy",
+    "title": "Arabic Gospel of the Infancy",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 54537,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "joseph-carpenter",
+    "title": "History of Joseph the Carpenter",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 31065,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "bartholomew",
+    "title": "Questions of Bartholomew",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 38498,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "fayyum",
+    "title": "Fayyum Gospel Fragment",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 1325,
+    "sections": 1,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "bartholomew-resurrection",
+    "title": "Book of the Resurrection by Bartholomew",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 97795,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "thomas-poxy-1",
+    "title": "Gospel of Thomas Greek fragments (P.Oxy. 1)",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 12270,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "thomas-poxy-654",
+    "title": "Gospel of Thomas Greek fragments (P.Oxy. 654)",
+    "translator": "Public-domain edition (see source note)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 4369,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "egyptians-patristic",
+    "title": "The Gospel of the Egyptians",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 4260,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "hebrews",
+    "title": "The Gospel of the Hebrews",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 21571,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "apocalypse-peter-greek",
+    "title": "The Apocalypse of Peter",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 1981,
+    "sections": 1,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "hermas",
+    "title": "Shepherd of Hermas",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 49823,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "preaching-peter",
+    "title": "The Preaching of Peter",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 9578,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "ebionites",
+    "title": "The Gospel of the Ebionites",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 5622,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "matthias",
+    "title": "The Traditions of Matthias",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 1330,
+    "sections": 1,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "epistula-apostolorum",
+    "title": "The Epistula Apostolorum",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 127659,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "acts-peter",
+    "title": "The Acts of Peter",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 103061,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "acts-john",
+    "title": "The Acts of John",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 112716,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "acts-paul",
+    "title": "The Acts of Paul",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 46847,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "3-corinthians",
+    "title": "Third Epistle to the Corinthians",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 22709,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "acts-andrew",
+    "title": "The Acts of Andrew",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 1184,
+    "sections": 1,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "acts-andrew-matthias",
+    "title": "Acts of Andrew and Matthias",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 72139,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "acts-thomas",
+    "title": "The Acts of Thomas",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 204761,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "nicodemus",
+    "title": "The Gospel of Nicodemus",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 194078,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "acts-peter-paul",
+    "title": "Acts of Peter and Paul",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 334945,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "basilides",
+    "title": "Basilides",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 4129,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "naassene",
+    "title": "The Naassene Fragment",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 1046,
+    "sections": 1,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "epiphanes",
+    "title": "Epiphanes",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 10778,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "ptolemy-flora",
+    "title": "Ptolemy, Letter to Flora",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 18796,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "theodotus",
+    "title": "Excerpts of Theodotus",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 36086,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "heracleon",
+    "title": "Fragments of Heracleon",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 34247,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "marcion-gospel",
+    "title": "Marcion, The Gospel of the Lord",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 29499,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "visio-pauli",
+    "title": "Visio Pauli",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 84999,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "apocalypse-virgin",
+    "title": "Apocalypse of the Virgin",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 40255,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "apocalypse-thomas",
+    "title": "Apocalypse of Thomas",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 291590,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "life-of-john",
+    "title": "Life of John the Baptist",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 434654,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "pilate-tiberius",
+    "title": "Letter of Pilate to Tiberius",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 1574,
+    "sections": 1,
+    "completeness": "excerpt",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "giving-up-pilate",
+    "title": "Giving Up of Pontius Pilate",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 5935,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "death-pilate",
+    "title": "Death of Pilate",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 6439,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "vindicta",
+    "title": "Avenging of the Saviour",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 139779,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "clementine-recognitions",
+    "title": "Pseudo-Clementine Recognitions",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 655262,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "clementine-homilies",
+    "title": "Pseudo-Clementine Homilies",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 603954,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "acts-philip",
+    "title": "Acts of Saint Philip",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 36488,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "acts-barnabas",
+    "title": "Acts of Barnabas",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 103771,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "abgar",
+    "title": "Letters of Christ and Abgarus",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 2645,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "laodiceans",
+    "title": "Epistle to the Laodiceans",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 2641,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  },
+  {
+    "slug": "paul-seneca",
+    "title": "Paul and Seneca",
+    "translator": "M. R. James / ANF / Lightfoot (PD)",
+    "source": "VISAS_PD_KORPUSAS/PRIEDAS_IS_DOCX.md",
+    "license": "Public Domain",
+    "chars": 311287,
+    "sections": 1,
+    "completeness": "full",
+    "chapters": [
+      {
+        "id": "1",
+        "titleEn": "Section 1",
+        "titleLt": "Skyrius 1"
+      }
+    ]
+  }
+]

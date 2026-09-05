@@ -1,26 +1,220 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-bg: var(--aeon-bg);
+  --color-elevated: var(--aeon-elevated);
+  --color-line: var(--aeon-line);
+  --color-ink: var(--aeon-ink);
+  --color-muted: var(--aeon-muted);
+  --color-gold: var(--aeon-gold);
+  --color-heretic: #8b3a3a;
+  --color-paper: #f3ecd8;
+  --color-paper-ink: #2a2418;
+  --color-sepia: #1a1610;
+  --color-sepia-ink: #e6d8b8;
+  --color-chrome: var(--aeon-chrome);
+  --font-display: var(--font-fraunces);
+  --font-sans: var(--font-geist);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+:root,
+html.dark {
+  --aeon-bg: #07070a;
+  --aeon-elevated: #101014;
+  --aeon-line: rgba(255, 255, 255, 0.08);
+  --aeon-ink: #e8e4d9;
+  --aeon-muted: #8a8578;
+  --aeon-gold: #c4a574;
+  --aeon-chrome: rgba(7, 7, 10, 0.88);
+  --reader-size: 1.125rem;
+  --reader-leading: 1.75;
+  color-scheme: dark;
+}
+
+html.light {
+  --aeon-bg: #f3ecd8;
+  --aeon-elevated: #fff8ea;
+  --aeon-line: rgba(42, 36, 24, 0.12);
+  --aeon-ink: #2a2418;
+  --aeon-muted: #6b6456;
+  --aeon-gold: #8f6e3a;
+  --aeon-chrome: rgba(243, 236, 216, 0.88);
+  color-scheme: light;
+}
+
+html,
+body {
+  background-color: var(--aeon-bg);
+  color: var(--aeon-ink);
+  font-family: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  min-height: 100dvh;
+}
+
+::selection {
+  background: color-mix(in oklab, var(--aeon-gold) 35%, transparent);
+  color: var(--aeon-ink);
+}
+
+:focus-visible {
+  outline: 1px solid var(--aeon-gold);
+  outline-offset: 3px;
+}
+
+button:not(:disabled),
+[role="button"] {
+  cursor: pointer;
+}
+
+.measure {
+  max-width: 68ch;
+}
+
+.progress-gold {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 1px;
+  background: var(--aeon-gold);
+  z-index: 60;
+}
+
+.reader-text {
+  font-size: var(--reader-size);
+  line-height: var(--reader-leading);
+}
+
+.reader-night {
+  --aeon-bg: #07070a;
+  --aeon-elevated: #101014;
+  --aeon-line: rgba(255, 255, 255, 0.08);
+  --aeon-ink: #e8e4d9;
+  --aeon-muted: #8a8578;
+  --aeon-gold: #c4a574;
+  --aeon-chrome: rgba(7, 7, 10, 0.88);
+  color-scheme: dark;
+}
+
+.reader-paper {
+  --aeon-bg: #f3ecd8;
+  --aeon-elevated: #fff8ea;
+  --aeon-line: rgba(42, 36, 24, 0.12);
+  --aeon-ink: #2a2418;
+  --aeon-muted: #6b6456;
+  --aeon-gold: #8f6e3a;
+  --aeon-chrome: rgba(243, 236, 216, 0.88);
+  color-scheme: light;
+}
+
+.reader-sepia {
+  --aeon-bg: #1a1610;
+  --aeon-elevated: #241e16;
+  --aeon-line: rgba(230, 216, 184, 0.14);
+  --aeon-ink: #e6d8b8;
+  --aeon-muted: #b3a58a;
+  --aeon-gold: #c4a574;
+  --aeon-chrome: rgba(26, 22, 16, 0.88);
+  color-scheme: dark;
+}
+
+.reader-night,
+.reader-paper,
+.reader-sepia {
+  --color-bg: var(--aeon-bg);
+  --color-elevated: var(--aeon-elevated);
+  --color-line: var(--aeon-line);
+  --color-ink: var(--aeon-ink);
+  --color-muted: var(--aeon-muted);
+  --color-gold: var(--aeon-gold);
+  --color-chrome: var(--aeon-chrome);
+  background-color: var(--aeon-bg);
+  color: var(--aeon-ink);
+}
+
+.prose-aeon {
+  font-family: var(--font-display), ui-serif, georgia, serif;
+  font-size: var(--reader-size);
+  line-height: var(--reader-leading);
+}
+
+.prose-aeon :where(h1, h2, h3, h4) {
+  font-family: var(--font-display), ui-serif, georgia, serif;
+  color: var(--aeon-gold);
+  line-height: 1.25;
+  margin: 1.4em 0 0.55em;
+}
+
+.prose-aeon :where(h1) {
+  font-size: 1.55em;
+}
+
+.prose-aeon :where(h2) {
+  font-size: 1.28em;
+}
+
+.prose-aeon :where(h3, h4) {
+  font-size: 1.08em;
+}
+
+.prose-aeon :where(p, ul, ol, blockquote) {
+  margin: 0 0 1em;
+}
+
+.prose-aeon :where(a) {
+  color: var(--aeon-gold);
+  text-underline-offset: 0.25em;
+}
+
+.prose-aeon :where(a:hover) {
+  text-decoration: underline;
+}
+
+.prose-aeon :where(em) {
+  font-style: italic;
+}
+
+.prose-aeon :where(strong) {
+  font-weight: 600;
+}
+
+.prose-aeon :where(ul) {
+  list-style: disc;
+  padding-left: 1.2em;
+}
+
+.prose-aeon :where(ol) {
+  list-style: decimal;
+  padding-left: 1.2em;
+}
+
+.prose-aeon :where(li) {
+  margin: 0.25em 0;
+}
+
+.prose-aeon :where(blockquote) {
+  border-left: 1px solid var(--aeon-gold);
+  color: var(--aeon-muted);
+  padding-left: 1em;
+}
+
+.prose-aeon :where(hr) {
+  border: 0;
+  border-top: 1px solid var(--aeon-line);
+  margin: 2em 0;
+}
+
+.prose-aeon :where(code) {
+  color: var(--aeon-gold);
+  font-size: 0.9em;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }

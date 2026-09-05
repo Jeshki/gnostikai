@@ -1,0 +1,1099 @@
+{
+  "thomas": {
+    "introLt": "114 posakių, priskiriamų gyvajam Jėzui, be kančios pasakojimo. Koptų tekstas — Kodeksas II; graikiški fragmentai jau buvo žinomi iš Oksirinho. Čia — Marko M. Mattisono viešosios nuosavybės vertimas.",
+    "chapters": {
+      "1": "Posakis 1",
+      "2": "Posakis 2",
+      "3": "Posakis 3",
+      "4": "Posakis 4",
+      "5": "Posakis 5",
+      "6": "Posakis 6",
+      "7": "Posakis 7",
+      "8": "Posakis 8",
+      "9": "Posakis 9",
+      "10": "Posakis 10",
+      "11": "Posakis 11",
+      "12": "Posakis 12",
+      "13": "Posakis 13",
+      "14": "Posakis 14",
+      "15": "Posakis 15",
+      "16": "Posakis 16",
+      "17": "Posakis 17",
+      "18": "Posakis 18",
+      "19": "Posakis 19",
+      "20": "Posakis 20",
+      "21": "Posakis 21",
+      "22": "Posakis 22",
+      "23": "Posakis 23",
+      "24": "Posakis 24",
+      "25": "Posakis 25",
+      "26": "Posakis 26",
+      "27": "Posakis 27",
+      "28": "Posakis 28",
+      "29": "Posakis 29",
+      "30": "Posakis 30",
+      "31": "Posakis 31",
+      "32": "Posakis 32",
+      "33": "Posakis 33",
+      "34": "Posakis 34",
+      "35": "Posakis 35",
+      "36": "Posakis 36",
+      "37": "Posakis 37",
+      "38": "Posakis 38",
+      "39": "Posakis 39",
+      "40": "Posakis 40",
+      "41": "Posakis 41",
+      "42": "Posakis 42",
+      "43": "Posakis 43",
+      "44": "Posakis 44",
+      "45": "Posakis 45",
+      "46": "Posakis 46",
+      "47": "Posakis 47",
+      "48": "Posakis 48",
+      "49": "Posakis 49",
+      "50": "Posakis 50",
+      "51": "Posakis 51",
+      "52": "Posakis 52",
+      "53": "Posakis 53",
+      "54": "Posakis 54",
+      "55": "Posakis 55",
+      "56": "Posakis 56",
+      "57": "Posakis 57",
+      "58": "Posakis 58",
+      "59": "Posakis 59",
+      "60": "Posakis 60",
+      "61": "Posakis 61",
+      "62": "Posakis 62",
+      "63": "Posakis 63",
+      "64": "Posakis 64",
+      "65": "Posakis 65",
+      "66": "Posakis 66",
+      "67": "Posakis 67",
+      "68": "Posakis 68",
+      "69": "Posakis 69",
+      "70": "Posakis 70",
+      "71": "Posakis 71",
+      "72": "Posakis 72",
+      "73": "Posakis 73",
+      "74": "Posakis 74",
+      "75": "Posakis 75",
+      "76": "Posakis 76",
+      "77": "Posakis 77",
+      "78": "Posakis 78",
+      "79": "Posakis 79",
+      "80": "Posakis 80",
+      "81": "Posakis 81",
+      "82": "Posakis 82",
+      "83": "Posakis 83",
+      "84": "Posakis 84",
+      "85": "Posakis 85",
+      "86": "Posakis 86",
+      "87": "Posakis 87",
+      "88": "Posakis 88",
+      "89": "Posakis 89",
+      "90": "Posakis 90",
+      "91": "Posakis 91",
+      "92": "Posakis 92",
+      "93": "Posakis 93",
+      "94": "Posakis 94",
+      "95": "Posakis 95",
+      "96": "Posakis 96",
+      "97": "Posakis 97",
+      "98": "Posakis 98",
+      "99": "Posakis 99",
+      "100": "Posakis 100",
+      "101": "Posakis 101",
+      "102": "Posakis 102",
+      "103": "Posakis 103",
+      "104": "Posakis 104",
+      "105": "Posakis 105",
+      "106": "Posakis 106",
+      "107": "Posakis 107",
+      "108": "Posakis 108",
+      "109": "Posakis 109",
+      "110": "Posakis 110",
+      "111": "Posakis 111",
+      "112": "Posakis 112",
+      "113": "Posakis 113",
+      "114": "Posakis 114"
+    }
+  },
+  "philip": {
+    "introLt": "Valentinianų rinkinys apie vardus, sakramentus ir vestuvių kambarį. Ne pasakojamoji evangelija.",
+    "chapters": {
+      "1": "Pilypo evangelija",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "truth": {
+    "introLt": "Homilinė meditacija, siejama su valentinianais: Klaida, užmarštis ir Tėvo pažinimas. Mattisono PD ištraukos.",
+    "chapters": {
+      "1": "Tiesos evangelija",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "egyptians-sethian": {
+    "introLt": "Taip pat vadinama „Didžiosios Nematomos Dvasios Šventąja knyga“. Setiečių teogonija ir krikšto liturgija, skirianti nuo graikų „Egiptiečių evangelijos“, žinomos tik iš bažnyčios tėvų citatų.",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "john": {
+    "introLt": "Pagrindinis setianų apreiškimas: Barbelo, Autogenes, Sofijos nuopuolis ir Yaldabaothas. Ilgoji (II, IV) ir trumpoji (III, BG) recenzijos.",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "secret-james": {
+    "introLt": "Jėzaus pokalbis su Jokūbu ir Petru po prisikėlimo, pateiktas kaip slaptas laiškas.",
+    "chapters": {
+      "1": "„Jokūbo paslaptingoji knyga“",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "adam": {
+    "introLt": "Adomas pasakoja Setui apie apreiškimą, susijusį su trimis išganytojo figūros nužengimais ir Setiano palikuonio išlikimu.",
+    "chapters": {
+      "1": "Adomo apreiškimas",
+      "2": "1. Adomas ir Ieva pamiršta savo tikrąją prigimtį",
+      "3": "2. Kova dėl Adomo proto",
+      "4": "3. Nojus, Tamsos Viešpaties tarnas",
+      "5": "4. Nojus teisme",
+      "6": "5. Nojus padalija žemę",
+      "7": "6. „400 000 – skleisk žinias“",
+      "8": "7. Išgelbėjimas iš ugnies",
+      "9": "8. Žinių šviesulys",
+      "10": "9. Trylikos karalysčių orakulai",
+      "11": "10. „Seto sėkla išteisinta“",
+      "12": "11. Išvados"
+    }
+  },
+  "apocalypse-peter-nhc": {
+    "introLt": "Gnostinė apokalipsė apie nukryžiavimą, o ne Akhmimo Petro apokalipsė. Gelbėtojas aiškina, kad matomos kančios priklauso kūniškajam pakaitalui.",
+    "chapters": {
+      "1": "Koptų Petro apreiškimas",
+      "2": "1. Gelbėtojas įspėja Petrą",
+      "3": "2. Smurto grėsmė",
+      "4": "3. Aklieji ir kurtieji",
+      "5": "4. Piktas, apgaulingas lyderis",
+      "6": "5. Nemirtingos sielos",
+      "7": "6. Klajojantys lyderiai",
+      "8": "7. Lyderiai, kurie sukuria klaidą",
+      "9": "8. Lyderiai, kurie engia „mažus“",
+      "10": "9. Lyderiai, vadinantys save vyskupais ir diakonais",
+      "11": "10. Jų klaida atskleista",
+      "12": "11. Gelbėtojo fizinio kūno nukryžiavimas",
+      "13": "12. Gyvasis Gelbėtojas",
+      "14": "13. Jėzus padrąsina Petrą"
+    }
+  },
+  "1james": {
+    "introLt": "Jokūbas gauna slaptažodžius, leidžiančius pakilti pro archontus. Antra kopija išliko „Codex Tchacos“ rankraštyje.",
+    "chapters": {
+      "1": "Jokūbo apokalipsė",
+      "2": "1. Jėzus ir Jokūbas",
+      "3": "2. Esantis",
+      "4": "3. Achamoth, Žemutinė Išmintis, sukuria jėgas ir dievybes",
+      "5": "4. Dvylika archontų",
+      "6": "5. Septyniasdešimt dvi poros",
+      "7": "6. Pergalė prieš jėgas",
+      "8": "7. Jokūbo išpirkimas",
+      "9": "8. Planas, kaip nugalėti archontus",
+      "10": "9. Jokūbas, Antrasis Mokytojas",
+      "11": "10. Jėzus padrąsina Jokūbą",
+      "12": "11. Mokesčių rinkėjai",
+      "13": "12. Apreiškimo perdavimas",
+      "14": "13. Septynios moterys mokinės",
+      "15": "14. Jokūbo kankinystė"
+    }
+  },
+  "2james": {
+    "introLt": "Jokūbo kalba prieš jo kankinystę, su himno pobūdžio išpažinimu.",
+    "chapters": {
+      "1": "Antroji Jokūbo apokalipsė",
+      "2": "1. Vienas iš kunigo giminaičių ragina Jokūbo tėvą įsikišti",
+      "3": "2. Jokūbas pradeda savo kalbą",
+      "4": "3. Aš esu",
+      "5": "4. Jėzus įspėja Jokūbą",
+      "6": "5. Kūrėjas, kuris įkalina",
+      "7": "6. „Gerosios durys“ pagal Jokūbą",
+      "8": "7. Jokūbas įspėja minią",
+      "9": "8. Kunigo ataskaitos pabaiga",
+      "10": "9. Jokūbo užmėtymas akmenimis",
+      "11": "10. Jokūbo paskutiniai žodžiai"
+    }
+  },
+  "archons": {
+    "introLt": "Setiečių „Pradžios knygos“ perdirbinys: valdovai, Norea ir Eleleth apreiškimas.",
+    "chapters": {
+      "1": "Archonų esmė",
+      "2": "1. Aklasis Dievas",
+      "3": "2. Archontai sukuria Adomą",
+      "4": "3. Edeno sodas ir Ievos sukūrimas",
+      "5": "4. Jie valgo vaisių",
+      "6": "5. Kainas ir Abelis; Norea ir Setas",
+      "7": "6. Potvynis",
+      "8": "7. „Eleleth išgelbėja Noreą“",
+      "9": "8. Archontų kilmė",
+      "10": "9. Archonas atgailauja",
+      "11": "10. Noreos paskutiniai klausimai"
+    }
+  },
+  "origin": {
+    "introLt": "Kosmologinis traktatas, susijęs su „Archontų hipostaze“.",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "thunder": {
+    "introLt": "Mįslingas „aš esu“ diskursas moterišku balsu. Viešosios nuosavybės vertimas: Samuel Zinner, red. Mark Mattison.",
+    "chapters": {
+      "1": "„Perkūnas, Tobulas Protas“",
+      "2": "1. Įvadas",
+      "3": "2. Pirmoji „Aš esu“ kalba",
+      "4": "3. „Heed Me“",
+      "5": "4. Kodėl tu manęs nekenči?",
+      "6": "5. Antroji „Aš esu“ kalba",
+      "7": "6. „Embrace Me“",
+      "8": "7. Trečioji „Aš esu“ kalba",
+      "9": "8. „Aš esu Šauksmas“",
+      "10": "9. Aš esu Teisingumas",
+      "11": "10. Paklusk man ir gyvensi amžinai",
+      "12": "11. Klausykitės Jo žodžių"
+    }
+  },
+  "protennoia": {
+    "introLt": "Trys „Pirmojo Minties“ apraiškos: Tėvas, Motina ir Sūnus / Logos.",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "norea": {
+    "introLt": "Trumpas Noreos himnas, skirtas keturiems šventiesiems pagalbininkams.",
+    "chapters": {
+      "1": "„Noreos mintys“",
+      "2": "1. Noreos malda",
+      "3": "2. „Norea Exalted“",
+      "4": "3. „Norea kalba“",
+      "5": "4. „Norea Complete“"
+    }
+  },
+  "soul": {
+    "introLt": "Allegorinis sielos nuopuolio ir atgimimo pasakojimas, susietas su Šventuoju Raštu.",
+    "chapters": {
+      "1": "Sielos egzegezė",
+      "2": "1. Sielos nuopuolis",
+      "3": "2. Sielos prostitucija pagal Šventąjį Raštą",
+      "4": "3. Sielos atgimimas",
+      "5": "4. Sielos santuoka",
+      "6": "5. Atgaila",
+      "7": "6. Odisėjo ir Helenos atgaila",
+      "8": "7. Išvados"
+    }
+  },
+  "authoritative": {
+    "introLt": "Siela – perlas tarp prekybininkų; nesetietiška išminties pamokslas.",
+    "chapters": {
+      "1": "„Autentiškas Logos“",
+      "2": "1. Sielos kilmė",
+      "3": "2. Logos kaip vaistas",
+      "4": "3. Sielos teismas",
+      "5": "4. Parabolė apie kviečius ir pelus",
+      "6": "5. Konkursas",
+      "7": "6. Gydantis Logos",
+      "8": "7. Parabolė apie žuvį",
+      "9": "8. „Velnio masalas“",
+      "10": "9. Tinkamas maistas",
+      "11": "10. Tikrasis Ganytojas",
+      "12": "11. Nežinantieji",
+      "13": "12. „Išsami siela“"
+    }
+  },
+  "rheginos": {
+    "introLt": "Valentiniano laiškas, kuriame teigiama, kad prisikėlimas jau yra dvasinė realybė.",
+    "chapters": {
+      "1": "Traktatas apie prisikėlimą",
+      "2": "1. Atsakymų paieška",
+      "3": "2. Viešpats buvo žmogus ir dievas",
+      "4": "3. Gelbėtojas nugalėjo mirtį",
+      "5": "4. Dvasinis prisikėlimas",
+      "6": "5. Tikėjimas ir protas",
+      "7": "6. Išrinktieji išgelbėjimui",
+      "8": "7. Kūnas ir viskas",
+      "9": "8. Prisikėlimas yra tikras",
+      "10": "9. Pasaulis yra iliuzija",
+      "11": "10. Patirkite prisikėlimą dabar",
+      "12": "11. Išvados"
+    }
+  },
+  "tripartite": {
+    "introLt": "Ilgiausias valentiniečių sisteminis traktatas: Tėvas, Sūnus, Bažnyčia; Logos; trys žmonijos rūšys.",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "valentinus-exposition": {
+    "introLt": "Fragmentiška valentiniečių kosmogonija, po kurios eina liturginiai skaitiniai apie patepimą, krikštą ir Eucharistiją.",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "mary": {
+    "introLt": "Marija pasakoja sielos kilimą pro Geismą, Nežinojimą ir Rūstybę. Trūksta p. 1–6 ir 11–14. Mattisono PD ištraukos.",
+    "chapters": {
+      "1": "Marijos evangelija",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "sophia-jesus": {
+    "introLt": "Krikščioniškas dialogas, kuriame „Eugnostos“ pateikiamas kaip mokymas po prisikėlimo.",
+    "chapters": {
+      "1": "Jėzaus Kristaus Sofija",
+      "2": "1. Atsiranda Gelbėtojas",
+      "3": "2. Tas, kuris yra",
+      "4": "3. To, kuris yra, išvaizda ir dvasia",
+      "5": "4. Tėvo atspindys",
+      "6": "5. Nemirtingasis žmogus, Sofija ir Ogdoadas",
+      "7": "6. Pirmagimis androginiškas sūnus",
+      "8": "7. „Pistis Sophia“",
+      "9": "8. Didieji eonai",
+      "10": "9. Angelai, dangūs ir pasauliai",
+      "11": "10. Motina Sofija ir Yaldabaothas",
+      "12": "11. Galutinis raginimas ir džiaugsmingas pamokslavimas"
+    }
+  },
+  "dialogue-savior": {
+    "introLt": "Fragmentiškas dialogas su Matą, Judu ir Marija apie poilsį ir išnykimą.",
+    "chapters": {
+      "1": "„Išganytojo dialogas“",
+      "2": "1. „Mokiniai ilsisi“",
+      "3": "2. Kaip melstis",
+      "4": "3. Apokalipsė",
+      "5": "4. Tvarka viduje",
+      "6": "5. Ieškojimas ir atskleidimas",
+      "7": "6. Kūrimas ir apipjaustymas",
+      "8": "7. Gyvenimo vieta",
+      "9": "8. Dangus ir žemė",
+      "10": "9. Tie, kurie neturi žinių",
+      "11": "10. Jėzus atskleidžia dangų",
+      "12": "11. Archontai ir vestuvių kambarys",
+      "13": "12. Gyvenimas ir mirtis",
+      "14": "13. Ieškoti ir atskleisti",
+      "15": "14. Tėvo kūriniai ir pasaulio kūriniai",
+      "16": "15. Būkite atidūs"
+    }
+  },
+  "contender": {
+    "introLt": "Asketiškas Gelbėtojo ir Judo Tomo dialogas apie kūną.",
+    "chapters": {
+      "1": "Tomas, kovotojas",
+      "2": "1. „Išganytojas eina su Tomu“",
+      "3": "2. Matoma ir nematoma",
+      "4": "3. Išmintis ir kvailystė",
+      "5": "4. Teismo diena",
+      "6": "5. Bedievių pasmerkimas",
+      "7": "6. Palaiminimai"
+    }
+  },
+  "peter-twelve": {
+    "introLt": "Alegorinė kelionė į devynių vartų miestą ir pas perlo prekiautoją Lithargoelį.",
+    "chapters": {
+      "1": "„Petro apaštalų darbai“",
+      "2": "1. Petras ir apaštalai išplaukia",
+      "3": "2. „Perlų prekybininkas“",
+      "4": "3. Sudėtingas kelias",
+      "5": "4. Apaštalai pasiekia miestą",
+      "6": "5. „Gydytojas“",
+      "7": "6. Viešpats moko mokinius"
+    }
+  },
+  "peter-philip": {
+    "introLt": "Apaštalai susirenka ant Alyvų kalno; apreiškimas apie trūkumą ir archontus.",
+    "chapters": {
+      "1": "Petro laiškas Pilypui",
+      "2": "1. Petras rašo Pilypui",
+      "3": "2. Petras suburia apaštalus melstis už saugumą",
+      "4": "3. Jėzus pasirodo apaštalams",
+      "5": "4. Tironas",
+      "6": "5. Jėzaus Kristaus įsikūnijimas",
+      "7": "6. Kova su jėgomis",
+      "8": "7. Kančia ir mirtis",
+      "9": "8. Apaštalai iškeliavo"
+    }
+  },
+  "melchizedek": {
+    "introLt": "Labai apgadintas setiečių traktatas, kuriame Melchizedekas tapatinamas su aukštuoju kunigu Jėzumi.",
+    "chapters": {
+      "1": "Pradžia"
+    }
+  },
+  "marsanes": {
+    "introLt": "Fragmentiškas platonistinis setitų traktatas apie pakilimą; dauguma puslapių smarkiai apgadinti.",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "allogenes": {
+    "introLt": "Platonizuotas setiečių pakilimas. Skiriasi nuo Tchacos „Svetimojo knygos“.",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "zostrianos": {
+    "introLt": "Ilgiausias Nag Hammadi traktatas; vizionieriškas pakilimas su daugybe spragų.",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "three-steles": {
+    "introLt": "Trys Dositejo liturginiai himnai, skirti Setiano triadai.",
+    "chapters": {
+      "1": "Trys Setho stelos",
+      "2": "1. Dositejo apreiškimas",
+      "3": "Pirmoji Seto stela",
+      "4": "2. Šlovė Pigeradamasui",
+      "5": "3. Šlovė Savęs Gimdytojui",
+      "6": "4. Šlovė Barbelo",
+      "7": "Antroji Seto stela",
+      "8": "5. Bendruomenės šlovinimas",
+      "9": "6. Bendruomenės peticija",
+      "10": "Trečioji Seto stela",
+      "11": "7. Įžanginė doksologija",
+      "12": "8. Doxologija Paslėptajam",
+      "13": "9. Baigiamoji doksologija",
+      "14": "10. Kilimo kelias"
+    }
+  },
+  "hypsiphrone": {
+    "introLt": "Iš „Hypsiphrone“, „Aukštų minčių turėtojos“, apreiškimo išliko vos du lapai.",
+    "chapters": {
+      "1": "Hypsiphrone",
+      "2": "1. „Hypsiphrone Descends“"
+    }
+  },
+  "sextus": {
+    "introLt": "Krikščioniškai interpretuota Pitagoro išminties rinktinė; nėra išskirtinai gnostinė.",
+    "chapters": {
+      "1": "Seksto sentencijos",
+      "2": "1. Koptų"
+    }
+  },
+  "silvanus": {
+    "introLt": "Išminties mokymas, artimesnis Aleksandrijos krikščionybei nei setiečių mitams.",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "plato-republic": {
+    "introLt": "Prastas koptų kalbos vertimas, atspindintis „Respublikos“ vaizdinį apie vidinius žvėris.",
+    "chapters": {
+      "1": "Platono „Respublika“",
+      "2": "1. Platono „Respublika“"
+    }
+  },
+  "prayer-paul": {
+    "introLt": "Trumpas kreipimasis, užrašytas „Codex I“ pirmojo vidinio viršelio puslapyje.",
+    "chapters": {
+      "1": "Apaštalo Pauliaus malda",
+      "2": "1. Prašymas dėl sąjungos",
+      "3": "2. Prašymas suteikti įgaliojimus",
+      "4": "3. Prašymas dėl gnozės"
+    }
+  },
+  "thanksgiving": {
+    "introLt": "Hermetinis padėkos aktas, taip pat žinomas iš lotynų ir graikų kalbos paralelių.",
+    "chapters": {
+      "1": "Padėkos malda",
+      "2": "1. Dėkingumas už Apreiškimą",
+      "3": "2. Pažinti Tėvą"
+    }
+  },
+  "eighth-ninth": {
+    "introLt": "Hermetinis įšventinimas į Ogdoadą ir Enneadą.",
+    "chapters": {
+      "1": "Traktatas apie aštuntąjį ir devintąjį",
+      "2": "1. Preliminarios instrukcijos, kaip pasiekti aštuntąjį ir devintąjį",
+      "3": "2. Malda dėl pakilimo",
+      "4": "3. Aštuntojo ir devintojo vizijos",
+      "5": "4. „Paslaptingos knygos“ rašymas"
+    }
+  },
+  "asclepius": {
+    "introLt": "Koptų kalba parašyta ištrauka iš „Tobulosios kalbos“, įskaitant Egipto apokalipsę.",
+    "chapters": {
+      "1": "Ištrauka iš „Tobulojo pamokslo“",
+      "2": "1. Lytinių santykių paslaptis",
+      "3": "2. Mokymas kyla iš žinių",
+      "4": "3. Žmonės tampa pranašesni už dievus",
+      "5": "4. Stabai ir atvaizdai",
+      "6": "5. Egipto sunaikinimas",
+      "7": "6. Dievo valia",
+      "8": "7. Dievo demonas"
+    }
+  },
+  "eugnostos": {
+    "introLt": "Ne krikščioniškas (arba vos krikščioniškas) laiškas apie neapsakomą Dievą ir eonus.",
+    "chapters": {
+      "1": "Eugnostos",
+      "2": "1. Nedaugelis supranta Dieviškumą",
+      "3": "2. Tas, kuris yra",
+      "4": "3. Amžina visuma",
+      "5": "4. Pirminis variklis",
+      "6": "5. Sofija ir nemirtingasis žmogus",
+      "7": "6. Kosminė tvarka",
+      "8": "7. Šventoji angelų gausybė",
+      "9": "8. Gelbėtojo sutuoktinė",
+      "10": "9. 360 galių",
+      "11": "10. Eonų susirinkimas",
+      "12": "11. Eonų vardai",
+      "13": "12. „Aeons: pilnas rinkinys“ ir „Ateinantis aiškumas“"
+    }
+  },
+  "interpretation-knowledge": {
+    "introLt": "Fragmentinė valentiniečių homilija apie Bažnyčią kaip vieną kūną.",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "valentinus-liturgy": {
+    "introLt": "Liturginiai fragmentai, pridėti prie „Valentiniano ekspozicijos“.",
+    "chapters": {
+      "1": "Patepimas",
+      "2": "Krikštas",
+      "3": "Eucharistija"
+    }
+  },
+  "judas": {
+    "introLt": "Jėzus juokiasi iš mokinių garbinimo ir atitraukia Judą kalbėti apie Barbelo. Mattisono PD ištraukos.",
+    "chapters": {
+      "1": "Judo evangelija",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "infancy-thomas": {
+    "introLt": "Jėzaus vaikystės stebuklai; skiriasi nuo Nag Hammadi „Tomo evangelijos“.",
+    "chapters": {
+      "1": "Tomo vaikystės evangelija",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "james-infancy": {
+    "introLt": "Marijos gimimas, vaikystė ir Kristaus gimimas; turėjo didžiulę įtaką vėlesniam pamaldumui.",
+    "chapters": {
+      "1": "Jokūbo vaikystės evangelija",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "peter-gospel": {
+    "introLt": "Pasakojimas apie kančią ir tuščią kapą su vaikščiojančiu ir kalbančiu kryžiumi.",
+    "chapters": {
+      "1": "Petro evangelija",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "nicodemus": {
+    "introLt": "Piloto teismo protokolas ir „Nusileidimas į pragarą“; viduramžių Piloto ciklo prototipas.",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "pistis-sophia": {
+    "introLt": "Ilgas dialogas po prisikėlimo: Sofijos nuopuolio ir atgailos giesmės. Mead 1921 m. kūrinys priklauso viešajai sričiai; šis įrašas suskirstytas pagal knygas.",
+    "chapters": {
+      "1": "Pistis Sophia"
+    }
+  },
+  "books-of-jeu": {
+    "introLt": "Dvi ritualinės knygos su diagramomis. Pilno PD angliško vertimo nėra (MacDermot 1978 saugomas). Tik stubas.",
+    "chapters": {
+      "1": "Pradžia"
+    }
+  },
+  "great-seth": {
+    "introLt": "Atskleidžianti pamokslo ištrauka: archontai nukryžiavo pakaitalą; gyvasis Jėzus juokiasi.",
+    "chapters": {
+      "1": "Didžiojo Setho antrasis traktatas",
+      "2": "1. Tobulas didingumas",
+      "3": "2. Įsikūnijimas",
+      "4": "3. Yaldabaothas ir archontų sąmokslas",
+      "5": "4. Nukryžiuotas ne iš tikrųjų, bet tik iš išorės",
+      "6": "5. Didybės Sūnus pakyla",
+      "7": "6. Nukryžiavimo prasmė",
+      "8": "7. Pergalė prieš persekiojimą",
+      "9": "8. Patriarchai buvo farsa",
+      "10": "9. Aš esu Kristus, Žmogaus Sūnus",
+      "11": "10. Išgelbėjimas ir harmonija",
+      "12": "11. Tobulas draugas"
+    }
+  },
+  "great-power": {
+    "introLt": "Trumpa išganymo istorija, suskirstyta į tris amžius, baigianti archontų sunaikinimu.",
+    "chapters": {
+      "1": "Mūsų didžiosios galios idėja",
+      "2": "1. Mūsų didžioji galia",
+      "3": "2. Pradžioje",
+      "4": "3. Nojus ir Materijos Eonas",
+      "5": "4. Psichinis (arba sielos) eonas",
+      "6": "5. „To, kuris žino“, gyvenimas ir mirtis",
+      "7": "6. Jis nugali archontus",
+      "8": "7. Daugelis seka juo",
+      "9": "8. Archonų kerštas",
+      "10": "9. Vakarų archontas",
+      "11": "10. Teismas ugnimi",
+      "12": "11. Grožio amžius"
+    }
+  },
+  "shem": {
+    "introLt": "Išsami Šviesos, Tamsos ir Dvasios kosmogonija, pateikta kaip Derdekeaso laiškas Šemui.",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "act-peter": {
+    "introLt": "Petras išgydo, o paskui vėl susargdina savo paralyžiuotą dukrą. Tai ne NHC „Apaštalo Petro ir dvylikos apaštalų veiksmai“.",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "egerton": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Nežinoma evangelija: Egertono papirusas Nr. 2",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "gospel-q": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Q evangelija",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "poxy-5575": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Jėzaus posakiai: P.Oxy 5575",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "secret-mark": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "„Paslaptingoji Morkaus evangelija“",
+      "2": "autorius Samuel Zinner"
+    }
+  },
+  "stranger-tchacos": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "„Svetimojo knyga“",
+      "2": "autorius: Mark M. Mattison"
+    }
+  },
+  "melchizedek-2": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "2 Melchizedekas",
+      "2": "1. Dievo Sūnaus Jėzaus Kristaus įsikūnijimas",
+      "3": "2. Jo gyvenimas, mirtis ir prisikėlimas",
+      "4": "3. „Išganytojo apreiškimas“",
+      "5": "4. Gamalielas per Jėzų Kristų šaukiasi dieviškųjų būtybių",
+      "6": "5. Vyriausiasis kunigas, aukos ir krikštas",
+      "7": "6. Tikrasis Adomas ir Ieva",
+      "8": "7. Paskutinė kova ir mirties sunaikinimas",
+      "9": "8. Melchizedeko paskyrimas",
+      "10": "9. Melchizedekas giria dieviškąsias būtybes",
+      "11": "10. Išpažinkite Jį",
+      "12": "11. Dieviškieji pasiuntiniai",
+      "13": "12. Kristaus mirtis ir prisikėlimas",
+      "14": "13. Išvados"
+    }
+  },
+  "apocalypse-paul": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Paulius Apreiškimas",
+      "2": "1. Mažojo vaiko apreiškimas",
+      "3": "2. Trečiasis ir ketvirtasis dangus bei sielos išbandymas",
+      "4": "3. Penktasis dangus",
+      "5": "4. Šeštasis dangus",
+      "6": "5. „Septintas dangus ir Senasis dienų“",
+      "7": "6. Aštuntasis, devintasis ir dešimtasis dangūs"
+    }
+  },
+  "testimony-truth": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "apelles": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Apelles",
+      "2": "APELLES."
+    }
+  },
+  "valentinian-movement": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Valentiniečių judėjimas",
+      "2": "VALENTINIANŲ JUDĖJIMAS."
+    }
+  },
+  "valentinus": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Valentinus",
+      "2": "VALENTINUS."
+    }
+  },
+  "james-fragments": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Ankstyvųjų evangelijų fragmentai ir kt."
+    }
+  },
+  "lost-heretical": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Prarastos eretiškos knygos"
+    }
+  },
+  "against-marcion-1": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "against-marcion-2": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "against-marcion-3": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "against-marcion-4": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "against-marcion-5": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Visas tekstas"
+    }
+  },
+  "poxy-1224": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "P.Oxy. 1224 — Ne kanoninės Evangelijos fragmentas"
+    }
+  },
+  "poxy-840": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "P.Oxy. 840 — Nekanoninės evangelijos fragmentas"
+    }
+  },
+  "melchizedek-qumran": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "odes-solomon": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "untitled-bruce": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "pseudo-matthew": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "arabic-infancy": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "joseph-carpenter": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "bartholomew": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "fayyum": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "bartholomew-resurrection": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "thomas-poxy-1": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "thomas-poxy-654": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "egyptians-patristic": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "hebrews": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "apocalypse-peter-greek": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "hermas": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "preaching-peter": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "ebionites": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "matthias": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "epistula-apostolorum": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "acts-peter": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "acts-john": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "acts-paul": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "3-corinthians": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "acts-andrew": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "acts-andrew-matthias": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "acts-thomas": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "acts-peter-paul": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "basilides": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "naassene": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "epiphanes": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "ptolemy-flora": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "theodotus": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "heracleon": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "marcion-gospel": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "visio-pauli": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "apocalypse-virgin": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "apocalypse-thomas": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "life-of-john": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "pilate-tiberius": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "giving-up-pilate": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "death-pilate": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "vindicta": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "clementine-recognitions": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "clementine-homilies": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "acts-philip": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "acts-barnabas": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "abgar": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "laodiceans": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  },
+  "paul-seneca": {
+    "introLt": "Viešosios nuosavybės anglų tekstas iš AEON šaltinių korpuso (Mattison, Zinner, James, ANF, Mead).",
+    "chapters": {
+      "1": "Skyrius 1"
+    }
+  }
+}

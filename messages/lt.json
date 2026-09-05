@@ -1,0 +1,114 @@
+{
+  "meta": {
+    "title": "AEON — Gnostiniai tekstai ir apokrifinės evangelijos",
+    "description": "Šviesa, kurią slėpė kanonas. Muziejaus lygio skaitmeninė gnostinių ir apokrifinių tekstų biblioteka."
+  },
+  "brand": {
+    "name": "AEON",
+    "subtitle": "Gnostiniai tekstai ir apokrifinės evangelijos",
+    "tagline": "Šviesa, kurią slėpė kanonas."
+  },
+  "nav": {
+    "home": "Pradžia",
+    "library": "Biblioteka",
+    "map": "Žemėlapis",
+    "timeline": "Chronologija",
+    "glossary": "Žodynas",
+    "compare": "Gretinimas",
+    "search": "Paieška",
+    "saved": "Išsaugota",
+    "about": "Apie",
+    "skip": "Eiti prie turinio"
+  },
+  "switches": {
+    "language": "Kalba",
+    "appearance": "Išvaizda",
+    "dark": "Tamsus fonas",
+    "light": "Šviesus fonas",
+    "both": "Abi kalbos"
+  },
+  "home": {
+    "thunder": "Aš esu pirmoji ir paskutinioji.",
+    "thunderAttr": "Griaustinis, tobula mintis 2.1",
+    "pathThomas": "Skaityti Tomą",
+    "pathNh": "Naršyti Nag Hammadi",
+    "pathAbout": "Kas yra gnosticizmas?",
+    "featured": "Keturi įėjimai",
+    "codices": "Kodeksai",
+    "start": "Pradėti skaityti"
+  },
+  "library": {
+    "title": "Korpusas",
+    "filters": "Filtrai",
+    "all": "Visi",
+    "theme": "Tema",
+    "length": "Ilgis",
+    "full": "Yra pilnas tekstas",
+    "empty": "Šioje tyloje nieko nėra. Pakeisk filtrą — arba atverk Tomą.",
+    "complete": "Pilnas",
+    "excerpt": "Ištrauka",
+    "stub": "Stubas"
+  },
+  "reader": {
+    "chapters": "Skyriai",
+    "next": "Kitas tekstas kodekse",
+    "audio": "Netrukus",
+    "cite": "Cituoti",
+    "bookmark": "Žymė",
+    "paper": "Popierius",
+    "night": "Naktis",
+    "sepia": "Sepija",
+    "coming": "Pilnas tekstas ruošiamas. Įžanga ir pirmasis skyrius — stubas.",
+    "excerptNote": "Viešosios nuosavybės ištrauka.",
+    "pd": "Viešoji nuosavybė",
+    "parallels": "Paralelės",
+    "note": "Pastaba",
+    "notes": "Pastabos",
+    "notesHint": "Bakstelėk posakį — atsivers pastaba ir paralelės.",
+    "ltPending": "Čia skamba anglų PD tekstas. Lietuviškas DeepL vertimas dar nepaleistas.",
+    "deepl": "DeepL mašininis vertimas iš viešosios nuosavybės anglų teksto. Angliškas originalas lieka per EN arba LT+EN.",
+    "extraCanon": "už kanono",
+    "related": "Susiję"
+  },
+  "search": {
+    "title": "Paieška",
+    "placeholder": "Tekstas, posakis, eonas…",
+    "jump": "Pereiti",
+    "texts": "Tekstai",
+    "glossary": "Žodynas",
+    "about": "Apie",
+    "thomas": "Tomas",
+    "empty": "Šioje tyloje nieko nėra. Pabandyk „Tomas“ arba „77“.",
+    "close": "Uždaryti"
+  },
+  "about": {
+    "title": "Kas yra gnosticizmas?",
+    "disclaimer": "Istorinė ir religinė literatūra. Tai ne bažnyčia ir ne iniciacija."
+  },
+  "map": {
+    "kicker": "Teminis žemėlapis",
+    "title": "Žemėlapis",
+    "blurb": "Ne geografija — sąvokų laukas: eonai, archontai, Sofija, pleroma."
+  },
+  "timeline": {
+    "kicker": "Atradimai",
+    "title": "Chronologija"
+  },
+  "glossary": {
+    "kicker": "Leksikonas",
+    "title": "Žodynas"
+  },
+  "saved": {
+    "title": "Išsaugota",
+    "empty": "Kol kas tuščia. Palik žymę Tome — ji liks šiame įrenginyje."
+  },
+  "compare": {
+    "title": "Gretinimas"
+  },
+  "footer": {
+    "sources": "Šaltiniai: Mattison, Zinner, James 1924, ANF, Mead. Be Brill CGL ir Robinson NHL.",
+    "disclaimer": "Mokslinis archyvas. Kanonas neišjuokiamas ir neapginamas.",
+    "about": "Apie",
+    "corpus": "Korpusas"
+  }
+}
