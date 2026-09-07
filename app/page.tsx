@@ -1,20 +1,28 @@
 import { HomeView } from "@/components/HomeView";
-
-const jsonLd = {
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  name: "AEON",
-  alternateName: "Gnostiniai tekstai ir apokrifinės evangelijos",
-  description: "Šviesa, kurią slėpė kanonas.",
-  inLanguage: ["lt", "en"],
-};
+import { JsonLd } from "@/components/JsonLd";
+import { corpus } from "@/lib/corpus";
+import { websiteJsonLd } from "@/lib/seo";
+import { siteUrl } from "@/lib/site";
 
 export default function HomePage() {
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      <JsonLd
+        data={[
+          websiteJsonLd(),
+          {
+            "@context": "https://schema.org",
+            "@type": "ItemList",
+            name: "AEON korpusas",
+            numberOfItems: corpus.length,
+            itemListElement: corpus.slice(0, 20).map((item, index) => ({
+              "@type": "ListItem",
+              position: index + 1,
+              name: item.titleLt,
+              url: `${siteUrl}/text/${item.slug}`,
+            })),
+          },
+        ]}
       />
       <HomeView />
     </>

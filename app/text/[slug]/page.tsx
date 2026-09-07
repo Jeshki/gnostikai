@@ -1,7 +1,9 @@
+import { JsonLd } from "@/components/JsonLd";
 import { Reader } from "@/components/Reader";
 import { getFullBody } from "@/lib/bodies";
 import { corpus, getText } from "@/lib/corpus";
 import { getTextMdx } from "@/lib/mdx";
+import { bookJsonLd, breadcrumbJsonLd, pageMeta, textCrumbs } from "@/lib/seo";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
@@ -34,11 +36,15 @@ export async function generateMetadata({
   const { slug } = await params;
   const text = getText(slug);
   if (!text) return {};
-  return {
+  return pageMeta({
     title: text.titleLt,
-    description: text.introLt,
-    openGraph: { title: text.titleEn, description: text.introEn },
-  };
+    description: text.introLt.slice(0, 180),
+    path: `/text/${text.slug}`,
+    titleEn: text.titleEn,
+    descriptionEn: text.introEn.slice(0, 180),
+    type: "article",
+    keywords: [text.titleLt, text.titleEn, text.collection, "gnostiniai tekstai"],
+  });
 }
 
 export default async function TextPage({
@@ -52,22 +58,9 @@ export default async function TextPage({
   const mdx = await getTextMdx(slug);
   const full = getFullBody(slug);
 
-  const jsonLd = {
-    "@context": "https://schema.org",
-    "@type": "Book",
-    name: text.titleEn,
-    alternateName: text.titleLt,
-    inLanguage: text.originalLanguage,
-    description: text.introEn,
-    dateCreated: text.dateApprox,
-  };
-
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-      />
+      <JsonLd data={[bookJsonLd(text), breadcrumbJsonLd(textCrumbs(text))]} />
       <Reader text={text} mdx={mdx?.content} mdxLt={mdx?.contentLt} body={full?.sections} />
     </>
   );

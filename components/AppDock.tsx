@@ -1,13 +1,14 @@
 "use client";
 
 import { Switches } from "@/components/Switches";
+import { navActive, navLinks } from "@/lib/nav";
 import { cn } from "@/lib/utils";
 import { BookOpen, Bookmark, Compass, House, Search } from "lucide-react";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 
-const items = [
+const dock = [
   { href: "/", icon: House, key: "home" as const },
   { href: "/library", icon: BookOpen, key: "library" as const },
   { href: "/map", icon: Compass, key: "map" as const },
@@ -25,37 +26,40 @@ export function AppDock() {
         <Link href="/" className="font-display text-sm tracking-[0.28em] text-gold">
           AEON
         </Link>
-        <nav className="flex items-center gap-6 text-[13px] text-muted">
-          <Link href="/library" className="hover:text-ink">
-            {t("library")}
-          </Link>
-          <Link href="/map" className="hover:text-ink">
-            {t("map")}
-          </Link>
-          <Link href="/timeline" className="hover:text-ink">
-            {t("timeline")}
-          </Link>
-          <Link href="/glossary" className="hover:text-ink">
-            {t("glossary")}
-          </Link>
-          <Link href="/about" className="hover:text-ink">
-            {t("about")}
-          </Link>
-          <Link href="/compare" className="hover:text-ink">
-            {t("compare")}
+        <nav aria-label={t("menu")} className="flex items-center gap-5 text-[13px] text-muted">
+          {navLinks.map((item) => (
+            <Link
+              key={item.href}
+              href={item.href}
+              className={cn("hover:text-ink", navActive(pathname, item.href) && "text-gold")}
+            >
+              {t(item.key)}
+            </Link>
+          ))}
+          <Link
+            href="/"
+            className={cn("hover:text-ink", pathname === "/" && "text-gold")}
+          >
+            {t("home")}
           </Link>
         </nav>
         <Switches />
       </header>
 
-      <div className="fixed top-3 right-3 z-40 md:hidden">
+      <header className="fixed top-0 right-0 left-0 z-40 flex h-12 items-center justify-between border-b border-line bg-chrome px-4 backdrop-blur-md md:hidden">
+        <Link href="/" className="font-display text-sm tracking-[0.28em] text-gold">
+          AEON
+        </Link>
         <Switches />
-      </div>
+      </header>
 
-      <nav className="fixed right-0 bottom-0 left-0 z-40 border-t border-line bg-chrome pb-[max(0.5rem,env(safe-area-inset-bottom))] backdrop-blur-md md:hidden">
+      <nav
+        aria-label={t("menu")}
+        className="fixed right-0 bottom-0 left-0 z-40 border-t border-line bg-chrome pb-[max(0.5rem,env(safe-area-inset-bottom))] backdrop-blur-md md:hidden"
+      >
         <ul className="grid grid-cols-5">
-          {items.map((item) => {
-            const active = pathname === item.href || (item.href !== "/" && pathname.startsWith(item.href));
+          {dock.map((item) => {
+            const active = navActive(pathname, item.href);
             const Icon = item.icon;
             return (
               <li key={item.href}>

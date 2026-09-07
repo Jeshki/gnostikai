@@ -1,7 +1,6 @@
 "use client";
 
 import { PageFade } from "@/components/PageFade";
-import { SiteFooter } from "@/components/SiteFooter";
 import { TextCard } from "@/components/TextCard";
 import { useLocale } from "@/components/providers";
 import { about, aboutTerms } from "@/content/about";
@@ -106,7 +105,7 @@ export function AboutView() {
 
   return (
     <PageFade>
-      <main id="content" className="px-6 pt-20 pb-10 md:px-10">
+      <main id="content" className="px-6 pt-20 pb-16 md:px-10">
         <header className="measure mx-auto">
           <p className="text-[10px] tracking-[0.22em] text-gold uppercase">{copy.kicker}</p>
           <h1 className="font-display mt-3 mb-8 text-4xl md:text-5xl">{copy.title}</h1>
@@ -272,7 +271,6 @@ export function AboutView() {
           </ul>
         </section>
       </main>
-      <SiteFooter />
     </PageFade>
   );
 }

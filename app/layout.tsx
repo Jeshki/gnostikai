@@ -1,7 +1,9 @@
 import { AppDock } from "@/components/AppDock";
 import { Palette } from "@/components/Palette";
+import { SiteFooter } from "@/components/SiteFooter";
 import { Providers } from "@/components/providers";
 import { getMessages } from "@/lib/i18n";
+import { siteDescriptionLt, siteName, siteTitleLt, siteUrl } from "@/lib/site";
 import type { Metadata } from "next";
 import { Fraunces, Geist } from "next/font/google";
 import "./globals.css";
@@ -17,18 +19,42 @@ const fraunces = Fraunces({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://aeon.library"),
+  metadataBase: new URL(siteUrl),
   title: {
-    default: "AEON — Gnostiniai tekstai ir apokrifinės evangelijos",
-    template: "%s · AEON",
+    default: siteTitleLt,
+    template: `%s · ${siteName}`,
   },
-  description: "Šviesa, kurią slėpė kanonas. Muziejaus lygio skaitmeninė gnostinių ir apokrifinių tekstų biblioteka.",
+  description: siteDescriptionLt,
+  applicationName: siteName,
+  authors: [{ name: siteName }],
+  creator: siteName,
+  publisher: siteName,
+  category: "literature",
+  keywords: [
+    "gnostiniai tekstai",
+    "apokrifinės evangelijos",
+    "Tomo evangelija",
+    "Nag Hammadi",
+    "gnosticizmas",
+    "Pistis Sophia",
+    "Marijos evangelija",
+  ],
+  alternates: { canonical: siteUrl },
+  robots: { index: true, follow: true, googleBot: { index: true, follow: true } },
+  formatDetection: { telephone: false, address: false, email: false },
   openGraph: {
-    title: "AEON",
-    description: "Šviesa, kurią slėpė kanonas.",
-    type: "website",
+    title: siteTitleLt,
+    description: siteDescriptionLt,
+    url: siteUrl,
+    siteName,
     locale: "lt_LT",
-    alternateLocale: "en_US",
+    alternateLocale: ["en_US"],
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: siteTitleLt,
+    description: siteDescriptionLt,
   },
 };
 
@@ -52,6 +78,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <AppDock />
           <Palette />
           {children}
+          <SiteFooter />
         </Providers>
       </body>
     </html>

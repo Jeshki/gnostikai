@@ -18,6 +18,7 @@
     "search": "Search",
     "saved": "Saved",
     "about": "About",
+    "menu": "Main menu",
     "skip": "Skip to content"
   },
   "switches": {
@@ -109,6 +110,7 @@
     "sources": "Sources: Mattison, Zinner, James 1924, ANF, Mead. No Brill CGL or Robinson NHL.",
     "disclaimer": "A scholarly archive. The canon is neither mocked nor defended.",
     "about": "About",
-    "corpus": "Corpus"
+    "corpus": "Corpus",
+    "collections": "Collections"
   }
 }

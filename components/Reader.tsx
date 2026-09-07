@@ -1,5 +1,6 @@
 "use client";
 
+import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { CodexTree } from "@/components/CodexTree";
 import { DualText } from "@/components/DualText";
 import { ProgressBar } from "@/components/ProgressBar";
@@ -7,6 +8,7 @@ import { SayingBlock } from "@/components/SayingBlock";
 import { useLocale } from "@/components/providers";
 import { getBody, nextInCodex, thomas, type Saying } from "@/lib/content";
 import { collectionLabel, licenseLabel, relatedTexts } from "@/lib/corpus";
+import { textCrumbs } from "@/lib/seo";
 import { fieldLabel } from "@/lib/fields";
 import type { BodySection, CorpusText } from "@/lib/types";
 import { readSaved, toggleSaying, toggleText } from "@/lib/storage";
@@ -89,12 +91,13 @@ export function Reader({
       <ProgressBar />
 
       <div className="mx-auto grid max-w-[1400px] grid-cols-1 lg:grid-cols-[240px_minmax(0,1fr)] xl:grid-cols-[240px_minmax(0,1fr)_220px]">
-        <aside className="hidden border-r border-line px-5 pt-24 pb-10 lg:sticky lg:top-14 lg:block lg:max-h-[calc(100dvh-3.5rem)] lg:self-start lg:overflow-y-auto">
+        <aside className="hidden max-h-dvh overflow-y-auto border-r border-line px-5 pt-24 pb-24 lg:block">
           <CodexTree activeSlug={text.slug} />
         </aside>
 
         <main id="content" className="px-5 pt-20 pb-28 md:px-12 lg:px-16">
           <header className="mb-12">
+            <Breadcrumbs crumbs={textCrumbs(text)} className="mb-6" />
             <p className="text-[10px] tracking-[0.22em] text-muted uppercase">
               {text.codex ? fieldLabel(text.codex, locale) : collectionLabel(text.collection, locale)} · {fieldLabel(text.discovery, locale)} ·{" "}
               {fieldLabel(text.originalLanguage, locale)}
@@ -326,7 +329,7 @@ export function Reader({
           ) : null}
         </main>
 
-        <aside className="hidden border-l border-line px-5 pt-24 pb-10 text-sm text-muted xl:sticky xl:top-14 xl:block xl:max-h-[calc(100dvh-3.5rem)] xl:self-start xl:overflow-y-auto">
+        <aside className="hidden border-l border-line px-5 pt-24 text-sm text-muted xl:block">
           <p className="text-[10px] tracking-[0.2em] uppercase">{t("notes")}</p>
           <p className="mt-3 leading-relaxed">{t("notesHint")}</p>
           {related.length ? (

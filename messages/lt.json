@@ -18,6 +18,7 @@
     "search": "Paieška",
     "saved": "Išsaugota",
     "about": "Apie",
+    "menu": "Pagrindinis meniu",
     "skip": "Eiti prie turinio"
   },
   "switches": {
@@ -109,6 +110,7 @@
     "sources": "Šaltiniai: Mattison, Zinner, James 1924, ANF, Mead. Be Brill CGL ir Robinson NHL.",
     "disclaimer": "Mokslinis archyvas. Kanonas neišjuokiamas ir neapginamas.",
     "about": "Apie",
-    "corpus": "Korpusas"
+    "corpus": "Korpusas",
+    "collections": "Kolekcijos"
   }
 }

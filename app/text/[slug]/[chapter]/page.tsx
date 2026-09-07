@@ -1,6 +1,8 @@
+import { JsonLd } from "@/components/JsonLd";
 import { Reader } from "@/components/Reader";
 import { getBodyChapter, getFullBody } from "@/lib/bodies";
 import { corpus, getText } from "@/lib/corpus";
+import { bookJsonLd, breadcrumbJsonLd, pageMeta, textCrumbs } from "@/lib/seo";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
@@ -37,7 +39,14 @@ export async function generateMetadata({
   const { slug, chapter } = await params;
   const text = getText(slug);
   if (!text) return {};
-  return { title: `${text.titleLt} ${chapter}` };
+  const chapterMeta = text.chapters.find((item) => item.id === chapter);
+  const chapterTitle = chapterMeta?.titleLt ?? chapter;
+  return pageMeta({
+    title: `${text.titleLt} — ${chapterTitle}`,
+    description: text.introLt.slice(0, 180),
+    path: `/text/${text.slug}/${chapter}`,
+    type: "article",
+  });
 }
 
 export default async function ChapterPage({
@@ -52,5 +61,19 @@ export default async function ChapterPage({
   if (!exists) notFound();
   const full = getFullBody(slug);
   const chapterBody = full ? getBodyChapter(full, chapter).sections : undefined;
-  return <Reader text={text} chapterId={chapter} body={chapterBody} />;
+  const chapterMeta = text.chapters.find((item) => item.id === chapter);
+  return (
+    <>
+      <JsonLd
+        data={[
+          bookJsonLd(text),
+          breadcrumbJsonLd([
+            ...textCrumbs(text),
+            { name: chapterMeta?.titleLt ?? chapter, path: `/text/${text.slug}/${chapter}` },
+          ]),
+        ]}
+      />
+      <Reader text={text} chapterId={chapter} body={chapterBody} />
+    </>
+  );
 }

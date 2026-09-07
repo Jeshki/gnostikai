@@ -11,7 +11,7 @@ export default function LibraryPage() {
   return (
     <PageFade>
       <div className="mx-auto grid max-w-[1400px] grid-cols-1 px-6 pt-20 pb-28 md:px-10 lg:grid-cols-[240px_minmax(0,1fr)]">
-        <aside className="hidden pr-6 lg:sticky lg:top-14 lg:block lg:max-h-[calc(100dvh-3.5rem)] lg:self-start lg:overflow-y-auto">
+        <aside className="hidden max-h-dvh overflow-y-auto pr-6 lg:block">
           <CodexTree />
         </aside>
         <main id="content">

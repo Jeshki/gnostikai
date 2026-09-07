@@ -1,6 +1,5 @@
 "use client";
 
-import { SiteFooter } from "@/components/SiteFooter";
 import { TextCard } from "@/components/TextCard";
 import { useLocale } from "@/components/providers";
 import { collections, getText, textsByCollection } from "@/lib/corpus";
@@ -82,7 +81,6 @@ export function HomeView() {
           ))}
         </div>
       </section>
-      <SiteFooter />
     </PageFade>
   );
 }

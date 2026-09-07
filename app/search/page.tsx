@@ -9,12 +9,15 @@ import { fieldLabel } from "@/lib/fields";
 import { glossary } from "@/lib/glossary";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
-import { useMemo, useState } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
+import { Suspense, useMemo, useState } from "react";
 
-export default function SearchPage() {
+function SearchInner() {
   const t = useTranslations("search");
   const { locale } = useLocale();
-  const [q, setQ] = useState("");
+  const router = useRouter();
+  const params = useSearchParams();
+  const [q, setQ] = useState(params.get("q") ?? "");
   const query = q.trim().toLowerCase();
 
   const results = useMemo(() => {
@@ -42,13 +45,19 @@ export default function SearchPage() {
     query.length >= 2 &&
     results.texts.length + results.sayings.length + results.terms.length + results.about.length === 0;
 
+  const onChange = (value: string) => {
+    setQ(value);
+    const next = value.trim();
+    router.replace(next ? `/search?q=${encodeURIComponent(next)}` : "/search", { scroll: false });
+  };
+
   return (
     <PageFade>
       <main id="content" className="mx-auto max-w-3xl px-6 pt-20 pb-28">
         <h1 className="font-display mb-8 text-4xl">{t("title")}</h1>
         <input
           value={q}
-          onChange={(event) => setQ(event.target.value)}
+          onChange={(event) => onChange(event.target.value)}
           placeholder={t("placeholder")}
           className="h-12 w-full border-b border-line bg-transparent text-lg outline-none placeholder:text-muted"
         />
@@ -89,5 +98,13 @@ export default function SearchPage() {
         </div>
       </main>
     </PageFade>
+  );
+}
+
+export default function SearchPage() {
+  return (
+    <Suspense>
+      <SearchInner />
+    </Suspense>
   );
 }

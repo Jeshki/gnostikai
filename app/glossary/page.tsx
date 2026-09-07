@@ -2,7 +2,7 @@
 
 import { PageFade } from "@/components/PageFade";
 import { useLocale } from "@/components/providers";
-import { glossary } from "@/lib/glossary";
+import { getTerm, glossary } from "@/lib/glossary";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 
@@ -29,7 +29,7 @@ export default function GlossaryPage() {
                 {term.related.map((rel) => (
                   <li key={rel}>
                     <Link href={`/glossary#${rel}`} className="hover:text-gold">
-                      {rel}
+                      {getTerm(rel)?.term ?? rel}
                     </Link>
                   </li>
                 ))}
