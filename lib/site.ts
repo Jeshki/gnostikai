@@ -1,9 +1,7 @@
-export const siteUrl = (
-  process.env.NEXT_PUBLIC_SITE_URL ??
-  (process.env.VERCEL_PROJECT_PRODUCTION_URL
-    ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}`
-    : "https://jeshki.github.io/gnostikai")
-).replace(/\/$/, "");
+export const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.evangelijos.com").replace(
+  /\/$/,
+  "",
+);
 
 export const siteName = "AEON";
 export const siteTitleLt = "AEON — Gnostiniai tekstai ir apokrifinės evangelijos";
@@ -50,7 +48,7 @@ export const keywordsEn = [
 
 export const keywords = [...keywordsLt, ...keywordsEn];
 
-export const gaMeasurementId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID?.trim() || "G-TWF1EM317K";
+export const gaMeasurementId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID?.trim() || "G-GJVS8RZBMX";
 export const googleSiteVerification = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION?.trim() ?? "";
 export const bingSiteVerification = process.env.NEXT_PUBLIC_BING_SITE_VERIFICATION?.trim() ?? "";
 export const yandexVerification = process.env.NEXT_PUBLIC_YANDEX_VERIFICATION?.trim() ?? "";
