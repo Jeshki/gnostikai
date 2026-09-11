@@ -5,6 +5,8 @@ import { useLocale } from "@/components/providers";
 import previews from "@/content/previews.json";
 import { thomas } from "@/lib/content";
 import { corpus, getText } from "@/lib/corpus";
+import { pageCrumbs } from "@/lib/seo";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { useTranslations } from "next-intl";
 import { useMemo, useState } from "react";
 
@@ -22,6 +24,7 @@ export default function ComparePage() {
   return (
     <PageFade>
       <main id="content" className="mx-auto max-w-6xl px-6 pt-20 pb-28">
+        <Breadcrumbs crumbs={pageCrumbs("Gretinimas", "Compare", "/compare", locale)} className="mb-6" />
         <h1 className="font-display mb-8 text-4xl">{t("title")}</h1>
         <div className="mb-8 grid gap-4 md:grid-cols-2">
           <Select value={left} onChange={setLeft} locale={locale} />

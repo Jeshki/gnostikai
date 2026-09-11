@@ -43,7 +43,7 @@ export async function generateMetadata({
     titleEn: text.titleEn,
     descriptionEn: text.introEn.slice(0, 180),
     type: "article",
-    keywords: [text.titleLt, text.titleEn, text.collection, "gnostiniai tekstai"],
+    keywords: [text.titleLt, text.titleEn, text.collection, "gnostiniai tekstai", "Gnostic texts", "apokrifai"],
   });
 }
 

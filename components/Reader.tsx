@@ -97,7 +97,7 @@ export function Reader({
 
         <main id="content" className="px-5 pt-20 pb-28 md:px-12 lg:px-16">
           <header className="mb-12">
-            <Breadcrumbs crumbs={textCrumbs(text)} className="mb-6" />
+            <Breadcrumbs crumbs={textCrumbs(text, locale)} className="mb-6" />
             <p className="text-[10px] tracking-[0.22em] text-muted uppercase">
               {text.codex ? fieldLabel(text.codex, locale) : collectionLabel(text.collection, locale)} · {fieldLabel(text.discovery, locale)} ·{" "}
               {fieldLabel(text.originalLanguage, locale)}
@@ -105,6 +105,11 @@ export function Reader({
             <h1 className="font-display mt-3 text-4xl leading-tight md:text-5xl">
               {bilingual ? `${text.titleLt} / ${text.titleEn}` : title}
             </h1>
+            {!bilingual ? (
+              <p lang={locale === "lt" ? "en" : "lt"} className="mt-2 font-display text-lg text-muted">
+                {locale === "lt" ? text.titleEn : text.titleLt}
+              </p>
+            ) : null}
             {text.originalTitle ? (
               <p className="mt-3 font-display text-sm italic text-muted">{text.originalTitle}</p>
             ) : null}

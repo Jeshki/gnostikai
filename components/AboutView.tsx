@@ -6,7 +6,9 @@ import { useLocale } from "@/components/providers";
 import { about, aboutTerms } from "@/content/about";
 import { collections, corpus, getText, textsByCollection } from "@/lib/corpus";
 import { getTerm } from "@/lib/glossary";
+import { pageCrumbs } from "@/lib/seo";
 import type { CollectionId } from "@/lib/types";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 import { useEffect } from "react";
@@ -107,6 +109,7 @@ export function AboutView() {
     <PageFade>
       <main id="content" className="px-6 pt-20 pb-16 md:px-10">
         <header className="measure mx-auto">
+          <Breadcrumbs crumbs={pageCrumbs("Apie", "About", "/about", locale)} className="mb-6" />
           <p className="text-[10px] tracking-[0.22em] text-gold uppercase">{copy.kicker}</p>
           <h1 className="font-display mt-3 mb-8 text-4xl md:text-5xl">{copy.title}</h1>
           <p className="text-[1.08rem] leading-8 text-ink">

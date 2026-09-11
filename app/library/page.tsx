@@ -3,10 +3,14 @@
 import { CodexTree } from "@/components/CodexTree";
 import { LibraryBrowser } from "@/components/LibraryBrowser";
 import { PageFade } from "@/components/PageFade";
+import { useLocale } from "@/components/providers";
+import { pageCrumbs } from "@/lib/seo";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { useTranslations } from "next-intl";
 
 export default function LibraryPage() {
   const t = useTranslations("library");
+  const { locale } = useLocale();
 
   return (
     <PageFade>
@@ -15,6 +19,7 @@ export default function LibraryPage() {
           <CodexTree />
         </aside>
         <main id="content">
+          <Breadcrumbs crumbs={pageCrumbs("Biblioteka", "Library", "/library", locale)} className="mb-6" />
           <p className="text-[10px] tracking-[0.22em] text-gold uppercase">AEON</p>
           <h1 className="font-display mt-3 mb-10 text-4xl">{t("title")}</h1>
           <LibraryBrowser />

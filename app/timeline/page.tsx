@@ -2,6 +2,8 @@
 
 import { PageFade } from "@/components/PageFade";
 import { useLocale } from "@/components/providers";
+import { pageCrumbs } from "@/lib/seo";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 
@@ -45,6 +47,7 @@ export default function TimelinePage() {
   return (
     <PageFade>
       <main id="content" className="mx-auto max-w-2xl px-6 pt-20 pb-28">
+        <Breadcrumbs crumbs={pageCrumbs("Chronologija", "Timeline", "/timeline", locale)} className="mb-6" />
         <p className="text-[10px] tracking-[0.22em] text-gold uppercase">{t("kicker")}</p>
         <h1 className="font-display mt-3 mb-16 text-4xl">{t("title")}</h1>
         <ol className="space-y-12">

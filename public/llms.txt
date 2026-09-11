@@ -1,0 +1,21 @@
+# AEON
+
+> A museum-grade digital library of Gnostic and apocryphal texts in Lithuanian and English.
+
+- Site: public-domain gospels and related literature (Thomas, Mary, Judas, Nag Hammadi, Berlin Codex, Askew & Bruce, patristic witnesses).
+- Languages: Lithuanian (default), English.
+- License: public domain / translator dedication; no Brill CGL or Robinson NHL.
+
+## Key routes
+
+- / — home
+- /library — corpus catalogue
+- /library/{collection} — Nag Hammadi, Berlin Codex, NT apocrypha, Askew & Bruce, patristic, fragments
+- /text/{slug} — reader
+- /about — what Gnosticism is (scholarly, not a church)
+- /glossary — Pleroma, Sophia, archons, demiurge
+- /map — thematic map
+- /timeline — discovery chronology
+- /compare — two texts side by side
+- /search — corpus search
+- /privacy — privacy and cookies

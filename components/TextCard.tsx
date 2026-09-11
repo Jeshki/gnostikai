@@ -22,6 +22,9 @@ export function TextCard({ text }: { text: CorpusText }) {
         ) : null}
       </div>
       <h3 className="font-display text-2xl leading-tight text-ink group-hover:text-gold">{title}</h3>
+      <p lang={locale === "lt" ? "en" : "lt"} className="mt-1 text-sm text-muted">
+        {locale === "lt" ? text.titleEn : text.titleLt}
+      </p>
       <p className="mt-3 line-clamp-3 text-sm leading-relaxed text-muted">
         {locale === "lt" ? text.introLt : text.introEn}
       </p>

@@ -9,6 +9,16 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
         disallow: ["/saved", "/api/"],
       },
+      {
+        userAgent: "GPTBot",
+        allow: "/",
+        disallow: ["/saved", "/api/"],
+      },
+      {
+        userAgent: "Google-Extended",
+        allow: "/",
+        disallow: ["/saved", "/api/"],
+      },
     ],
     sitemap: `${siteUrl}/sitemap.xml`,
     host: siteUrl,

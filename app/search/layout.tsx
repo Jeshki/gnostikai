@@ -6,6 +6,7 @@ export const metadata: Metadata = pageMeta({
   description: "Ieškok teksto, posakio ar eono AEON korpuse — Tomas, Marija, Nag Hammadi, žodynas.",
   path: "/search",
   titleEn: "Search",
+  descriptionEn: "Search a text, saying, or aeon in the AEON corpus — Thomas, Mary, Nag Hammadi, glossary.",
 });
 
 export default function SearchLayout({ children }: { children: React.ReactNode }) {

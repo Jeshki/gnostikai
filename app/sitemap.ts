@@ -5,7 +5,11 @@ import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
-  const routes: Array<{ path: string; priority: number; changeFrequency: MetadataRoute.Sitemap[0]["changeFrequency"] }> = [
+  const routes: Array<{
+    path: string;
+    priority: number;
+    changeFrequency: MetadataRoute.Sitemap[0]["changeFrequency"];
+  }> = [
     { path: "", priority: 1, changeFrequency: "weekly" },
     { path: "/library", priority: 0.9, changeFrequency: "weekly" },
     { path: "/about", priority: 0.9, changeFrequency: "monthly" },
@@ -14,12 +18,30 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { path: "/timeline", priority: 0.7, changeFrequency: "yearly" },
     { path: "/compare", priority: 0.6, changeFrequency: "monthly" },
     { path: "/search", priority: 0.4, changeFrequency: "weekly" },
-    ...((Object.keys(collections) as CollectionId[]).map((id) => ({
+    { path: "/privacy", priority: 0.3, changeFrequency: "yearly" },
+    ...(Object.keys(collections) as CollectionId[]).map((id) => ({
       path: `/library/${id}`,
       priority: 0.8,
       changeFrequency: "monthly" as const,
-    }))),
+    })),
   ];
+
+  const texts = corpus.map((item) => ({
+    url: `${siteUrl}/text/${item.slug}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: item.featured ? 0.85 : 0.7,
+  }));
+
+  const chapters = corpus.flatMap((item) => {
+    if (item.chapters.length < 2 || item.chapters.length > 130) return [];
+    return item.chapters.map((chapter) => ({
+      url: `${siteUrl}/text/${item.slug}/${chapter.id}`,
+      lastModified: now,
+      changeFrequency: "yearly" as const,
+      priority: 0.5,
+    }));
+  });
 
   return [
     ...routes.map((item) => ({
@@ -28,11 +50,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: item.changeFrequency,
       priority: item.priority,
     })),
-    ...corpus.map((item) => ({
-      url: `${siteUrl}/text/${item.slug}`,
-      lastModified: now,
-      changeFrequency: "monthly" as const,
-      priority: item.featured ? 0.85 : 0.7,
-    })),
+    ...texts,
+    ...chapters,
   ];
 }

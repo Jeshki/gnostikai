@@ -1,8 +1,10 @@
 "use client";
 
+import { reopenCookieSettings } from "@/components/CookieBanner";
 import { useLocale } from "@/components/providers";
 import { collections, featuredTexts } from "@/lib/corpus";
 import { navLinks } from "@/lib/nav";
+import { gaMeasurementId } from "@/lib/site";
 import type { CollectionId } from "@/lib/types";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
@@ -20,6 +22,25 @@ export function SiteFooter() {
           <p className="font-display text-gold tracking-[0.28em]">AEON</p>
           <p className="mt-3 max-w-md leading-relaxed">{t("disclaimer")}</p>
           <p className="mt-4 leading-relaxed">{t("sources")}</p>
+          <ul className="mt-6 flex flex-wrap gap-x-4 gap-y-2 text-[12px] tracking-[0.12em] uppercase">
+            <li>
+              <Link href="/privacy" className="hover:text-gold">
+                {t("privacy")}
+              </Link>
+            </li>
+            {gaMeasurementId ? (
+              <li>
+                <button type="button" onClick={reopenCookieSettings} className="hover:text-gold">
+                  {t("cookies")}
+                </button>
+              </li>
+            ) : null}
+            <li>
+              <Link href="/about" className="hover:text-gold">
+                {t("about")}
+              </Link>
+            </li>
+          </ul>
         </div>
         <nav aria-label={nav("menu")}>
           <p className="text-[10px] tracking-[0.2em] text-gold uppercase">{t("corpus")}</p>

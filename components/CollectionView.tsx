@@ -15,7 +15,7 @@ export function CollectionView({ id }: { id: CollectionId }) {
   return (
     <PageFade>
       <main id="content" className="mx-auto max-w-6xl px-6 pt-20 pb-28">
-        <Breadcrumbs crumbs={collectionCrumbs(id)} className="mb-6" />
+        <Breadcrumbs crumbs={collectionCrumbs(id, locale)} className="mb-6" />
         <p className="text-[10px] tracking-[0.22em] text-gold uppercase">
           {locale === "lt" ? meta.titleLt : meta.titleEn}
         </p>

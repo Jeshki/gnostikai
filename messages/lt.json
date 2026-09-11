@@ -111,6 +111,15 @@
     "disclaimer": "Mokslinis archyvas. Kanonas neišjuokiamas ir neapginamas.",
     "about": "Apie",
     "corpus": "Korpusas",
-    "collections": "Kolekcijos"
+    "collections": "Kolekcijos",
+    "privacy": "Privatumas",
+    "cookies": "Slapukų nustatymai"
+  },
+  "cookies": {
+    "title": "Lankomumas",
+    "body": "Vercel Analytics veikia be slapukų. Google Analytics (šalys, Lietuvos miestai, skaitomiausi tekstai) įjungiama tik jei sutinki. Reklaminių pikselių nėra.",
+    "policy": "Privatumo politika",
+    "accept": "Sutinku",
+    "reject": "Be Google"
   }
 }

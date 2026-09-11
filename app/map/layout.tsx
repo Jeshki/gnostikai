@@ -7,6 +7,8 @@ export const metadata: Metadata = pageMeta({
     "Ne geografija — sąvokų laukas: pleroma, Sofija, archontai, išganymas, krikštas ir sielos kilimas, su nuorodomis į tekstus.",
   path: "/map",
   titleEn: "Map — aeons and themes",
+  descriptionEn:
+    "Not geography — a field of terms: Pleroma, Sophia, archons, salvation, baptism, and the soul’s ascent, linked to the texts.",
 });
 
 export default function MapLayout({ children }: { children: React.ReactNode }) {

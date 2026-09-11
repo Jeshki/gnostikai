@@ -3,6 +3,8 @@
 import { PageFade } from "@/components/PageFade";
 import { useLocale } from "@/components/providers";
 import { getTerm, glossary } from "@/lib/glossary";
+import { pageCrumbs } from "@/lib/seo";
+import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 
@@ -13,6 +15,7 @@ export default function GlossaryPage() {
   return (
     <PageFade>
       <main id="content" className="mx-auto max-w-3xl px-6 pt-20 pb-28">
+        <Breadcrumbs crumbs={pageCrumbs("Žodynas", "Glossary", "/glossary", locale)} className="mb-6" />
         <p className="text-[10px] tracking-[0.22em] text-gold uppercase">{t("kicker")}</p>
         <h1 className="font-display mt-3 mb-12 text-4xl">{t("title")}</h1>
         <div className="space-y-12">

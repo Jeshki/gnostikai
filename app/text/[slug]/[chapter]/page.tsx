@@ -2,7 +2,7 @@ import { JsonLd } from "@/components/JsonLd";
 import { Reader } from "@/components/Reader";
 import { getBodyChapter, getFullBody } from "@/lib/bodies";
 import { corpus, getText } from "@/lib/corpus";
-import { bookJsonLd, breadcrumbJsonLd, pageMeta, textCrumbs } from "@/lib/seo";
+import { bookJsonLd, breadcrumbJsonLd, chapterJsonLd, pageMeta, textCrumbs } from "@/lib/seo";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
@@ -41,11 +41,15 @@ export async function generateMetadata({
   if (!text) return {};
   const chapterMeta = text.chapters.find((item) => item.id === chapter);
   const chapterTitle = chapterMeta?.titleLt ?? chapter;
+  const chapterTitleEn = chapterMeta?.titleEn ?? chapter;
   return pageMeta({
     title: `${text.titleLt} — ${chapterTitle}`,
     description: text.introLt.slice(0, 180),
     path: `/text/${text.slug}/${chapter}`,
+    titleEn: `${text.titleEn} — ${chapterTitleEn}`,
+    descriptionEn: text.introEn.slice(0, 180),
     type: "article",
+    keywords: [text.titleLt, text.titleEn, chapterTitle, chapterTitleEn],
   });
 }
 
@@ -67,6 +71,7 @@ export default async function ChapterPage({
       <JsonLd
         data={[
           bookJsonLd(text),
+          chapterJsonLd(text, chapter, chapterMeta?.titleLt ?? chapter, chapterMeta?.titleEn),
           breadcrumbJsonLd([
             ...textCrumbs(text),
             { name: chapterMeta?.titleLt ?? chapter, path: `/text/${text.slug}/${chapter}` },

@@ -27,9 +27,12 @@ export function HomeView() {
     <PageFade>
       <section className="flex min-h-dvh flex-col justify-end px-6 pt-24 pb-28 md:px-16 md:pb-20">
         <p className="text-[10px] tracking-[0.32em] text-gold uppercase">AEON</p>
-        <blockquote className="font-display mt-10 max-w-4xl text-4xl leading-[1.15] md:text-6xl lg:text-7xl">
+        <blockquote lang={locale} className="font-display mt-10 max-w-4xl text-4xl leading-[1.15] md:text-6xl lg:text-7xl">
           {t("thunder")}
         </blockquote>
+        <p lang={locale === "lt" ? "en" : "lt"} className="mt-4 max-w-2xl text-sm text-muted">
+          {locale === "lt" ? "For I am the first and the last." : "Aš esu pirmoji ir paskutinioji."}
+        </p>
         <p className="mt-6 text-[11px] tracking-[0.18em] text-muted uppercase">{t("thunderAttr")}</p>
         <div className="mt-10 h-px w-24 bg-gold" />
         <nav className="mt-12 flex flex-col gap-5 font-display text-xl md:flex-row md:gap-12">
@@ -46,7 +49,10 @@ export function HomeView() {
       </section>
 
       <section id="content" className="border-t border-line px-6 py-20 md:px-16">
-        <p className="mb-8 text-[10px] tracking-[0.22em] text-muted uppercase">{t("featured")}</p>
+        <p className="mb-3 text-[10px] tracking-[0.22em] text-muted uppercase">{t("featured")}</p>
+        <h1 className="font-display mb-8 max-w-2xl text-3xl md:text-4xl">
+          {locale === "lt" ? "Gnostiniai tekstai ir apokrifinės evangelijos" : "Gnostic texts and apocryphal gospels"}
+        </h1>
         <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
           {featured.map((item) => (item ? <TextCard key={item.slug} text={item} /> : null))}
         </div>
@@ -73,6 +79,9 @@ export function HomeView() {
             <Link key={id} href={`/library/${id}`} className="border border-line p-5 hover:border-gold/35">
               <p className="font-display text-xl">
                 {locale === "lt" ? collections[id].titleLt : collections[id].titleEn}
+              </p>
+              <p lang={locale === "lt" ? "en" : "lt"} className="mt-1 text-xs tracking-[0.08em] text-muted uppercase">
+                {locale === "lt" ? collections[id].titleEn : collections[id].titleLt}
               </p>
               <p className="mt-2 text-sm text-muted">
                 {locale === "lt" ? collections[id].blurbLt : collections[id].blurbEn}

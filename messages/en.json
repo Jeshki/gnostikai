@@ -111,6 +111,15 @@
     "disclaimer": "A scholarly archive. The canon is neither mocked nor defended.",
     "about": "About",
     "corpus": "Corpus",
-    "collections": "Collections"
+    "collections": "Collections",
+    "privacy": "Privacy",
+    "cookies": "Cookie settings"
+  },
+  "cookies": {
+    "title": "Audience",
+    "body": "Vercel Analytics runs without cookies. Google Analytics (countries, Lithuanian cities, most-read texts) loads only if you agree. There are no advertising pixels.",
+    "policy": "Privacy policy",
+    "accept": "I agree",
+    "reject": "No Google"
   }
 }
