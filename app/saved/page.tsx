@@ -4,7 +4,7 @@ import { PageFade } from "@/components/PageFade";
 import { useLocale } from "@/components/providers";
 import { getSaying } from "@/lib/content";
 import { getText } from "@/lib/corpus";
-import { readSaved, type SavedState } from "@/lib/storage";
+import { readSaved, removePlace, type SavedState } from "@/lib/storage";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 import { useEffect, useState } from "react";
@@ -12,13 +12,13 @@ import { useEffect, useState } from "react";
 export default function SavedPage() {
   const { locale } = useLocale();
   const t = useTranslations("saved");
-  const [saved, setSaved] = useState<SavedState>({ texts: [], sayings: [], highlights: [] });
+  const [saved, setSaved] = useState<SavedState>({ texts: [], sayings: [], highlights: [], places: [] });
 
   useEffect(() => {
     setSaved(readSaved());
   }, []);
 
-  const empty = saved.texts.length + saved.sayings.length + saved.highlights.length === 0;
+  const empty = saved.places.length + saved.texts.length + saved.sayings.length + saved.highlights.length === 0;
 
   return (
     <PageFade>
@@ -28,6 +28,23 @@ export default function SavedPage() {
           <p className="font-display text-2xl text-muted">{t("empty")}</p>
         ) : (
           <div className="space-y-10">
+            {saved.places.map((item) => (
+              <div key={item.href} className="flex items-start justify-between gap-4">
+                <Link href={item.href} className="min-w-0 hover:text-gold">
+                  {item.kicker ? (
+                    <p className="text-[10px] tracking-[0.16em] text-gold uppercase">{item.kicker}</p>
+                  ) : null}
+                  <p className="font-display mt-2 text-2xl">{item.title}</p>
+                </Link>
+                <button
+                  type="button"
+                  onClick={() => setSaved(removePlace(item.href))}
+                  className="mt-1 inline-flex min-h-11 shrink-0 items-center px-2 text-sm text-muted hover:text-gold"
+                >
+                  {t("remove")}
+                </button>
+              </div>
+            ))}
             {saved.texts.map((slug) => {
               const text = getText(slug);
               if (!text) return null;

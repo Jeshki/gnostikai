@@ -3,15 +3,8 @@ import { about } from "@/content/about";
 import { collections, corpus, textsByCollection } from "./corpus";
 import { glossary } from "./glossary";
 import type { Locale } from "./i18n";
-import {
-  keywords as defaultKeywords,
-  siteDescriptionEn,
-  siteDescriptionLt,
-  siteName,
-  siteTitleEn,
-  siteTitleLt,
-  siteUrl,
-} from "./site";
+import { keywords as defaultKeywords, siteDescriptionLt, siteName, siteTitleLt, siteUrl } from "./site";
+import { nhCatalog } from "./nh";
 import type { CollectionId, CorpusText } from "./types";
 
 export type Crumb = { name: string; path: string };
@@ -25,8 +18,8 @@ export function pageMeta({
   title,
   description,
   path,
-  titleEn,
-  descriptionEn,
+  titleEn: _titleEn,
+  descriptionEn: _descriptionEn,
   type = "website",
   index = true,
   keywords,
@@ -49,7 +42,6 @@ export function pageMeta({
       canonical: url,
       languages: {
         lt: url,
-        en: url,
         "x-default": url,
       },
     },
@@ -72,17 +64,12 @@ export function pageMeta({
       url,
       siteName,
       locale: "lt_LT",
-      alternateLocale: ["en_US"],
       type,
     },
     twitter: {
       card: "summary_large_image",
       title: `${title} · ${siteName}`,
       description,
-    },
-    other: {
-      "og:title:en": titleEn ?? title,
-      "og:description:en": descriptionEn ?? siteDescriptionEn,
     },
   };
 }
@@ -105,13 +92,12 @@ export function organizationJsonLd() {
     "@context": "https://schema.org",
     "@type": "Library",
     name: siteName,
-    alternateName: ["gnostikai", siteTitleLt, siteTitleEn],
+    alternateName: ["gnostikai", siteTitleLt],
     url: siteUrl,
     description: siteDescriptionLt,
-    disambiguatingDescription: siteDescriptionEn,
-    inLanguage: ["lt", "en"],
+    inLanguage: "lt",
     isAccessibleForFree: true,
-    knowsLanguage: ["lt", "en", "cop", "grc"],
+    knowsLanguage: ["lt", "cop", "grc"],
   };
 }
 
@@ -120,11 +106,10 @@ export function websiteJsonLd() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: siteName,
-    alternateName: ["gnostikai", siteTitleLt, siteTitleEn],
+    alternateName: ["gnostikai", siteTitleLt],
     url: siteUrl,
     description: siteDescriptionLt,
-    disambiguatingDescription: siteDescriptionEn,
-    inLanguage: ["lt", "en"],
+    inLanguage: "lt",
     publisher: { "@type": "Organization", name: siteName, url: siteUrl },
     potentialAction: {
       "@type": "SearchAction",
@@ -141,14 +126,13 @@ export function homeItemListJsonLd() {
   return {
     "@context": "https://schema.org",
     "@type": "ItemList",
-    name: "AEON korpusas / AEON corpus",
-    numberOfItems: corpus.length,
-    itemListElement: corpus.slice(0, 24).map((item, index) => ({
+    name: "Nag Hammadi biblioteka",
+    numberOfItems: nhCatalog.length,
+    itemListElement: nhCatalog.slice(0, 24).map((item, index) => ({
       "@type": "ListItem",
       position: index + 1,
-      name: item.titleLt,
-      alternateName: item.titleEn,
-      url: abs(`/text/${item.slug}`),
+      name: item.title,
+      url: abs(`/nh/${item.slug}`),
     })),
   };
 }
@@ -228,20 +212,18 @@ export function libraryJsonLd() {
   return {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    name: "AEON korpusas",
-    alternateName: "AEON corpus",
+    name: "Nag Hammadi biblioteka",
     description: siteDescriptionLt,
     url: abs("/library"),
-    inLanguage: ["lt", "en"],
+    inLanguage: "lt",
     mainEntity: {
       "@type": "ItemList",
-      numberOfItems: corpus.length,
-      itemListElement: (Object.keys(collections) as CollectionId[]).map((id, index) => ({
+      numberOfItems: nhCatalog.length,
+      itemListElement: nhCatalog.map((item, index) => ({
         "@type": "ListItem",
         position: index + 1,
-        name: collections[id].titleLt,
-        alternateName: collections[id].titleEn,
-        url: abs(`/library/${id}`),
+        name: item.title,
+        url: abs(`/nh/${item.slug}`),
       })),
     },
   };
@@ -251,14 +233,13 @@ export function glossaryJsonLd() {
   return {
     "@context": "https://schema.org",
     "@type": "DefinedTermSet",
-    name: "AEON žodynas / Glossary",
+    name: "AEON žodynas",
     url: abs("/glossary"),
-    inLanguage: ["lt", "en"],
+    inLanguage: "lt",
     hasDefinedTerm: glossary.map((term) => ({
       "@type": "DefinedTerm",
       name: term.term,
       description: term.defLt,
-      disambiguatingDescription: term.defEn,
       inDefinedTermSet: abs("/glossary"),
       url: abs(`/glossary#${term.slug}`),
     })),
@@ -267,38 +248,35 @@ export function glossaryJsonLd() {
 
 export function aboutJsonLd() {
   const lt = about.lt;
-  const en = about.en;
   return [
     {
       "@context": "https://schema.org",
       "@type": "AboutPage",
       name: lt.title,
-      alternateName: en.title,
       description: lt.lede,
-      disambiguatingDescription: en.lede,
       url: abs("/about"),
-      inLanguage: ["lt", "en"],
+      inLanguage: "lt",
     },
     {
       "@context": "https://schema.org",
       "@type": "FAQPage",
       inLanguage: "lt",
-      mainEntity: lt.sections.map((section, index) => ({
+      mainEntity: lt.sections.map((section) => ({
         "@type": "Question",
         name: section.title,
         acceptedAnswer: {
           "@type": "Answer",
-          text: `${section.paragraphs.join(" ")} ${en.sections[index]?.paragraphs.join(" ") ?? ""}`.trim(),
+          text: section.paragraphs.join(" "),
         },
       })),
     },
   ];
 }
 
-export function collectionCrumbs(id: CollectionId, locale: Locale = "lt"): Crumb[] {
-  const home = locale === "lt" ? "Pradžia" : "Home";
-  const library = locale === "lt" ? "Biblioteka" : "Library";
-  const title = locale === "lt" ? collections[id].titleLt : collections[id].titleEn;
+export function collectionCrumbs(id: CollectionId, _locale: Locale = "lt"): Crumb[] {
+  const home = "Pradžia";
+  const library = "Biblioteka";
+  const title = collections[id].titleLt;
   return [
     { name: home, path: "/" },
     { name: library, path: "/library" },
@@ -307,13 +285,12 @@ export function collectionCrumbs(id: CollectionId, locale: Locale = "lt"): Crumb
 }
 
 export function textCrumbs(text: CorpusText, locale: Locale = "lt"): Crumb[] {
-  const title = locale === "lt" ? text.titleLt : text.titleEn;
-  return [...collectionCrumbs(text.collection, locale), { name: title, path: `/text/${text.slug}` }];
+  return [...collectionCrumbs(text.collection, locale), { name: text.titleLt, path: `/text/${text.slug}` }];
 }
 
-export function pageCrumbs(nameLt: string, nameEn: string, path: string, locale: Locale = "lt"): Crumb[] {
+export function pageCrumbs(nameLt: string, _nameEn: string, path: string, _locale: Locale = "lt"): Crumb[] {
   return [
-    { name: locale === "lt" ? "Pradžia" : "Home", path: "/" },
-    { name: locale === "lt" ? nameLt : nameEn, path },
+    { name: "Pradžia", path: "/" },
+    { name: nameLt, path },
   ];
 }

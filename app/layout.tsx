@@ -12,10 +12,8 @@ import {
   bingSiteVerification,
   googleSiteVerification,
   keywords,
-  siteDescriptionEn,
   siteDescriptionLt,
   siteName,
-  siteTitleEn,
   siteTitleLt,
   siteUrl,
   yandexVerification,
@@ -61,7 +59,6 @@ export const metadata: Metadata = {
     canonical: siteUrl,
     languages: {
       lt: siteUrl,
-      en: siteUrl,
       "x-default": siteUrl,
     },
   },
@@ -83,7 +80,6 @@ export const metadata: Metadata = {
     url: siteUrl,
     siteName,
     locale: "lt_LT",
-    alternateLocale: ["en_US"],
     type: "website",
   },
   twitter: {
@@ -100,10 +96,6 @@ export const metadata: Metadata = {
         },
       }
     : {}),
-  other: {
-    "og:title:en": siteTitleEn,
-    "og:description:en": siteDescriptionEn,
-  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

@@ -1,0 +1,3083 @@
+[
+  {
+    "slug": "pleroma",
+    "term": "Pilnatvė",
+    "defLt": "Dieviškoji pilnatvė — eonų visuma virš sukurto pasaulio. Nag Hammadi tekstuose ji yra vieta, iš kurios iškrenta Sofija ir į kurią grįžta pažinęs žmogus. Tuštuma yra tai, kas lieka už šios ribos.",
+    "related": [
+      "kenoma",
+      "aeon",
+      "sophia"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/trisalis-traktatas",
+        "label": "Trišalis traktatas"
+      },
+      {
+        "href": "/nh/tiesos-evangelija",
+        "label": "Tiesos evangelija"
+      }
+    ],
+    "greek": "πλήρωμα"
+  },
+  {
+    "slug": "kenoma",
+    "term": "Tuštuma",
+    "defLt": "Erdvė po pilnatvės ribos. Joje demiurgas lipdo pasaulį, o archontai saugo vartus, kad siela nepakiltų atgal. Žodis vartojamas kaip pilnatvės priešingybė.",
+    "related": [
+      "pleroma",
+      "demiurge",
+      "archon"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      }
+    ],
+    "greek": "κένωμα"
+  },
+  {
+    "slug": "aeon",
+    "term": "Eonas",
+    "defLt": "Ne vien laiko amžius, o amžinas dieviškas asmuo ar pora pilnatvėje. Trišaliame traktate ir Tiesos evangelijoje eonai sudaro Tėvo išsiskleidimą. Aštuntainė yra viena tokių grupių.",
+    "related": [
+      "pleroma",
+      "ogdoad",
+      "autogenes"
+    ],
+    "reads": [
+      {
+        "href": "/nh/trisalis-traktatas",
+        "label": "Trišalis traktatas"
+      },
+      {
+        "href": "/nh/tiesos-evangelija",
+        "label": "Tiesos evangelija"
+      }
+    ],
+    "greek": "αἰών"
+  },
+  {
+    "slug": "archon",
+    "term": "Archontas",
+    "defLt": "Valdovas. Šiuose tekstuose archontai yra kosminės jėgos, kurios valdo dangaus sferas ir dažnai laiko sielą nelaisvėje. Jų vadas yra demiurgas.",
+    "related": [
+      "yaldabaoth",
+      "demiurge",
+      "samaelis"
+    ],
+    "reads": [
+      {
+        "href": "/nh/archontu-hipostaze-valdovu-realybe",
+        "label": "Archontų hipostazė"
+      },
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      }
+    ],
+    "greek": "ἄρχων"
+  },
+  {
+    "slug": "demiurge",
+    "term": "Demiurgas",
+    "defLt": "Pasaulio amatininkas. Nag Hammadi bibliotekoje jis dažnai neišmano to, kas virš jo, ir vadina save vieninteliu dievu. Jaldabaotas, Saklas ir Samaelis yra jo vardai.",
+    "related": [
+      "yaldabaoth",
+      "archon",
+      "sophia"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/valentino-ekspozicija",
+        "label": "Valentino ekspozicija"
+      },
+      {
+        "href": "/nh/apie-pasaulio-kilme-tekstas-be-pavadinimo-2",
+        "label": "Apie pasaulio kilmę"
+      }
+    ],
+    "greek": "δημιουργός"
+  },
+  {
+    "slug": "sophia",
+    "term": "Sofija",
+    "defLt": "Išmintis. Etiopijos Biblijoje tai Saliamono Išminties knygos balsas. Nag Hammadi tekstuose Sofija yra eonas, kurio klaida ar aistra pradeda medžiagos istoriją ir pagimdo demiurgą.",
+    "related": [
+      "pistis",
+      "pleroma",
+      "yaldabaoth"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jezaus-kristaus-sofija",
+        "label": "Jėzaus Kristaus Sofija"
+      },
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/bible/wisdom",
+        "label": "Išminties knyga"
+      }
+    ],
+    "greek": "σοφία"
+  },
+  {
+    "slug": "barbelo",
+    "term": "Barbelo",
+    "defLt": "Pirmoji mintis po Neregimosios Dvasios. Jono apokrifone ir Egiptiečių evangelijoje ji yra motiniškas pirmasis eonas, iš kurio išeina Autogenas. Pronoja yra kitas jos vardas.",
+    "related": [
+      "pronoia",
+      "autogenes",
+      "aeon"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/egiptieciu-evangelija",
+        "label": "Egiptiečių evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "yaldabaoth",
+    "term": "Jaldabaotas",
+    "defLt": "Liūtagalvis archontas, Sofijos sūnus be tėvo. Jis sukuria žemesnius valdovus ir apgauna Adomą. Tie patys tekstai jį vadina Saklu ir Samaeliu.",
+    "related": [
+      "demiurge",
+      "saklas",
+      "samaelis"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/jezaus-kristaus-sofija",
+        "label": "Jėzaus Kristaus Sofija"
+      },
+      {
+        "href": "/nh/archontu-hipostaze-valdovu-realybe",
+        "label": "Archontų hipostazė"
+      }
+    ]
+  },
+  {
+    "slug": "sethians",
+    "term": "Setianai",
+    "defLt": "Taip vadinami tekstai, kuriuose Setas yra dvasinės giminės tėvas, o ne tik Adomo sūnus iš Pradžios knygos. Egiptiečių evangelija ir Trys Seto stelės priklauso šiam ratui.",
+    "related": [
+      "setas",
+      "barbelo",
+      "valentinians"
+    ],
+    "reads": [
+      {
+        "href": "/nh/egiptieciu-evangelija",
+        "label": "Egiptiečių evangelija"
+      },
+      {
+        "href": "/nh/trys-seto-steles",
+        "label": "Trys Seto stelės"
+      },
+      {
+        "href": "/nh/noreos-mintis",
+        "label": "Noreos mintis"
+      }
+    ]
+  },
+  {
+    "slug": "valentinians",
+    "term": "Valentinianai",
+    "defLt": "Valentinus mokyklos tekstai. Juose pilnatvė išsiskleidžia eonų poromis, žmonės skirstomi į tris rūšis, o vestuvių menė yra sugrįžimo vieta. Pilypo ir Tiesos evangelijos yra šio rato šerdis.",
+    "related": [
+      "pleroma",
+      "sophia",
+      "vestuves"
+    ],
+    "reads": [
+      {
+        "href": "/nh/pilypo-evangelija",
+        "label": "Pilypo evangelija"
+      },
+      {
+        "href": "/nh/tiesos-evangelija",
+        "label": "Tiesos evangelija"
+      },
+      {
+        "href": "/nh/valentino-ekspozicija",
+        "label": "Valentino ekspozicija"
+      }
+    ]
+  },
+  {
+    "slug": "pistis",
+    "term": "Pistis",
+    "defLt": "Tikėjimas ir ištikimybė. Kartu su Sofija šis vardas žymi išmintį, kuri ir klysta, ir lieka ištikima. Jėzaus Kristaus Sofija pasakoja jos nusileidimą ir pagalbos šauksmą.",
+    "related": [
+      "sophia",
+      "gnosis"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jezaus-kristaus-sofija",
+        "label": "Jėzaus Kristaus Sofija"
+      },
+      {
+        "href": "/nh/archontu-hipostaze-valdovu-realybe",
+        "label": "Archontų hipostazė"
+      }
+    ],
+    "greek": "πίστις"
+  },
+  {
+    "slug": "gnosis",
+    "term": "Gnozis",
+    "defLt": "Pažinimas, kuris pakeičia pažįstantįjį. Tomo evangelijoje jis yra paslėptų žodžių išaiškinimas. Tai nėra vien žinių sąrašas: kas pažįsta save, tas pažįsta ir iš kur atėjo.",
+    "related": [
+      "sophia",
+      "pleroma",
+      "didimas"
+    ],
+    "reads": [
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      },
+      {
+        "href": "/nh/tiesos-evangelija",
+        "label": "Tiesos evangelija"
+      },
+      {
+        "href": "/nh/perkunas-tobulas-protas",
+        "label": "Perkūnas, tobulas protas"
+      }
+    ],
+    "greek": "γνῶσις"
+  },
+  {
+    "slug": "bronte",
+    "term": "Perkūnas",
+    "defLt": "Balsas, kuris kalba priešingybėmis: pirmoji ir paskutinė, garbinga ir gėdinga. Kodekso VI tekstas „Perkūnas, tobulas protas“ yra šis balsas, artimas Sofijos ir Pronojos kalbai.",
+    "related": [
+      "sophia",
+      "pronoia"
+    ],
+    "reads": [
+      {
+        "href": "/nh/perkunas-tobulas-protas",
+        "label": "Perkūnas, tobulas protas"
+      }
+    ],
+    "greek": "βροντή"
+  },
+  {
+    "slug": "ogdoad",
+    "term": "Aštuntainė",
+    "defLt": "Aštuonių eonų grupė. Taip pat dangus virš septynių planetų, kur kyla pažinusi siela. Aštuntojo ir devintojo diskursas kalba apie šį pakilimą.",
+    "related": [
+      "aeon",
+      "pleroma"
+    ],
+    "reads": [
+      {
+        "href": "/nh/astuntojo-ir-devintojo-diskursas",
+        "label": "Aštuntojo ir devintojo diskursas"
+      }
+    ],
+    "greek": "ὀγδοάς"
+  },
+  {
+    "slug": "autogenes",
+    "term": "Autogenas",
+    "defLt": "Savaime gimęs. Jono apokrifone ir Egiptiečių evangelijoje tai Kristaus ir Žodžio figūra, išėjusi iš Barbelo. Keturi šviesuliai stovi aplink jį.",
+    "related": [
+      "barbelo",
+      "harmozelis",
+      "aeon"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/egiptieciu-evangelija",
+        "label": "Egiptiečių evangelija"
+      }
+    ],
+    "greek": "αὐτογενής"
+  },
+  {
+    "slug": "pronoia",
+    "term": "Pronoja",
+    "defLt": "Apvaizda, pirminė mintis. Jono apokrifone ji tris kartus nusileidžia į tamsos vietą gelbėti savo giminės. Trimorfinė protenoja yra tas pats balsas kitu vardu.",
+    "related": [
+      "barbelo",
+      "protenoja",
+      "sophia"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/trimorfine-protenoja",
+        "label": "Trimorfinė protenoja"
+      }
+    ],
+    "greek": "πρόνοια"
+  },
+  {
+    "slug": "henoch",
+    "term": "Henochas",
+    "defLt": "Adomo palikuonis, kuris vaikščiojo su Dievu ir buvo paimtas. Etiopijos kanone jo knyga pasakoja apie sargus, Azazelį, dangaus kelionę ir teismą. Jubiliejų knyga jį laiko liudytoju kartoms.",
+    "related": [
+      "azazelis",
+      "jubilees",
+      "metuselachas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      },
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "jubilees",
+    "term": "Jubiliejai",
+    "defLt": "Laiko saikas Etiopijos kanono Jubiliejų knygoje: keturiasdešimt devyneri metai. Visa istorija nuo kūrimo iki Sinajaus sudėliota jubiliejais, savaitėmis ir metais. Knyga dar vadinama Mažąja Pradžia.",
+    "related": [
+      "henoch",
+      "nojus",
+      "abraomas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      },
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "adomas",
+    "term": "Adomas",
+    "defLt": "Pirmasis žmogus. Pradžios knygoje jis pavadina gyvūnus ir ištremiamas iš Edeno. Nag Hammadi tekstuose dvasinis Adamas yra šviesos pirmavaizdis, o žemiškasis Adomas — demiurgo lipdinys.",
+    "related": [
+      "ieva",
+      "setas",
+      "adamas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      },
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      }
+    ]
+  },
+  {
+    "slug": "ieva",
+    "term": "Ieva",
+    "defLt": "Pirmoji moteris Pradžios knygoje, paimta iš Adomo ir pavadinta visų gyvųjų motina. Archontų hipostazėje jos dukra Norea atsisako paklusti valdovams.",
+    "related": [
+      "adomas",
+      "norea",
+      "setas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/nh/archontu-hipostaze-valdovu-realybe",
+        "label": "Archontų hipostazė"
+      }
+    ]
+  },
+  {
+    "slug": "setas",
+    "term": "Setas",
+    "defLt": "Adomo ir Ievos sūnus, gimęs vietoj Abelio. Pradžios knygoje nuo jo eina linija iki Nojaus. Nag Hammadi tekstuose Setas yra dvasinės giminės tėvas, o ne tik vienas patriarchas.",
+    "related": [
+      "sethians",
+      "adomas",
+      "kainas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/nh/trys-seto-steles",
+        "label": "Trys Seto stelės"
+      },
+      {
+        "href": "/nh/egiptieciu-evangelija",
+        "label": "Egiptiečių evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "kainas",
+    "term": "Kainas",
+    "defLt": "Adomo sūnus, kuris nužudo brolį Abelį ir išeina į klajonę. Jubiliejų knyga pasakoja tą pačią istoriją pagal savo laiko saiką. Jo miestas pavadintas sūnaus Henochu.",
+    "related": [
+      "abelis",
+      "adomas",
+      "henoch"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "abelis",
+    "term": "Abelis",
+    "defLt": "Adomo ir Ievos sūnus, piemuo, kurio auką Dievas priima. Kainas jį nužudo lauke, ir kraujas šaukiasi iš žemės. Pradžios knyga palieka jį kaip teisųjį, kuris nebeturi palikuonių.",
+    "related": [
+      "kainas",
+      "adomas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "metuselachas",
+    "term": "Metušelachas",
+    "defLt": "Henochas sūnus ir ilgiausiai gyvenęs Pradžios knygos žmogus. Per jį eina linija nuo Seto iki Nojaus. Henochas knygoje jis yra tas, kuriam tėvas palieka dangaus paslaptis.",
+    "related": [
+      "henoch",
+      "lamechas",
+      "nojus"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "lamechas",
+    "term": "Lamechas",
+    "defLt": "Metušelacho sūnus ir Nojaus tėvas. Pradžios knygoje jis tikisi, kad sūnus atneš paguodą nuo žemės darbo. Henochas pasakoja, kaip Lamechas išsigąsta neįprasto kūdikio.",
+    "related": [
+      "nojus",
+      "metuselachas",
+      "henoch"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "nojus",
+    "term": "Nojus",
+    "defLt": "Žmogus, kuris randa malonę ir pastato arką. Pradžios ir Jubiliejų knygos pasakoja tvaną, sandorą ir vaivorykštę. Henochas jį sieja su sargų teismu.",
+    "related": [
+      "arka",
+      "tvanas",
+      "jubilees"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      },
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "semas",
+    "term": "Semas",
+    "defLt": "Nojaus sūnus. Po tvano iš jo linijos eina Abraomas ir Izraelis. Pradžios knyga išskiria Semo palapinę, kai Chamas pamato tėvo nuogumą.",
+    "related": [
+      "nojus",
+      "chamas",
+      "jafetas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "chamas",
+    "term": "Chamas",
+    "defLt": "Nojaus sūnus. Pradžios ir Jubiliejų knygose jis pamato tėvo nuogumą ir užsitraukia prakeiksmą savo sūnui Kanaanui. Iš jo kyla tautos, su kuriomis vėliau susiduria Izraelis.",
+    "related": [
+      "nojus",
+      "kanaanas",
+      "semas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "jafetas",
+    "term": "Jafetas",
+    "defLt": "Nojaus sūnus, kuris su Semu uždengia tėvą. Pradžios knyga iš jo kildina šiaurės ir jūrų tautas. Po tvano jis gauna palaiminimą plėstis.",
+    "related": [
+      "nojus",
+      "semas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "abraomas",
+    "term": "Abraomas",
+    "defLt": "Pakviestas išeiti iš savo žemės. Pradžios knygoje jam pažadama palikuonys, jis aukoja Izaoką ir susitinka Melchizedeką. Jubiliejų knyga tą pačią istoriją sudėlioja jubiliejais.",
+    "related": [
+      "izaokas",
+      "melchizedekas",
+      "sara"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "sara",
+    "term": "Sara",
+    "defLt": "Abraomo žmona, iš pradžių vadinta Saraja. Pradžios knygoje ji ilgai nesusilaukia vaiko ir senatvėje pagimdo Izaoką. Per ją eina pažadas, kad Abraomas turės palikuonių.",
+    "related": [
+      "abraomas",
+      "izaokas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "izaokas",
+    "term": "Izaokas",
+    "defLt": "Abraomo ir Saros sūnus, paaukotas ant kalno ir sulaikytas. Jis veda Rebeką ir yra Jokūbo bei Ezavo tėvas. Sandora eina per jį.",
+    "related": [
+      "abraomas",
+      "rebeka",
+      "jokubas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "rebeka",
+    "term": "Rebeka",
+    "defLt": "Izaoko žmona, atvesta nuo šulinio. Pradžios knygoje ji pagimdo dvynius ir padeda Jokūbui gauti palaiminimą. Jubiliejų knyga kartoja šią istoriją.",
+    "related": [
+      "izaokas",
+      "jokubas",
+      "ezavas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "jokubas",
+    "term": "Jokūbas",
+    "defLt": "Izaoko sūnus, vėliau pavadintas Izraeliu. Jis išperka pirmagimystę, sapnuoja dangaus kopėčias ir susilaukia dvylikos sūnų. Iš jo kyla Izraelio giminės.",
+    "related": [
+      "izaokas",
+      "juozapas",
+      "izraelis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "ezavas",
+    "term": "Ezavas",
+    "defLt": "Jokūbo brolis dvynys ir medžiotojas. Pradžios knygoje jis parduoda pirmagimystę už viralą, o tėvo palaiminimas atitenka Jokūbui. Iš jo kyla Edomas.",
+    "related": [
+      "jokubas",
+      "izaokas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "juozapas",
+    "term": "Juozapas",
+    "defLt": "Jokūbo sūnus, parduotas į Egiptą. Pradžios knygoje jis išaiškina faraono sapnus ir išgelbsti giminę nuo bado. Vėliau jo kaulai išnešami iš Egipto.",
+    "related": [
+      "jokubas",
+      "faraonas",
+      "egiptas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "moze",
+    "term": "Mozė",
+    "defLt": "Išvestas iš Nilo ir pašauktas nuo degančio krūmo. Per jį Izraelis išeina iš Egipto, gauna įstatymą Sinajuje ir sandoros skrynią. Išėjimo knyga yra jo istorijos šerdis.",
+    "related": [
+      "aaronas",
+      "sinajus",
+      "istatymas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      },
+      {
+        "href": "/bible/deuteronomy",
+        "label": "Pakartoto Įstatymo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "aaronas",
+    "term": "Aaronas",
+    "defLt": "Mozės brolis ir pirmasis vyriausiasis kunigas. Išėjimo ir Kunigų knygose jis stovi prie aukuro, nešioja ženklus ir užtaria tautą. Iš jo eina kunigystė.",
+    "related": [
+      "moze",
+      "mirjama",
+      "sventykla"
+    ],
+    "reads": [
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      },
+      {
+        "href": "/bible/leviticus",
+        "label": "Kunigų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "mirjama",
+    "term": "Mirjama",
+    "defLt": "Mozės ir Aarono sesuo, pranašė. Ji saugo kūdiki Mozę prie Nilo ir po jūros perėjos gieda. Skaičių knygoje ji tampa raupsuota, kai sukyla prieš brolį.",
+    "related": [
+      "moze",
+      "aaronas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      },
+      {
+        "href": "/bible/numbers",
+        "label": "Skaičių knyga"
+      }
+    ]
+  },
+  {
+    "slug": "jozue",
+    "term": "Jozuė",
+    "defLt": "Mozės tarnas, kuris įveda Izraelį į Kanaaną. Jo knyga pasakoja Jericho griuvimą, žemės dalybas ir sandorą Sicheme. Jis yra Efraimo giminės vadas.",
+    "related": [
+      "moze",
+      "kanaanas",
+      "izraelis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/joshua",
+        "label": "Jozuės knyga"
+      }
+    ]
+  },
+  {
+    "slug": "samuelis",
+    "term": "Samuelis",
+    "defLt": "Paskutinis didysis teisėjas ir pranašas, pažadėtas motinai Onai. Pirmoji Samuelio knyga pasakoja, kaip jis patepa Saulių, o vėliau Dovydą. Per jį Izraelis pereina nuo teisėjų prie karalių.",
+    "related": [
+      "saulius",
+      "dovydas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1samuel",
+        "label": "Pirmoji Samuelio knyga"
+      }
+    ]
+  },
+  {
+    "slug": "saulius",
+    "term": "Saulius",
+    "defLt": "Pirmasis Izraelio karalius, pateptas Samuelio. Jis kariauja su filistinais, paskui pavydi Dovydui ir jo ieško. Pirmosios Samuelio knygos pabaigoje jis krinta Gilbojos kalne.",
+    "related": [
+      "samuelis",
+      "dovydas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1samuel",
+        "label": "Pirmoji Samuelio knyga"
+      }
+    ]
+  },
+  {
+    "slug": "dovydas",
+    "term": "Dovydas",
+    "defLt": "Piemuo, kuris nugali Galijotą ir tampa karaliumi. Jam pažadėta sostas amžiams. Psalmės daugiausia giedamos jo vardu, o Saliamonas yra jo sūnus.",
+    "related": [
+      "saliamonas",
+      "saulius",
+      "mesijas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1samuel",
+        "label": "Pirmoji Samuelio knyga"
+      },
+      {
+        "href": "/bible/psalms",
+        "label": "Psalmynas"
+      }
+    ]
+  },
+  {
+    "slug": "saliamonas",
+    "term": "Saliamonas",
+    "defLt": "Dovydo sūnus, šventyklos statytojas ir išminties karalius. Karalių knygos pasakoja jo teismą ir vėlesnį nuopuolį. Išminties ir Patarlių knygos kalba jo balsu.",
+    "related": [
+      "dovydas",
+      "sophia",
+      "sventykla"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1kings",
+        "label": "Pirmoji Karalių knyga"
+      },
+      {
+        "href": "/bible/wisdom",
+        "label": "Išminties knyga"
+      },
+      {
+        "href": "/bible/proverbs",
+        "label": "Patarlės"
+      }
+    ]
+  },
+  {
+    "slug": "elijas",
+    "term": "Elijas",
+    "defLt": "Pranašas, kuris užrakina dangų, prikelia našlės sūnų ir Karmelyje parbloškia Baalo pranašus. Pirmoji Karalių knyga baigia jo istoriją ugnies vežimu. Eliziejus paveldi jo apsiaustą.",
+    "related": [
+      "eliziejus",
+      "izaijas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1kings",
+        "label": "Pirmoji Karalių knyga"
+      },
+      {
+        "href": "/bible/2kings",
+        "label": "Antroji Karalių knyga"
+      }
+    ]
+  },
+  {
+    "slug": "eliziejus",
+    "term": "Eliziejus",
+    "defLt": "Elijos mokinys ir įpėdinis. Antroji Karalių knyga pasakoja, kaip jis gydo vandenį, padaugina aliejų ir prikelia vaiką. Jo vardas reiškia „Dievas yra išgelbėjimas“.",
+    "related": [
+      "elijas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/2kings",
+        "label": "Antroji Karalių knyga"
+      }
+    ]
+  },
+  {
+    "slug": "izaijas",
+    "term": "Izaijas",
+    "defLt": "Jeruzalės pranašas karalių dienomis. Jo knyga kalba apie šventyklos regėjimą, kūdikį ir tarną, kuris neša tautos skausmą. Etiopijos kanone minima ir Izaijo žengimo tradicija.",
+    "related": [
+      "jeremijas",
+      "mesijas",
+      "jeruzale"
+    ],
+    "reads": [
+      {
+        "href": "/bible/isaiah",
+        "label": "Izaijo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "jeremijas",
+    "term": "Jeremijas",
+    "defLt": "Pranašas, kuris rauda dėl Jeruzalės žlugimo ir šaukia tautą gręžtis. Jo knyga ir Raudos lydi tremtį į Babiloną. Baruchas yra jo raštininkas.",
+    "related": [
+      "baruchas",
+      "babilonas",
+      "jeruzale"
+    ],
+    "reads": [
+      {
+        "href": "/bible/jeremiah",
+        "label": "Jeremijo knyga"
+      },
+      {
+        "href": "/bible/lamentations",
+        "label": "Raudos"
+      }
+    ]
+  },
+  {
+    "slug": "ezekielis",
+    "term": "Ezekielis",
+    "defLt": "Kunigas pranašas tremtyje. Jis regi kerubų vežimą, matuoja būsimą šventyklą ir kalba sausiems kaulams. Jo knyga yra vienas vaizdingiausių pranašų tekstų.",
+    "related": [
+      "kerubas",
+      "babilonas",
+      "sventykla"
+    ],
+    "reads": [
+      {
+        "href": "/bible/ezekiel",
+        "label": "Ezekielio knyga"
+      }
+    ]
+  },
+  {
+    "slug": "danielius",
+    "term": "Danielius",
+    "defLt": "Išmintingas jaunuolis Babilono dvare. Jo knyga pasakoja liūtų duobę, ugnies krosnį ir karalysčių regėjimus. Etiopijos kanone prie jo jungiasi ir Belio bei slibino pasakojimas.",
+    "related": [
+      "babilonas",
+      "mesijas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/daniel",
+        "label": "Danieliaus knyga"
+      }
+    ]
+  },
+  {
+    "slug": "jobas",
+    "term": "Jobas",
+    "defLt": "Teisus žmogus, iš kurio atimama sveikata, vaikai ir turtas. Jo knyga yra ginčas su draugais apie kančią. Pabaigoje Dievas atsako iš audros, o Jobas atgauna gyvenimą.",
+    "related": [
+      "seolas",
+      "kibirkstis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/job",
+        "label": "Jobo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "tobijas",
+    "term": "Tobijas",
+    "defLt": "Tremtinys, kurį angelas Rafaelis veda į kelionę. Tobito knyga pasakoja apie aklumą, demoną, santuoką ir išmaldą. Tai viena Etiopijos kanono išminties istorijų.",
+    "related": [
+      "rafaelis",
+      "ismalda"
+    ],
+    "reads": [
+      {
+        "href": "/bible/tobit",
+        "label": "Tobito knyga"
+      }
+    ]
+  },
+  {
+    "slug": "judita",
+    "term": "Judita",
+    "defLt": "Našlė, kuri įeina į priešo stovyklą ir nukerta karvedžiui Holofernui galvą. Jos knyga gina apgultą miestą pasninku ir gudrumu. Etiopijos Biblija ją laiko kanonine.",
+    "related": [
+      "pasninkas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/judith",
+        "label": "Juditos knyga"
+      }
+    ]
+  },
+  {
+    "slug": "estera",
+    "term": "Estera",
+    "defLt": "Žydų mergina, tapusi Persijos karaliene. Jos knyga pasakoja, kaip ji išgelbsti tautą nuo Hamano įsako. Pasninkas ir puota žymi šią istoriją.",
+    "related": [
+      "pasninkas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/esther",
+        "label": "Esteros knyga"
+      }
+    ]
+  },
+  {
+    "slug": "ruta",
+    "term": "Rūta",
+    "defLt": "Moabitė, kuri nepalieka anytos Noemės ir renka varpas Boazo lauke. Jos knyga baigiasi Dovydo kilme. Ištikimybė čia svarbesnė už kilmę.",
+    "related": [
+      "dovydas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/ruth",
+        "label": "Rūtos knyga"
+      }
+    ]
+  },
+  {
+    "slug": "ezdras",
+    "term": "Ezdras",
+    "defLt": "Raštininkas, kuris po tremties skaito įstatymą tautai. Etiopijos kanone yra ne viena jo knyga: Ezros, Pirmoji ir Antroji Ezdro. Antroji kalba apie regėjimus ir teismą.",
+    "related": [
+      "nehemijas",
+      "istatymas",
+      "babilonas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/ezra",
+        "label": "Ezros knyga"
+      },
+      {
+        "href": "/bible/1esdras",
+        "label": "Pirmoji Ezdro knyga"
+      },
+      {
+        "href": "/bible/2esdras",
+        "label": "Antroji Ezdro knyga"
+      }
+    ]
+  },
+  {
+    "slug": "nehemijas",
+    "term": "Nehemijas",
+    "defLt": "Taurelis, kuris atstato Jeruzalės sieną. Jo knyga pasakoja apie darbą su kardu prie šono ir apie įstatymo skaitymą kartu su Ezdru. Miestas vėl tampa gyvenamas.",
+    "related": [
+      "ezdras",
+      "jeruzale"
+    ],
+    "reads": [
+      {
+        "href": "/bible/nehemiah",
+        "label": "Nehemijo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "baruchas",
+    "term": "Baruchas",
+    "defLt": "Jeremijo raštininkas, kuris užrašo pranašo žodžius. Barucho knyga kalba tremtiniams Babilone ir giria išmintį, gyvenančią pas Dievą. Etiopijos kanone šalia jos yra ir 4 Baruchas.",
+    "related": [
+      "jeremijas",
+      "sophia",
+      "babilonas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/baruch",
+        "label": "Barucho knyga"
+      },
+      {
+        "href": "/bible/4baruch",
+        "label": "4 Baruchas"
+      }
+    ]
+  },
+  {
+    "slug": "melchizedekas",
+    "term": "Melchizedekas",
+    "defLt": "Salemo karalius ir aukščiausiojo Dievo kunigas. Pradžios knygoje jis išeina pas Abraomą su duona ir vynu. Laiškas hebrajams ir Nag Hammadi traktatas jį laiko kunigu be pradžios.",
+    "related": [
+      "abraomas",
+      "kunigas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/hebrews",
+        "label": "Laiškas hebrajams"
+      },
+      {
+        "href": "/nh/melchizedekas",
+        "label": "Melchizedekas"
+      }
+    ]
+  },
+  {
+    "slug": "mastema",
+    "term": "Mastema",
+    "defLt": "Priešiškumo kunigaikštis Jubiliejų knygoje. Jis prašo leisti gundyti žmones ir stovi už Egipto burtininkų. Knyga jį skiria nuo Dievo, bet palieka jam ribotą valdžią.",
+    "related": [
+      "setonas",
+      "jubilees"
+    ],
+    "reads": [
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "azazelis",
+    "term": "Azazelis",
+    "defLt": "Vienas sargų vadų Henochas knygoje. Jis moko žmones ginklų, dažų ir papuošalų, ir už tai surišamas dykumoje iki teismo. Jo vardas liko ir atpirkimo ožio apeigoje.",
+    "related": [
+      "semjaza",
+      "henoch",
+      "sargai"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/bible/leviticus",
+        "label": "Kunigų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "semjaza",
+    "term": "Semjaza",
+    "defLt": "Sargų vadas, kuris Henochas knygoje prisiekia su dviem šimtais nusileisti pas žmonių dukteris. Iš tos sąjungos kyla milžinai. Teismas jį pasmerkia kartu su Azazeliu.",
+    "related": [
+      "azazelis",
+      "sargai",
+      "nefilimai"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "gabrielius",
+    "term": "Gabrielius",
+    "defLt": "Angelas, kuris Henochas knygose stovi tarp dangaus kunigaikščių ir siunčiamas prieš milžinus. Luko evangelijoje jis skelbia Jono ir Jėzaus gimimą. Jo vardas reiškia „Dievo galiūnas“.",
+    "related": [
+      "mykolas",
+      "rafaelis",
+      "henoch"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/bible/2enoch",
+        "label": "Antrasis Henochas"
+      },
+      {
+        "href": "/bible/luke",
+        "label": "Luko evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "mykolas",
+    "term": "Mykolas",
+    "defLt": "Vyriausiasis angelų kunigaikštis. Henochas knygoje jis saugo Izraelio dalį ir kovoja su puolusiais sargais. Jo vardas reiškia „kas kaip Dievas“.",
+    "related": [
+      "gabrielius",
+      "azazelis",
+      "henoch"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "urielis",
+    "term": "Urielis",
+    "defLt": "Dievo šviesos angelas. Henochas tradicijoje jis lydi regėtoją per dangaus vartus ir rodo šviesulių kelius. Jo vardas reiškia „Dievas yra mano šviesa“.",
+    "related": [
+      "gabrielius",
+      "henoch",
+      "rafaelis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "rafaelis",
+    "term": "Rafaelis",
+    "defLt": "Gydytojas angelas. Henochas knygoje jis suriša Azazelį ir gydo žemę. Tobito knygoje jis keliauja su Tobiju, išvaro demoną ir grąžina senoliui regėjimą.",
+    "related": [
+      "tobijas",
+      "azazelis",
+      "mykolas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/bible/tobit",
+        "label": "Tobito knyga"
+      }
+    ]
+  },
+  {
+    "slug": "fanuelis",
+    "term": "Fanuelis",
+    "defLt": "Vienas iš keturių Henochas knygos angelų, stovinčių prieš Viešpaties šlovę. Jam skiriama atgaila ir viltis tiems, kurie paveldi amžinąjį gyvenimą. Jo vardas gretimas su Dievo veidu.",
+    "related": [
+      "mykolas",
+      "gabrielius",
+      "henoch"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "raguelis",
+    "term": "Raguelis",
+    "defLt": "Angelas, kuris Henochas knygoje baudžia šviesulių pasaulį, jei jie nukrypsta nuo kelio. Tobito knygoje taip vadinamas ir Tobijo giminaitis. Vardas reiškia „Dievo draugas“.",
+    "related": [
+      "henoch",
+      "urielis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/bible/tobit",
+        "label": "Tobito knyga"
+      }
+    ]
+  },
+  {
+    "slug": "remielis",
+    "term": "Remielis",
+    "defLt": "Angelas, kurį Henochas ir Antroji Ezdro knyga mini tarp dangaus pasiuntinių. Jam skiriama prižiūrėti prisikeliančiuosius. Jis stovi teismo pusėje, ne sargų maište.",
+    "related": [
+      "henoch",
+      "ezdras",
+      "prisikelimas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/bible/2esdras",
+        "label": "Antroji Ezdro knyga"
+      }
+    ]
+  },
+  {
+    "slug": "sargai",
+    "term": "Sargai",
+    "defLt": "Dangaus būtybės, kurioms buvo pavesta saugoti pasaulį. Henochas knygoje dalis jų palieka savo vietą, ima žmonių dukteris ir išmoko žemę draudžiamų menų. Už tai jie surišami iki teismo dienos.",
+    "related": [
+      "azazelis",
+      "semjaza",
+      "nefilimai"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "nefilimai",
+    "term": "Nefilimai",
+    "defLt": "Pradžios knygos milžinai, žemėje buvę tomis dienomis, kai dievų sūnūs ėjo pas žmonių dukteris. Henochas juos kildina iš sargų. Tvanas yra jų smurto pabaiga.",
+    "related": [
+      "sargai",
+      "tvanas",
+      "nojus"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "liuciferis",
+    "term": "Liuciferis",
+    "defLt": "Izaijo knygos rytinė žvaigždė, puolusio karaliaus paveikslas: „Kaip tu nukritai iš dangaus.“ Vėlesnė skaitymo tradicija šį vardą sieja su šėtono kritimu. Pačiame Izaijo tekste tai pirmiausia Babilono valdovo giesmė.",
+    "related": [
+      "setonas",
+      "izaijas",
+      "babilonas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/isaiah",
+        "label": "Izaijo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "belialas",
+    "term": "Belialas",
+    "defLt": "Nenaudėlis ir maišto dvasia. Samuelio knygose „Belialo sūnūs“ yra žmonės, kurie nepripažįsta karaliaus ir laužo sandorą. Vardas vėliau tampa priešiškos jėgos vardu.",
+    "related": [
+      "setonas",
+      "mastema"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1samuel",
+        "label": "Pirmoji Samuelio knyga"
+      }
+    ]
+  },
+  {
+    "slug": "setonas",
+    "term": "Šėtonas",
+    "defLt": "Kaltintojas. Jobo knygoje jis vaikšto žeme ir prašo leisti išmėginti teisųjį. Jubiliejų knygoje panašią vietą užima Mastema. Evangelijose jis gundo dykumoje.",
+    "related": [
+      "mastema",
+      "belialas",
+      "jobas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/job",
+        "label": "Jobo knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      },
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "saklas",
+    "term": "Saklas",
+    "defLt": "Kvailys. Taip Jono apokrifonas ir Trimorfinė protenoja vadina demiurgą šalia Jaldabaoto. Vardas pabrėžia ne galią, o neišmanymą: jis kuria nematydamas to, kas virš jo.",
+    "related": [
+      "yaldabaoth",
+      "samaelis",
+      "demiurge"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/trimorfine-protenoja",
+        "label": "Trimorfinė protenoja"
+      }
+    ]
+  },
+  {
+    "slug": "samaelis",
+    "term": "Samaelis",
+    "defLt": "Aklasis dievas. Jono apokrifone tai vienas iš trijų Jaldabaoto vardų. Archontų hipostazė jį stato tarp valdovų, kurie persekioja Noreą ir laiko žmones tamsoje.",
+    "related": [
+      "yaldabaoth",
+      "saklas",
+      "norea"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/archontu-hipostaze-valdovu-realybe",
+        "label": "Archontų hipostazė"
+      }
+    ]
+  },
+  {
+    "slug": "norea",
+    "term": "Norea",
+    "defLt": "Ievos dukra, kuri archontų tekstuose atsisako paklusti valdovams ir sudegina jų arką. Noreos mintis yra jos pagalbos šauksmas į šviesos pasaulį. Ji nėra tik Nojaus žmonos šešėlis.",
+    "related": [
+      "ieva",
+      "nojus",
+      "archon"
+    ],
+    "reads": [
+      {
+        "href": "/nh/noreos-mintis",
+        "label": "Noreos mintis"
+      },
+      {
+        "href": "/nh/archontu-hipostaze-valdovu-realybe",
+        "label": "Archontų hipostazė"
+      }
+    ]
+  },
+  {
+    "slug": "zostrianas",
+    "term": "Zostrianas",
+    "defLt": "Regėtojas, kurio vardu pavadintas ilgas Kodekso VIII traktatas. Jis kyla per eonus, krikštijamas šviesos vandenyse ir girdi apreiškimą apie Barbelo. Tekstas yra vienas sunkiausių Nag Hammadi rinkinio.",
+    "related": [
+      "barbelo",
+      "aeon",
+      "alogenas"
+    ],
+    "reads": [
+      {
+        "href": "/nh/zostrianas",
+        "label": "Zostrianas"
+      }
+    ]
+  },
+  {
+    "slug": "adamas",
+    "term": "Adamas",
+    "defLt": "Šviesos žmogus, dvasinis Adomo pirmavaizdis. Jono apokrifone ir Egiptiečių evangelijoje jis stovi pilnatvėje anksčiau už žemiškąjį Adomą. Demiurgas lipdo kūną pagal jo atvaizdą, bet nesupranta atvaizdo.",
+    "related": [
+      "adomas",
+      "autogenes",
+      "barbelo"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/egiptieciu-evangelija",
+        "label": "Egiptiečių evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "eleleth",
+    "term": "Eleletas",
+    "defLt": "Vienas iš keturių šviesulių aplink Autogeną. Jono apokrifone ir Archontų hipostazėje jis yra tas, kuris atskleidžia Sofijai ir Noreai tiesą apie valdovus. Jo vardas skamba kaip pagalbos šauksmas.",
+    "related": [
+      "autogenes",
+      "harmozelis",
+      "norea"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/archontu-hipostaze-valdovu-realybe",
+        "label": "Archontų hipostazė"
+      }
+    ]
+  },
+  {
+    "slug": "harmozelis",
+    "term": "Harmozelis",
+    "defLt": "Pirmasis iš keturių šviesulių. Egiptiečių evangelijoje prie jo stovi Adamo malonė. Kartu su Oroiaeliu, Daveite ir Eleletu jis saugo pilnatvės vartus.",
+    "related": [
+      "autogenes",
+      "oroiaelis",
+      "daveite"
+    ],
+    "reads": [
+      {
+        "href": "/nh/egiptieciu-evangelija",
+        "label": "Egiptiečių evangelija"
+      },
+      {
+        "href": "/nh/melchizedekas",
+        "label": "Melchizedekas"
+      }
+    ]
+  },
+  {
+    "slug": "oroiaelis",
+    "term": "Oroiaelis",
+    "defLt": "Antrasis iš keturių šviesulių aplink Autogeną. Egiptiečių evangelijoje ir Zostriane jis minimas kartu su Harmozeliu, Daveite ir Eleletu. Prie jo tradiciškai stojama Seto karta.",
+    "related": [
+      "harmozelis",
+      "setas",
+      "autogenes"
+    ],
+    "reads": [
+      {
+        "href": "/nh/egiptieciu-evangelija",
+        "label": "Egiptiečių evangelija"
+      },
+      {
+        "href": "/nh/zostrianas",
+        "label": "Zostrianas"
+      }
+    ]
+  },
+  {
+    "slug": "daveite",
+    "term": "Daveitė",
+    "defLt": "Trečioji iš keturių šviesulių, dažnai moterišku vardu. Zostrianas ir Melchizedeko traktatas ją mini kartu su kitais trimis. Ji saugo vieną pilnatvės eonų.",
+    "related": [
+      "harmozelis",
+      "eleleth",
+      "zostrianas"
+    ],
+    "reads": [
+      {
+        "href": "/nh/zostrianas",
+        "label": "Zostrianas"
+      },
+      {
+        "href": "/nh/melchizedekas",
+        "label": "Melchizedekas"
+      }
+    ]
+  },
+  {
+    "slug": "sabaotas",
+    "term": "Sabaotas",
+    "defLt": "Kariuomenių viešpats. Biblijoje tai Dievo titulas. Nag Hammadi tekstuose Sabaotas yra archontas, kuris Jaldabaoto pasaulyje atsigręžia į šviesą ir gauna sostą virš kitų valdovų.",
+    "related": [
+      "yaldabaoth",
+      "adonajas",
+      "archon"
+    ],
+    "reads": [
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      },
+      {
+        "href": "/nh/apie-pasaulio-kilme-tekstas-be-pavadinimo-2",
+        "label": "Apie pasaulio kilmę"
+      }
+    ]
+  },
+  {
+    "slug": "adonajas",
+    "term": "Adonajas",
+    "defLt": "Viešpats. Biblijoje tai Dievo kreipinys. Antrojo Didžiojo Seto traktato ir pasaulio kilmės tekstuose Adonajas yra vienas iš žemesnių valdovų, Jaldabaoto palikuonis.",
+    "related": [
+      "sabaotas",
+      "yaldabaoth"
+    ],
+    "reads": [
+      {
+        "href": "/nh/antrasis-didziojo-seto-traktatas",
+        "label": "Antrasis Didžiojo Seto traktatas"
+      },
+      {
+        "href": "/nh/apie-pasaulio-kilme-tekstas-be-pavadinimo-2",
+        "label": "Apie pasaulio kilmę"
+      }
+    ]
+  },
+  {
+    "slug": "alogenas",
+    "term": "Alogenas",
+    "defLt": "Svetimas, kitos giminės žmogus. Taip vadinamas regėtojas, kuris Alogenų traktate kyla pas Neregimąją Dvasią ir gauna apreiškimą be demiurgo tarpininkavimo. Vardas reiškia „iš kitos sėklos“.",
+    "related": [
+      "zostrianas",
+      "barbelo",
+      "gnosis"
+    ],
+    "reads": [
+      {
+        "href": "/nh/alogenai",
+        "label": "Alogenai"
+      }
+    ]
+  },
+  {
+    "slug": "marsanes",
+    "term": "Marsanas",
+    "defLt": "Regėtojas, kurio vardu pavadintas Kodekso X traktatas. Tekstas kalba apie antspaudus, raides ir pakilimą per sferas. Iš jo liko tik dalis, bet vardas yra aiškus.",
+    "related": [
+      "zostrianas",
+      "alogenas"
+    ],
+    "reads": [
+      {
+        "href": "/nh/marsanes",
+        "label": "Marsanes"
+      }
+    ]
+  },
+  {
+    "slug": "eugnostas",
+    "term": "Eugnostas",
+    "defLt": "Palaimintasis, kuris laiške pasakoja apie Tėvą, kurio niekas nevaldo. Palaimintojo Eugnosto traktatas yra kosmogonija be aistros dramos. Egiptiečių evangelija jam artima kalba.",
+    "related": [
+      "aeon",
+      "pleroma"
+    ],
+    "reads": [
+      {
+        "href": "/nh/palaimintasis-eugnostas",
+        "label": "Palaimintasis Eugnostas"
+      }
+    ]
+  },
+  {
+    "slug": "hipsifrone",
+    "term": "Hipsifronė",
+    "defLt": "Aukštasis protas. Trumpas Kodekso XI tekstas yra jos kalba apie tai, kas nutiko jai išėjus iš savo vietos. Vardas pats sako: mąstymas, kuris stovi aukštai.",
+    "related": [
+      "pronoia",
+      "sophia"
+    ],
+    "reads": [
+      {
+        "href": "/nh/hipsifronas",
+        "label": "Hipsifronė"
+      }
+    ]
+  },
+  {
+    "slug": "protenoja",
+    "term": "Protenoja",
+    "defLt": "Pirmoji mintis. Trimorfinė protenoja yra jos trigubas nusileidimas: kaip balsas, kaip kalba ir kaip žodis. Ji artima Pronojai ir Barbelo.",
+    "related": [
+      "pronoia",
+      "barbelo",
+      "logos"
+    ],
+    "reads": [
+      {
+        "href": "/nh/trimorfine-protenoja",
+        "label": "Trimorfinė protenoja"
+      }
+    ]
+  },
+  {
+    "slug": "salome",
+    "term": "Salomė",
+    "defLt": "Moteris, kuri Tomo evangelijoje klausia Jėzų, užlipusį ant jos sofos. Morkaus evangelijoje taip vadinama viena iš moterų prie kapo. Nag Hammadi tekstuose ji yra mokinė, ne šokėja.",
+    "related": [
+      "didimas",
+      "marija-magdaliete"
+    ],
+    "reads": [
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      },
+      {
+        "href": "/bible/mark",
+        "label": "Morkaus evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "simonas-petras",
+    "term": "Simonas Petras",
+    "defLt": "Pirmasis tarp dvylikos, kuris išpažįsta Jėzų ir jo išsigina. Tomo evangelijoje jis prašo Mariją pasitraukti, o Jėzus ją pasilieka. Evangelijos ir Apaštalų darbai pasakoja jo kelią nuo žvejo iki liudytojo.",
+    "related": [
+      "marija-magdaliete",
+      "andriejus",
+      "jokubas-teisusis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "matas",
+    "term": "Matas",
+    "defLt": "Muitininkas, pašauktas nuo stalo, ir evangelija jo vardu. Tomo evangelijoje jis lygina Jėzų su išmintingu filosofu. Mato evangelija prasideda genealogija nuo Abraomo.",
+    "related": [
+      "simonas-petras",
+      "didimas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "andriejus",
+    "term": "Andriejus",
+    "defLt": "Simono Petro brolis, vienas pirmųjų pašauktų. Evangelijose jis atveda pas Jėzų kitus. Jo vardas graikiškas, bet jis yra Galilėjos žvejys.",
+    "related": [
+      "simonas-petras"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "baltramiejus",
+    "term": "Baltramiejus",
+    "defLt": "Vienas iš dvylikos, išvardytas Mato, Morkaus ir Luko sąrašuose. Evangelijos apie jį beveik nepasakoja istorijos, tik vardą tarp apaštalų. Nag Hammadi rinkinyje yra ir knyga, siejama su jo klausimais.",
+    "related": [
+      "matas",
+      "simonas-petras"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/bible/mark",
+        "label": "Morkaus evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "pilotas",
+    "term": "Pilotas",
+    "defLt": "Romos valdytojas, kuris teisia Jėzų ir atiduoda jį nukryžiuoti. Evangelijose jis plauna rankas arba klausia, kas yra tiesa. Jo sprendimas stovi tarp šventyklos vadų ir minios.",
+    "related": [
+      "kajafas",
+      "erodas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "erodas",
+    "term": "Erodas",
+    "defLt": "Karalius, kurio vardu evangelijos vadina kelis valdovus. Vienas žudo kūdikius Betliejuje, kitas nukerta Jonui Krikštytojui galvą, trečias išjuokia Jėzų prieš mirtį. Vardas žymi Erodo namus.",
+    "related": [
+      "jonas-krikstytojas",
+      "pilotas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/bible/mark",
+        "label": "Morkaus evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "kajafas",
+    "term": "Kajafas",
+    "defLt": "Tų metų vyriausiasis kunigas. Jono evangelijoje jis sako, kad geriau vienam žmogui mirti už tautą. Jėzus vedamas į jo kiemą, o Petras ten jo išsigina.",
+    "related": [
+      "pilotas",
+      "nikodemas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "nikodemas",
+    "term": "Nikodemas",
+    "defLt": "Fariziejus, kuris ateina pas Jėzų naktį ir girdi apie gimimą iš dvasios. Jono evangelijoje jis vėliau užtaria jį taryboje ir atneša miros kūnui. Jis stovi tarp šventyklos ir mokinių.",
+    "related": [
+      "fariziejai",
+      "kajafas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "lozorius",
+    "term": "Lozorius",
+    "defLt": "Marijos ir Martos brolis, kurį Jėzus prikelia iš kapo. Jono evangelija šią istoriją stato prieš pat kančią. Luko evangelijoje taip vadinamas ir vargšas prie turtuolio vartų.",
+    "related": [
+      "marta",
+      "prisikelimas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      },
+      {
+        "href": "/bible/luke",
+        "label": "Luko evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "marta",
+    "term": "Marta",
+    "defLt": "Lozoriaus sesuo, kuri priima Jėzų į namus ir išpažįsta jį kaip prisikėlimą ir gyvenimą. Luko evangelijoje ji rūpinasi vaišėmis, o sesuo sėdi prie žodžio. Jos namai yra Betanijoje.",
+    "related": [
+      "lozorius",
+      "marija-magdaliete"
+    ],
+    "reads": [
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      },
+      {
+        "href": "/bible/luke",
+        "label": "Luko evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "marija-magdaliete",
+    "term": "Marija Magdalietė",
+    "defLt": "Moteris iš Magdalos, kuri evangelijose stovi prie kryžiaus ir pirmoji pamato prisikėlusį. Nag Hammadi ir Berlyno papiruso evangelija jos vardu yra pokalbis apie sielos kilimą. Tomo evangelijoje Petras nori ją išvaryti.",
+    "related": [
+      "simonas-petras",
+      "marta",
+      "gnosis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      },
+      {
+        "href": "/nh/evangelija-pagal-marija-magdaliete",
+        "label": "Evangelija pagal Mariją Magdalietę"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "didimas",
+    "term": "Didimas Judas Tomas",
+    "defLt": "Dvynys, kuris Tomo evangelijoje užrašo slaptus gyvojo Jėzaus žodžius. Jėzus jam pasako tris žodžius, kurių Tomas neišduoda draugams. Jo evangelija yra posakių rinkinys, ne kančios pasakojimas.",
+    "related": [
+      "gnosis",
+      "salome",
+      "jokubas-teisusis"
+    ],
+    "reads": [
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "jonas-krikstytojas",
+    "term": "Jonas Krikštytojas",
+    "defLt": "Pranašas dykumoje, kuris krikštija Jordane ir rodo į ateinantį stipresnį. Evangelijos jį stato nuo Adomo iki karalystės slenksčio. Erodas jį įkalina ir nužudo.",
+    "related": [
+      "erodas",
+      "mesijas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/bible/mark",
+        "label": "Morkaus evangelija"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "jokubas-teisusis",
+    "term": "Jokūbas Teisusis",
+    "defLt": "Tomo evangelijoje mokiniai klausia, kas vadovaus, ir Jėzus siunčia pas teisųjį Jokūbą, dėl kurio atsirado dangus ir žemė. Bažnyčios atmintyje jis yra Jeruzalės bendruomenės stulpas. Jokūbo laiškas kalba jo vardu.",
+    "related": [
+      "didimas",
+      "simonas-petras"
+    ],
+    "reads": [
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      },
+      {
+        "href": "/bible/james",
+        "label": "Jokūbo laiškas"
+      }
+    ]
+  },
+  {
+    "slug": "steponas",
+    "term": "Steponas",
+    "defLt": "Vienas iš septynių ir pirmasis kankinys. Apaštalų darbuose jis pasakoja Izraelio istoriją nuo Abraomo ir, akmenuojamas, regi dangų atvirą. Jo mirtis išsklaido Jeruzalės bendruomenę.",
+    "related": [
+      "paulius",
+      "barnabas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/acts",
+        "label": "Apaštalų darbai"
+      }
+    ]
+  },
+  {
+    "slug": "barnabas",
+    "term": "Barnabas",
+    "defLt": "Kiprietis, kuris Apaštalų darbuose parduoda lauką ir atveda Saulių pas apaštalus. Jis keliauja su Pauliumi, paskui išsiskiria dėl Morkaus. Jo vardas reiškia paguodos sūnų.",
+    "related": [
+      "paulius",
+      "steponas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/acts",
+        "label": "Apaštalų darbai"
+      }
+    ]
+  },
+  {
+    "slug": "paulius",
+    "term": "Paulius",
+    "defLt": "Fariziejus Saulius, kuris kelyje į Damaską tampa tautų apaštalu. Apaštalų darbai ir laiškai pasakoja jo keliones, kalėjimus ir mokymą apie kryžių. Jis rašo bendruomenėms nuo Romos iki Korinto.",
+    "related": [
+      "barnabas",
+      "steponas",
+      "fariziejai"
+    ],
+    "reads": [
+      {
+        "href": "/bible/acts",
+        "label": "Apaštalų darbai"
+      },
+      {
+        "href": "/bible/romans",
+        "label": "Laiškas romiečiams"
+      }
+    ]
+  },
+  {
+    "slug": "fariziejai",
+    "term": "Fariziejai",
+    "defLt": "Įstatymo aiškintojų būrys evangelijose. Jie pasninkauja, dešimtinę atiduoda ir ginčijasi su Jėzumi dėl šabo. Tomo evangelijoje sakoma, kad jie paėmė pažinimo raktus ir juos paslėpė.",
+    "related": [
+      "sadukiejai",
+      "nikodemas",
+      "gnosis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "sadukiejai",
+    "term": "Sadukiejai",
+    "defLt": "Šventyklos aristokratų būrys, kuris nepripažįsta prisikėlimo. Evangelijose jie klausia Jėzų apie septynis brolius ir vieną žmoną. Jų ginčas su fariziejais išeina aikštėn Apaštalų darbuose.",
+    "related": [
+      "fariziejai",
+      "prisikelimas",
+      "sventykla"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/bible/acts",
+        "label": "Apaštalų darbai"
+      }
+    ]
+  },
+  {
+    "slug": "jeruzale",
+    "term": "Jeruzalė",
+    "defLt": "Dovydo miestas ir šventyklos vieta. Pranašai rauda dėl jos apgulties, Ezdras ir Nehemijas ją atstato. Evangelijose Jėzus į ją įžengia ir joje miršta.",
+    "related": [
+      "sventykla",
+      "dovydas",
+      "babilonas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/2samuel",
+        "label": "Antroji Samuelio knyga"
+      },
+      {
+        "href": "/bible/isaiah",
+        "label": "Izaijo knyga"
+      },
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "babilonas",
+    "term": "Babilonas",
+    "defLt": "Imperija, kuri sugriauna Jeruzalę ir išsiveda tautą. Jeremijas, Ezekielis ir Danielius kalba jos viduje. Apreiškimo knygoje Babilonas tampa bet kurios puikybės miesto vardu.",
+    "related": [
+      "jeruzale",
+      "ezdras",
+      "jeremijas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/jeremiah",
+        "label": "Jeremijo knyga"
+      },
+      {
+        "href": "/bible/daniel",
+        "label": "Danieliaus knyga"
+      },
+      {
+        "href": "/bible/revelation",
+        "label": "Apreiškimas"
+      }
+    ]
+  },
+  {
+    "slug": "egiptas",
+    "term": "Egiptas",
+    "defLt": "Juozapo prieglobstis ir vėliau vergijos namai. Išėjimo knyga pasakoja dešimt rykščių, Paschą ir išėjimą. Pranašams Egiptas lieka prisiminimas: Dievas išvedė tautą iš ten.",
+    "related": [
+      "juozapas",
+      "moze",
+      "pascha"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "sinajus",
+    "term": "Sinajus",
+    "defLt": "Kalnas, ant kurio Mozė gauna įstatymą. Išėjimo knyga pasakoja debesį, griaustinį ir sandoros plokštes. Jubiliejų knyga tą pačią dieną laiko istorijos riba.",
+    "related": [
+      "moze",
+      "istatymas",
+      "sandora"
+    ],
+    "reads": [
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "kanaanas",
+    "term": "Kanaanas",
+    "defLt": "Žemė, pažadėta Abraomo palikuonims, ir Chamo sūnaus vardas. Jozuė ją dalija giminėms. Patriarchai joje gyvena kaip ateiviai, kol tauta išeina iš Egipto.",
+    "related": [
+      "abraomas",
+      "jozue",
+      "chamas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/joshua",
+        "label": "Jozuės knyga"
+      }
+    ]
+  },
+  {
+    "slug": "sodoma",
+    "term": "Sodoma",
+    "defLt": "Miestas prie Negyvosios jūros, sunaikintas kartu su Gomora. Pradžios knygoje Lotas išvedamas, o jo žmona atsisuka. Pranašai ir evangelijos mini Sodomą kaip teismo pavyzdį.",
+    "related": [
+      "gomora",
+      "abraomas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "gomora",
+    "term": "Gomora",
+    "defLt": "Sodomos miestas dvynys. Pradžios knygoje ugnis ir siera sunaikina abu. Jų vardai vėliau reiškia visišką sugriovimą, ne tik vieną geografinę vietą.",
+    "related": [
+      "sodoma"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "edenas",
+    "term": "Edenas",
+    "defLt": "Sodas rytuose, kuriame Dievas padeda žmogų. Pradžios knygoje iš jo išteka upė, o cherubinai saugo kelią po išvarymo. Ezekielis dar mini Edeną kaip prarastą puošmeną.",
+    "related": [
+      "rojaus",
+      "adomas",
+      "kerubas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/ezekiel",
+        "label": "Ezekielio knyga"
+      }
+    ]
+  },
+  {
+    "slug": "rojaus",
+    "term": "Rojus",
+    "defLt": "Sodas, iš kurio žmogus ištremiamas. Jubiliejų ir Antrojo Henochas knygose jis yra ir dangaus vieta, ne tik žemės rytų kraštas. Tomo evangelija kalba apie penkis medžius rojuje.",
+    "related": [
+      "edenas",
+      "adomas",
+      "henoch"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "sandora",
+    "term": "Sandora",
+    "defLt": "Dievo susitarimas su žmogumi: su Nojumi po tvano, su Abraomu apie palikuonis, su Izraeliu Sinajuje. Ženklai yra vaivorykštė, apipjaustymas ir įstatymo plokštės. Pranašai kalba ir apie naują sandorą.",
+    "related": [
+      "nojus",
+      "abraomas",
+      "istatymas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "apipjaustymas",
+    "term": "Apipjaustymas",
+    "defLt": "Sandoros ženklas Abraomo kūne, aštuntą dieną. Jubiliejų knyga griežtai saugo šią dieną. Tomo evangelijoje Jėzus sako, kad tikrasis apipjaustymas yra dvasios.",
+    "related": [
+      "sandora",
+      "abraomas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "pascha",
+    "term": "Pascha",
+    "defLt": "Išėjimo nakties šventė: avinėlis, kraujas ant staktų ir nerauginta duona. Izraelis ją švenčia kaip išvadavimą iš Egipto. Evangelijose Jėzaus paskutinė vakarienė yra Paschos metu.",
+    "related": [
+      "egiptas",
+      "moze"
+    ],
+    "reads": [
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      },
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "mana",
+    "term": "Mana",
+    "defLt": "Dangaus duona dykumoje. Išėjimo knyga pasakoja, kaip ji krinta su rasa ir negali būti kaupiama, išskyrus šabą. Jonas vėliau gretina ją su duona iš dangaus.",
+    "related": [
+      "moze",
+      "sinajus"
+    ],
+    "reads": [
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "skrynia",
+    "term": "Sandoros skrynia",
+    "defLt": "Auksu kaustyta skrynia, kurioje laikomos įstatymo plokštės. Išėjimo knyga nurodo ją daryti, o vėliau ji eina prieš tautą ir stovi šventų šventojoje. Jos dingimas po šventyklos žlugimo lieka tradicijos klausimas.",
+    "related": [
+      "sandora",
+      "moze",
+      "sventykla"
+    ],
+    "reads": [
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "sventykla",
+    "term": "Šventykla",
+    "defLt": "Namai, kuriuos Saliamonas pastato Jeruzalėje vietoje padangtės. Pranašai smerkia aukas be teisumo, o Ezekielis matuoja būsimus namus. Evangelijose Jėzus varto stalus ir pranašauja akmenų griuvimą.",
+    "related": [
+      "saliamonas",
+      "jeruzale",
+      "kunigas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1kings",
+        "label": "Pirmoji Karalių knyga"
+      },
+      {
+        "href": "/bible/ezekiel",
+        "label": "Ezekielio knyga"
+      },
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "kunigas",
+    "term": "Kunigas",
+    "defLt": "Tas, kuris stovi tarp Dievo ir tautos prie aukuro. Aarono sūnūs kunigauja pagal Kunigų knygą. Melchizedekas yra kunigas dar prieš Aaroną, ir Laiškas hebrajams remiasi juo.",
+    "related": [
+      "aaronas",
+      "melchizedekas",
+      "sventykla"
+    ],
+    "reads": [
+      {
+        "href": "/bible/leviticus",
+        "label": "Kunigų knyga"
+      },
+      {
+        "href": "/bible/hebrews",
+        "label": "Laiškas hebrajams"
+      }
+    ]
+  },
+  {
+    "slug": "mesijas",
+    "term": "Mesijas",
+    "defLt": "Pateptasis. Karaliai ir kunigai patepami aliejumi, o pranašai laukia karaliaus iš Dovydo namų. Evangelijos šį titulą taria graikiškai: Kristus. Henochas ir Mekabjanų knygos taip pat kalba apie pateptąjį.",
+    "related": [
+      "dovydas",
+      "izaijas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/bible/meqabyan-1",
+        "label": "Mekabjanų I knyga"
+      }
+    ]
+  },
+  {
+    "slug": "logos",
+    "term": "Logosas",
+    "defLt": "Žodis, kuris nėra tik garsas. Jono evangelija pradeda: Žodis buvo pas Dievą ir buvo Dievas. Nag Hammadi tekstuose žodis yra ir eonas, ir balsas, kuris nusileidžia.",
+    "related": [
+      "protenoja",
+      "jonas-evangelistas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      },
+      {
+        "href": "/nh/trimorfine-protenoja",
+        "label": "Trimorfinė protenoja"
+      }
+    ],
+    "greek": "λόγος"
+  },
+  {
+    "slug": "jonas-evangelistas",
+    "term": "Jonas",
+    "defLt": "Mylimas mokinys ir ketvirtosios evangelijos balsas. Ji prasideda nuo Žodžio ir baigiasi prisikėlimu prie ežero. Nag Hammadi Jono apokrifonas yra kitas tekstas: slaptas apreiškimas tam pačiam vardui.",
+    "related": [
+      "logos",
+      "marija-magdaliete"
+    ],
+    "reads": [
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      },
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      }
+    ]
+  },
+  {
+    "slug": "prisikelimas",
+    "term": "Prisikėlimas",
+    "defLt": "Mirties peržengimas. Danielius ir Henochas kalba apie pabudimą teismui. Evangelijose Jėzus prikelia Lozorių ir pats keliasi trečią dieną. Traktatas apie prisikėlimą Nag Hammadi rinkinyje aiškina tai kaip jau vykstantį pažinimą.",
+    "related": [
+      "lozorius",
+      "mesijas",
+      "seolas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      },
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/nh/traktatas-apie-prisikelima",
+        "label": "Traktatas apie prisikėlimą"
+      }
+    ]
+  },
+  {
+    "slug": "seolas",
+    "term": "Šeolas",
+    "defLt": "Mirusiųjų vieta Senajame Testamente, ne vėlesnis pragaro paveikslas. Jobas ir Psalmės kalba apie nužengimą į Šeolą. Henochas knyga jau skiria mirusiųjų buveines pagal teismą.",
+    "related": [
+      "gehena",
+      "jobas",
+      "prisikelimas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/job",
+        "label": "Jobo knyga"
+      },
+      {
+        "href": "/bible/psalms",
+        "label": "Psalmynas"
+      },
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "gehena",
+    "term": "Gehena",
+    "defLt": "Hinnomo slėnis prie Jeruzalės, tapęs teismo ugnies vardu. Evangelijose Jėzus jį mini kaip vietą, kur kirminas nemiršta. Mekabjanų knygose Etiopijos kanone šis žodis taip pat skamba kaip bausmės vieta.",
+    "related": [
+      "seolas",
+      "jeruzale"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/bible/meqabyan-1",
+        "label": "Mekabjanų I knyga"
+      }
+    ]
+  },
+  {
+    "slug": "kerubas",
+    "term": "Kerubas",
+    "defLt": "Sparnuota būtybė, sauganti šventumą. Pradžios knygoje kerubai užtveria kelią į gyvybės medį. Ezekielis regi juos po Dievo vežimo ratais, o skrynios dangtį saugo du kerubai.",
+    "related": [
+      "edenas",
+      "skrynia",
+      "ezekielis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/ezekiel",
+        "label": "Ezekielio knyga"
+      }
+    ]
+  },
+  {
+    "slug": "arka",
+    "term": "Arka",
+    "defLt": "Laivas, kurį Nojus stato pagal duotą saiką. Pradžios ir Jubiliejų knygos pasakoja, kaip į ją sueina gyvūnai ir kaip ji nutūpia. Archontų hipostazėje Norea atsisako prašyti vietos toje arkoje.",
+    "related": [
+      "nojus",
+      "tvanas",
+      "norea"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "tvanas",
+    "term": "Tvanas",
+    "defLt": "Vandenys, kurie Pradžios knygoje nušluoja smurtaujantį pasaulį. Lieka Nojus, arka ir po to vaivorykštės sandora. Henochas tvaną sieja su sargų ir milžinų teismu.",
+    "related": [
+      "nojus",
+      "vaivorykste",
+      "nefilimai"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "vaivorykste",
+    "term": "Vaivorykštė",
+    "defLt": "Sandoros ženklas danguje po tvano. Dievas sako Nojui, kad daugiau nepaskandins žemės vandeniu. Jubiliejų knyga kartoja šį pažadą savo laiko sąskaitoje.",
+    "related": [
+      "tvanas",
+      "sandora",
+      "nojus"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "istatymas",
+    "term": "Įstatymas",
+    "defLt": "Mozės duotas kelias: dešimt žodžių ir visos apeigos. Pakartoto Įstatymo knyga jį ištaria iš naujo prieš įžengiant į žemę. Ezdras po tremties vėl skaito įstatymą tautai aikštėje.",
+    "related": [
+      "moze",
+      "sinajus",
+      "sandora"
+    ],
+    "reads": [
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      },
+      {
+        "href": "/bible/deuteronomy",
+        "label": "Pakartoto Įstatymo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "vestuves",
+    "term": "Vestuvių menė",
+    "defLt": "Pilypo evangelijoje ir Tomo posakiuose vieta, į kurią įeina vienišiai ir iš kurios išeina jaunikis. Valentinianų tekstuose tai ne tik žmogaus vestuvės, o sielos susijungimas su savo angelu. Daugelis stovi prie durų.",
+    "related": [
+      "valentinians",
+      "perlas",
+      "gnosis"
+    ],
+    "reads": [
+      {
+        "href": "/nh/pilypo-evangelija",
+        "label": "Pilypo evangelija"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "perlas",
+    "term": "Perlas",
+    "defLt": "Tomo evangelijoje pirklys parduoda visą prekę dėl vieno perlo. Mato evangelija turi tą patį paveikslą apie karalystę. Perlas čia yra tai, ko negalima pakeisti daugeliu daiktų.",
+    "related": [
+      "vestuves",
+      "garstyčia",
+      "sejejas"
+    ],
+    "reads": [
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      },
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "garstyčia",
+    "term": "Garstyčia",
+    "defLt": "Mažiausia sėkla, kuri išauga į medį paukščiams. Mato ir Morkaus evangelijos taip lygina karalystę. Tomo evangelija kartoja tą patį posakį.",
+    "related": [
+      "perlas",
+      "sejejas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "sejejas",
+    "term": "Sėjėjas",
+    "defLt": "Žmogus, kuris beria sėklą ant kelio, uolos, erškėčių ir geros žemės. Evangelijos ir Tomo posakis taip kalba apie žodį. Derlius priklauso ne nuo sėjėjo rankos, o nuo žemės.",
+    "related": [
+      "garstyčia",
+      "logos"
+    ],
+    "reads": [
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "kibirkstis",
+    "term": "Kibirkštis",
+    "defLt": "Šviesos trupinys žmoguje. Išminties knyga ir Jobas kalba apie žiburių kelią, o Nag Hammadi tekstai šią šviesą laiko tuo, ką demiurgas įdėjo nežinodamas. Pažinimas yra kibirkšties pabudimas.",
+    "related": [
+      "gnosis",
+      "sophia",
+      "adamas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/wisdom",
+        "label": "Išminties knyga"
+      },
+      {
+        "href": "/nh/jono-apokrifonas",
+        "label": "Jono apokrifonas"
+      }
+    ]
+  },
+  {
+    "slug": "gelbetojas",
+    "term": "Gelbėtojas",
+    "defLt": "Tas, kuris išveda. Samuelio knygose taip šaukiama į Dievą prieš filistinus. Nag Hammadi dialoguose Gelbėtojas yra Jėzus, kuris aiškina mokiniams tai, ko archontai nesupranta.",
+    "related": [
+      "mesijas",
+      "gnosis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1samuel",
+        "label": "Pirmoji Samuelio knyga"
+      },
+      {
+        "href": "/nh/jezaus-kristaus-sofija",
+        "label": "Jėzaus Kristaus Sofija"
+      }
+    ]
+  },
+  {
+    "slug": "zmogaus-sunus",
+    "term": "Žmogaus Sūnus",
+    "defLt": "Danieliaus regėjime figūra, ateinanti su dangaus debesimis. Evangelijose Jėzus taip kalba apie save: jis neturi kur galvos priglausti ir atiduodamas į žmonių rankas. Henochas knyga šį vardą stato prie teismo.",
+    "related": [
+      "mesijas",
+      "danielius",
+      "henoch"
+    ],
+    "reads": [
+      {
+        "href": "/bible/daniel",
+        "label": "Danieliaus knyga"
+      },
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      },
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      }
+    ]
+  },
+  {
+    "slug": "tewahedo",
+    "term": "Tewahedo",
+    "defLt": "Etiopijos Ortodoksų Bažnyčios vardas, reiškiantis vienybę: dieviškoji ir žmogiškoji prigimtys Kristuje neatskirtos. Šios bažnyčios kanonas yra plačiausias krikščioniškas kanonas, su Henochu, Jubiliejais ir kitomis knygomis.",
+    "related": [
+      "kanonas",
+      "henoch",
+      "mekabjanai"
+    ],
+    "reads": [
+      {
+        "href": "/bible/intro",
+        "label": "Įvadas"
+      }
+    ]
+  },
+  {
+    "slug": "kanonas",
+    "term": "Kanonas",
+    "defLt": "Knygų rinkinys, kurį bažnyčia skaito kaip Šventąjį Raštą. Etiopijos Tewahedo kanonas platesnis už katalikų ir protestantų: jame yra Henochas, Jubiliejai, Mekabjanai ir papildomos Ezdro bei Barucho knygos. Nag Hammadi tekstai į šį kanoną neįeina.",
+    "related": [
+      "tewahedo",
+      "henoch",
+      "jubilees"
+    ],
+    "reads": [
+      {
+        "href": "/bible/intro",
+        "label": "Įvadas"
+      },
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/bible/jubilees",
+        "label": "Jubiliejų knyga"
+      }
+    ]
+  },
+  {
+    "slug": "mekabjanai",
+    "term": "Mekabjanai",
+    "defLt": "Etiopijos kanono knygos, kitokios nei graikiškosios Makabėjų knygos. Jos pasakoja apie teismą, pasninką ir ištikimybę įstatymui. Svetainėje yra trys Mekabjanų knygos.",
+    "related": [
+      "kanonas",
+      "mesijas",
+      "pasninkas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/meqabyan-1",
+        "label": "Mekabjanų I knyga"
+      },
+      {
+        "href": "/bible/meqabyan-2",
+        "label": "Mekabjanų II knyga"
+      },
+      {
+        "href": "/bible/meqabyan-3",
+        "label": "Mekabjanų III knyga"
+      }
+    ]
+  },
+  {
+    "slug": "ismalda",
+    "term": "Išmalda",
+    "defLt": "Duoti vargšui. Tobito knyga stato išmaldą šalia pasninko ir teisumo. Evangelijose Jėzus liepia duoti slapčia, o Tomo posakis įspėja, kad išmalda, daroma dėl akių, kenkia dvasiai.",
+    "related": [
+      "tobijas",
+      "pasninkas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/tobit",
+        "label": "Tobito knyga"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "pasninkas",
+    "term": "Pasninkas",
+    "defLt": "Susilaikymas prieš Dievą. Estera, Judita ir pranašai pasninkauja prieš sprendimą. Evangelijose fariziejai pasninkauja, o Jėzus sako, kad vestuvių svečiai nesninkauja, kol jaunikis su jais.",
+    "related": [
+      "fariziejai",
+      "judita",
+      "vestuves"
+    ],
+    "reads": [
+      {
+        "href": "/bible/esther",
+        "label": "Esteros knyga"
+      },
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "piemuo",
+    "term": "Piemuo",
+    "defLt": "Tas, kuris gano bandą ir ieško paklydusios. Pradžios knygoje Abelis, Jokūbas ir Juozapas yra piemenys. Evangelijose ir Tomo posakyje piemuo palieka devyniasdešimt devynias dėl vienos.",
+    "related": [
+      "abelis",
+      "dovydas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/john",
+        "label": "Jono evangelija"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "pranasas",
+    "term": "Pranašas",
+    "defLt": "Žmogus, kuris kalba ne savo žodžiu. Elijas, Izaijas, Jeremijas ir kiti šaukia karaliams ir tautai. Evangelijose Jėzus sako, kad pranašas nepriimamas savo tėviškėje.",
+    "related": [
+      "elijas",
+      "izaijas",
+      "jeremijas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/1kings",
+        "label": "Pirmoji Karalių knyga"
+      },
+      {
+        "href": "/bible/isaiah",
+        "label": "Izaijo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "apastalas",
+    "term": "Apaštalas",
+    "defLt": "Pasiųstasis. Dvylika ir Paulius taip vadinami Apaštalų darbuose ir laiškuose. Jie liudija tai, ką matė, ir steigia bendruomenes. Žodis reiškia siuntimą, ne luomą savaime.",
+    "related": [
+      "paulius",
+      "simonas-petras",
+      "steponas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/acts",
+        "label": "Apaštalų darbai"
+      },
+      {
+        "href": "/bible/matthew",
+        "label": "Mato evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "izraelis",
+    "term": "Izraelis",
+    "defLt": "Jokūbo vardas po grumtynės prie Jaboko ir visos tautos vardas. Dvylika giminių, įstatymas, karaliai ir tremtis yra Izraelio istorija. Pranašai šaukia Izraelį grįžti.",
+    "related": [
+      "jokubas",
+      "jeruzale",
+      "sandora"
+    ],
+    "reads": [
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      },
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "faraonas",
+    "term": "Faraonas",
+    "defLt": "Egipto karalius. Vienas iškelia Juozapą, kitas spaustą Izraelį darbais ir persekioja iki jūros. Išėjimo knygoje jo širdis kietėja per dešimt rykščių.",
+    "related": [
+      "egiptas",
+      "moze",
+      "juozapas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/exodus",
+        "label": "Išėjimo knyga"
+      },
+      {
+        "href": "/bible/genesis",
+        "label": "Pradžios knyga"
+      }
+    ]
+  },
+  {
+    "slug": "levitas",
+    "term": "Levitas",
+    "defLt": "Levio giminės vyras, skirtas tarnybai prie padangtės ir šventyklos. Ne visi levitai yra kunigai: kunigai yra Aarono sūnūs, levitai neša, gieda ir saugo. Skaičių ir Pakartoto Įstatymo knygos skiria jų dalį.",
+    "related": [
+      "aaronas",
+      "kunigas",
+      "sventykla"
+    ],
+    "reads": [
+      {
+        "href": "/bible/numbers",
+        "label": "Skaičių knyga"
+      },
+      {
+        "href": "/bible/deuteronomy",
+        "label": "Pakartoto Įstatymo knyga"
+      }
+    ]
+  },
+  {
+    "slug": "psalme",
+    "term": "Psalmė",
+    "defLt": "Giesmė. Psalmynas yra šimtas penkiasdešimt maldų: raudos, padėkos ir karaliaus giesmės, dauguma Dovydo vardu. Evangelijos cituoja psalmes apie kančią ir apie akmenį, kurį statytojai atmetė.",
+    "related": [
+      "dovydas",
+      "saliamonas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/psalms",
+        "label": "Psalmynas"
+      }
+    ]
+  },
+  {
+    "slug": "patarle",
+    "term": "Patarlė",
+    "defLt": "Trumpas išminties sakinys, skirtas įsiminti. Patarlių knyga moko sūnų bijoti Viešpaties ir saugotis kvailio kelio. Jos pradžioje Išmintis šaukia gatvėse ir kviečia klausyti.",
+    "related": [
+      "sophia",
+      "saliamonas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/proverbs",
+        "label": "Patarlės"
+      }
+    ]
+  },
+  {
+    "slug": "siracidas",
+    "term": "Siracidas",
+    "defLt": "Jėzaus, Siracho sūnaus, išminties knyga. Etiopijos ir katalikų kanonuose ji skaitoma, protestantų Biblijoje dažnai lieka už ribos. Ji moko apie draugystę, mirtį, gydytoją ir įstatymo gyrių.",
+    "related": [
+      "sophia",
+      "patarle"
+    ],
+    "reads": [
+      {
+        "href": "/bible/sirach",
+        "label": "Siracido knyga"
+      }
+    ]
+  },
+  {
+    "slug": "evangelija",
+    "term": "Evangelija",
+    "defLt": "Geroji naujiena. Mato, Morkaus, Luko ir Jono knygos pasakoja Jėzaus gyvenimą. Nag Hammadi rinkinyje evangelijomis vadinami ir Tomo, Pilypo, Tiesos bei Marijos tekstai, kurie į bažnyčios kanoną neįėjo.",
+    "related": [
+      "kanonas",
+      "mesijas",
+      "gnosis"
+    ],
+    "reads": [
+      {
+        "href": "/bible/mark",
+        "label": "Morkaus evangelija"
+      },
+      {
+        "href": "/nh/tomo-evangelija",
+        "label": "Tomo evangelija"
+      },
+      {
+        "href": "/nh/tiesos-evangelija",
+        "label": "Tiesos evangelija"
+      }
+    ]
+  },
+  {
+    "slug": "apokalipse",
+    "term": "Apreiškimas",
+    "defLt": "Atidengimas to, kas paslėpta. Jono Apreiškimas baigia Naująjį Testamentą regėjimais apie Avinėlį, Babiloną ir naują miestą. Henochas ir Antroji Ezdro knyga yra ankstyvesni tos pačios rūšies tekstai.",
+    "related": [
+      "henoch",
+      "ezdras",
+      "babilonas"
+    ],
+    "reads": [
+      {
+        "href": "/bible/revelation",
+        "label": "Apreiškimas"
+      },
+      {
+        "href": "/bible/1enoch",
+        "label": "Henochas"
+      },
+      {
+        "href": "/bible/2esdras",
+        "label": "Antroji Ezdro knyga"
+      }
+    ]
+  }
+]

@@ -3,9 +3,9 @@ import { breadcrumbJsonLd, glossaryJsonLd, pageCrumbs, pageMeta } from "@/lib/se
 import type { Metadata } from "next";
 
 export const metadata: Metadata = pageMeta({
-  title: "Žodynas — pleroma, Sofija, archontai",
+  title: "Žodynas — pilnatvė, Sofija, archontai",
   description:
-    "Leksikonas, kuriuo kodeksai kalba vienas apie kitą: pleroma, kenoma, Sofija, demiurgas, eonai, setianai ir valentinianai.",
+    "160 žodžių leksikonas iš Etiopijos Biblijos ir Nag Hammadi: vardai, angelai, vietos ir sąvokos su nuorodomis į tekstus.",
   path: "/glossary",
   titleEn: "Glossary — Pleroma, Sophia, archons",
   descriptionEn:

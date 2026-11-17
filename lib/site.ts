@@ -5,11 +5,8 @@ export const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.evangel
 
 export const siteName = "AEON";
 export const siteTitleLt = "AEON — Gnostiniai tekstai ir apokrifinės evangelijos";
-export const siteTitleEn = "AEON — Gnostic texts and apocryphal gospels";
 export const siteDescriptionLt =
-  "Šviesa, kurią slėpė kanonas. Muziejaus lygio skaitmeninė gnostinių ir apokrifinių tekstų biblioteka: Tomas, Marija, Judas, Nag Hammadi ir viešoji nuosavybė.";
-export const siteDescriptionEn =
-  "The light the canon hid. A museum-grade digital library of Gnostic and apocryphal texts: Thomas, Mary, Judas, Nag Hammadi, and the public domain.";
+  "Šviesa, kurią slėpė kanonas. Etiopijos Biblija ir Nag Hammadi biblioteka lietuvių kalba.";
 
 export const keywordsLt = [
   "gnostiniai tekstai",
@@ -29,24 +26,7 @@ export const keywordsLt = [
   "pleroma",
 ];
 
-export const keywordsEn = [
-  "Gnostic texts",
-  "apocryphal gospels",
-  "Gospel of Thomas",
-  "Gospel of Mary",
-  "Gospel of Judas",
-  "Nag Hammadi library",
-  "Gnosticism",
-  "Pistis Sophia",
-  "Coptic texts",
-  "Berlin Codex",
-  "public domain gospels",
-  "Gnostic library",
-  "Sophia",
-  "Pleroma",
-];
-
-export const keywords = [...keywordsLt, ...keywordsEn];
+export const keywords = keywordsLt;
 
 export const gaMeasurementId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID?.trim() || "G-GJVS8RZBMX";
 export const googleSiteVerification = process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION?.trim() ?? "";

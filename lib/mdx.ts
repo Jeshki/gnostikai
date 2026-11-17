@@ -21,10 +21,9 @@ async function compileFile(file: string) {
 }
 
 export async function getTextMdx(slug: string) {
-  const en = await compileFile(textMdxPath(slug, "en"));
-  if (!en) return null;
   const lt = await compileFile(textMdxPath(slug, "lt"));
-  return { content: en.content, contentLt: lt?.content, data: en.data };
+  if (!lt) return null;
+  return { content: null, contentLt: lt.content, data: lt.data };
 }
 
 export function stubSource(slug: string) {

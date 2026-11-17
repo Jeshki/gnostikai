@@ -1,19 +1,15 @@
 "use client";
 
 import { PageFade } from "@/components/PageFade";
-import { TextCard } from "@/components/TextCard";
 import { useLocale } from "@/components/providers";
 import { about, aboutTerms } from "@/content/about";
-import { collections, corpus, getText, textsByCollection } from "@/lib/corpus";
 import { getTerm } from "@/lib/glossary";
+import { featuredNh } from "@/lib/nh";
 import { pageCrumbs } from "@/lib/seo";
-import type { CollectionId } from "@/lib/types";
 import { Breadcrumbs } from "@/components/Breadcrumbs";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 import { useEffect } from "react";
-
-const featuredSlugs = ["thomas", "mary", "john", "thunder"] as const;
 
 const termPattern = new RegExp(
   `(?<![\\p{L}])(${[
@@ -30,6 +26,8 @@ const termPattern = new RegExp(
     "Sofija",
     "Sophia",
     "Demiurgas",
+    "demiurgą",
+    "Demiurgą",
     "demiurge",
     "pistis",
     "Setianų",
@@ -59,6 +57,8 @@ const termHref: Record<string, string> = {
   Sofija: "sophia",
   Sophia: "sophia",
   Demiurgas: "demiurge",
+  demiurgą: "demiurge",
+  Demiurgą: "demiurge",
   demiurge: "demiurge",
   pistis: "pistis",
   Setianų: "sethians",
@@ -71,6 +71,27 @@ const termHref: Record<string, string> = {
   archontai: "archon",
   archons: "archon",
 };
+
+const bibleReads = [
+  { href: "/bible/1enoch", label: "Henochas" },
+  { href: "/bible/jubilees", label: "Jubiliejų knyga" },
+  { href: "/bible/baruch", label: "Barucho knyga" },
+  { href: "/bible/4baruch", label: "4 Baruchas" },
+  { href: "/bible/1esdras", label: "Pirmoji Ezdro knyga" },
+  { href: "/bible/2esdras", label: "Antroji Ezdro knyga" },
+  { href: "/bible/meqabyan-1", label: "Mekabjanų I knyga" },
+  { href: "/bible/1clement", label: "Klemenso laiškas" },
+];
+
+const nhReads = [
+  { href: "/nh/tomo-evangelija", label: "Tomo evangelija" },
+  { href: "/nh/pilypo-evangelija", label: "Pilypo evangelija" },
+  { href: "/nh/jono-apokrifonas", label: "Jono apokrifonas" },
+  { href: "/nh/tiesos-evangelija", label: "Tiesos evangelija" },
+  { href: "/nh/perkunas-tobulas-protas", label: "Perkūnas, tobulas protas" },
+  { href: "/nh/archontu-hipostaze-valdovu-realybe", label: "Archontų hipostazė" },
+  { href: "/nh/trisalis-traktatas", label: "Trišalis traktatas" },
+];
 
 function LinkedProse({ text }: { text: string }) {
   const parts = text.split(termPattern);
@@ -96,8 +117,8 @@ function LinkedProse({ text }: { text: string }) {
 export function AboutView() {
   const { locale } = useLocale();
   const t = useTranslations("about");
-  const copy = about[locale];
-  const featured = featuredSlugs.map((slug) => getText(slug)).filter(Boolean);
+  const copy = about.lt;
+  const featured = featuredNh();
 
   useEffect(() => {
     const hash = window.location.hash.replace("#", "");
@@ -123,12 +144,6 @@ export function AboutView() {
               {section.title}
             </a>
           ))}
-          <a href="#sroves" className="hover:text-gold">
-            {copy.currentsTitle}
-          </a>
-          <a href="#isliko" className="hover:text-gold">
-            {copy.survivalTitle}
-          </a>
         </nav>
 
         <div className="measure mx-auto mt-16 space-y-16">
@@ -142,96 +157,33 @@ export function AboutView() {
                   </p>
                 ))}
               </div>
+              {section.id === "etiopija" || section.id === "nag" ? (
+                <ul className="mt-6 space-y-2 text-sm">
+                  {(section.id === "etiopija" ? bibleReads : nhReads).map((item) => (
+                    <li key={item.href}>
+                      <Link href={item.href} className="hover:text-gold">
+                        {item.label}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              ) : null}
             </section>
           ))}
         </div>
 
-        <section id="sroves" className="mx-auto mt-24 max-w-5xl scroll-mt-24">
-          <h2 className="font-display mb-8 text-3xl">{copy.currentsTitle}</h2>
+        <section className="mx-auto mt-24 max-w-5xl">
+          <h2 className="font-display mb-8 text-3xl">Kolekcijos</h2>
           <div className="grid gap-4 md:grid-cols-2">
-            {copy.currents.map((current) => {
-              const term = getTerm(current.term);
-              return (
-                <article key={current.id} className="border border-line bg-elevated p-6">
-                  <p className="text-[10px] tracking-[0.2em] text-gold uppercase">
-                    {term ? (
-                      <Link href={`/glossary#${term.slug}`} className="hover:text-ink">
-                        {term.term}
-                      </Link>
-                    ) : (
-                      current.title
-                    )}
-                  </p>
-                  <h3 className="font-display mt-2 text-2xl">{current.title}</h3>
-                  <p className="mt-3 text-sm leading-relaxed text-muted">{current.body}</p>
-                  <ul className="mt-5 space-y-1.5 text-sm">
-                    {current.slugs.map((slug) => {
-                      const text = getText(slug);
-                      if (!text) return null;
-                      return (
-                        <li key={slug}>
-                          <Link href={`/text/${slug}`} className="hover:text-gold">
-                            {locale === "lt" ? text.titleLt : text.titleEn}
-                          </Link>
-                        </li>
-                      );
-                    })}
-                  </ul>
-                </article>
-              );
-            })}
-          </div>
-        </section>
-
-        <section id="isliko" className="mx-auto mt-24 max-w-3xl scroll-mt-24">
-          <div className="mb-8 flex items-end justify-between gap-4">
-            <h2 className="font-display text-3xl">{copy.survivalTitle}</h2>
-            <Link href="/timeline" className="text-[11px] tracking-[0.16em] text-gold uppercase hover:text-ink">
-              {locale === "lt" ? "Visa chronologija" : "Full timeline"}
+            <Link href="/bible" className="border border-line bg-elevated p-5 transition-colors hover:border-gold/35">
+              <p className="font-display mt-2 text-xl">Etiopijos Biblija</p>
+              <p className="mt-2 text-sm leading-relaxed text-muted">Visas kanonas lietuvių kalba.</p>
+            </Link>
+            <Link href="/library" className="border border-line bg-elevated p-5 transition-colors hover:border-gold/35">
+              <p className="font-display mt-2 text-xl">Nag Hammadi</p>
+              <p className="mt-2 text-sm leading-relaxed text-muted">Kodeksai ir traktatai lietuvių kalba.</p>
             </Link>
           </div>
-          <ol className="space-y-8">
-            {copy.survival.map((event) => (
-              <li key={event.year} className="border-l border-gold/40 pl-6">
-                <p className="text-[11px] tracking-[0.18em] text-gold uppercase">{event.year}</p>
-                <p className="mt-2 leading-relaxed">{event.body}</p>
-                <Link href={event.href} className="mt-2 inline-block text-[11px] tracking-[0.14em] text-muted uppercase hover:text-gold">
-                  {copy.textsIn} →
-                </Link>
-              </li>
-            ))}
-          </ol>
-        </section>
-
-        <section className="mx-auto mt-24 max-w-5xl">
-          <h2 className="font-display mb-8 text-3xl">{locale === "lt" ? "Kolekcijos" : "Collections"}</h2>
-          <div className="grid gap-4 md:grid-cols-2">
-            {(Object.keys(collections) as CollectionId[]).map((id) => {
-              const count = textsByCollection(id).length;
-              return (
-                <Link
-                  key={id}
-                  href={`/library/${id}`}
-                  className="border border-line bg-elevated p-5 transition-colors hover:border-gold/35"
-                >
-                  <p className="text-[10px] tracking-[0.2em] text-muted uppercase">
-                    {count} {locale === "lt" ? "tekstai" : "texts"}
-                  </p>
-                  <p className="font-display mt-2 text-xl">
-                    {locale === "lt" ? collections[id].titleLt : collections[id].titleEn}
-                  </p>
-                  <p className="mt-2 text-sm leading-relaxed text-muted">
-                    {locale === "lt" ? collections[id].blurbLt : collections[id].blurbEn}
-                  </p>
-                </Link>
-              );
-            })}
-          </div>
-          <p className="mt-6 text-sm text-muted">
-            {locale === "lt"
-              ? `${corpus.length} katalogo įrašai. Viešoji nuosavybė, be Brill CGL ir Robinson NHL.`
-              : `${corpus.length} catalogue entries. Public domain, no Brill CGL or Robinson NHL.`}
-          </p>
         </section>
 
         <section className="mx-auto mt-24 max-w-5xl">
@@ -253,12 +205,17 @@ export function AboutView() {
 
         <section className="mx-auto mt-16 max-w-5xl">
           <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
-            {featured.map((item) => (item ? <TextCard key={item.slug} text={item} /> : null))}
+            {featured.map((item) => (
+              <Link key={item.slug} href={`/nh/${item.slug}`} className="border border-line bg-elevated p-5 hover:border-gold/35">
+                <p className="text-[10px] tracking-[0.2em] text-gold uppercase">{item.codex}</p>
+                <p className="font-display mt-3 text-xl">{item.title}</p>
+              </Link>
+            ))}
           </div>
         </section>
 
         <section className="measure mx-auto mt-20 border-t border-line pt-10">
-          <p className="text-[10px] tracking-[0.2em] text-gold uppercase">{locale === "lt" ? "Leksikonas" : "Lexicon"}</p>
+          <p className="text-[10px] tracking-[0.2em] text-gold uppercase">Leksikonas</p>
           <ul className="mt-5 flex flex-wrap gap-3 text-[12px] tracking-[0.12em] uppercase">
             {aboutTerms.map((slug) => {
               const term = getTerm(slug);

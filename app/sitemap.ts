@@ -1,6 +1,6 @@
-import { collections, corpus } from "@/lib/corpus";
+import { bibleCatalog } from "@/lib/bible";
+import { nhCatalog } from "@/lib/nh";
 import { siteUrl } from "@/lib/site";
-import type { CollectionId } from "@/lib/types";
 import type { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -11,37 +11,38 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: MetadataRoute.Sitemap[0]["changeFrequency"];
   }> = [
     { path: "", priority: 1, changeFrequency: "weekly" },
+    { path: "/bible", priority: 0.95, changeFrequency: "weekly" },
     { path: "/library", priority: 0.9, changeFrequency: "weekly" },
     { path: "/about", priority: 0.9, changeFrequency: "monthly" },
     { path: "/glossary", priority: 0.8, changeFrequency: "monthly" },
     { path: "/map", priority: 0.7, changeFrequency: "monthly" },
-    { path: "/timeline", priority: 0.7, changeFrequency: "yearly" },
     { path: "/compare", priority: 0.6, changeFrequency: "monthly" },
     { path: "/search", priority: 0.4, changeFrequency: "weekly" },
     { path: "/privacy", priority: 0.3, changeFrequency: "yearly" },
-    ...(Object.keys(collections) as CollectionId[]).map((id) => ({
-      path: `/library/${id}`,
-      priority: 0.8,
-      changeFrequency: "monthly" as const,
-    })),
   ];
 
-  const texts = corpus.map((item) => ({
-    url: `${siteUrl}/text/${item.slug}`,
+  const texts = nhCatalog.map((item) => ({
+    url: `${siteUrl}/nh/${item.slug}`,
     lastModified: now,
     changeFrequency: "monthly" as const,
-    priority: item.featured ? 0.85 : 0.7,
+    priority: 0.8,
   }));
 
-  const chapters = corpus.flatMap((item) => {
-    if (item.chapters.length < 2 || item.chapters.length > 130) return [];
-    return item.chapters.map((chapter) => ({
-      url: `${siteUrl}/text/${item.slug}/${chapter.id}`,
+  const bibleBooks = bibleCatalog.map((book) => ({
+    url: `${siteUrl}/bible/${book.slug}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: 0.8,
+  }));
+
+  const bibleChapters = bibleCatalog.flatMap((book) =>
+    book.chapters.map((chapter) => ({
+      url: `${siteUrl}/bible/${book.slug}/${chapter}`,
       lastModified: now,
       changeFrequency: "yearly" as const,
-      priority: 0.5,
-    }));
-  });
+      priority: 0.4,
+    })),
+  );
 
   return [
     ...routes.map((item) => ({
@@ -51,6 +52,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: item.priority,
     })),
     ...texts,
-    ...chapters,
+    ...bibleBooks,
+    ...bibleChapters,
   ];
 }

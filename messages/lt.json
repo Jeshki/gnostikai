@@ -5,7 +5,7 @@
   },
   "brand": {
     "name": "AEON",
-    "subtitle": "Gnostiniai tekstai ir apokrifinės evangelijos",
+    "subtitle": "Etiopijos Biblija ir Nag Hammadi lietuvių kalba",
     "tagline": "Šviesa, kurią slėpė kanonas."
   },
   "nav": {
@@ -19,7 +19,8 @@
     "saved": "Išsaugota",
     "about": "Apie",
     "menu": "Pagrindinis meniu",
-    "skip": "Eiti prie turinio"
+    "skip": "Eiti prie turinio",
+    "bible": "Biblija"
   },
   "switches": {
     "language": "Kalba",
@@ -29,17 +30,18 @@
     "both": "Abi kalbos"
   },
   "home": {
-    "thunder": "Aš esu pirmoji ir paskutinioji.",
-    "thunderAttr": "Griaustinis, tobula mintis 2.1",
+    "thunder": "„Karalystė yra jumyse ir už jūsų. Kai pažinsite save, suprasite, kad esate gyvojo Tėvo vaikai.“",
+    "thunderAttr": "Tomo evangelija 3",
     "pathThomas": "Skaityti Tomą",
     "pathNh": "Naršyti Nag Hammadi",
-    "pathAbout": "Kas yra gnosticizmas?",
+    "pathAbout": "Apie šias bibliotekas",
     "featured": "Keturi įėjimai",
     "codices": "Kodeksai",
-    "start": "Pradėti skaityti"
+    "start": "Pradėti skaityti",
+    "pathBible": "Etiopijos Biblija"
   },
   "library": {
-    "title": "Korpusas",
+    "title": "Nag Hammadi biblioteka",
     "filters": "Filtrai",
     "all": "Visi",
     "theme": "Tema",
@@ -67,19 +69,19 @@
     "notes": "Pastabos",
     "notesHint": "Bakstelėk posakį — atsivers pastaba ir paralelės.",
     "ltPending": "Čia skamba anglų PD tekstas. Lietuviškas DeepL vertimas dar nepaleistas.",
-    "deepl": "DeepL mašininis vertimas iš viešosios nuosavybės anglų teksto. Angliškas originalas lieka per EN arba LT+EN.",
+    "deepl": "Lietuviškas tekstas.",
     "extraCanon": "už kanono",
     "related": "Susiję"
   },
   "search": {
     "title": "Paieška",
-    "placeholder": "Tekstas, posakis, eonas…",
+    "placeholder": "Žodis, eilutė ar knyga — Sofija, Tomas, Pradžios 1:1",
     "jump": "Pereiti",
     "texts": "Tekstai",
     "glossary": "Žodynas",
     "about": "Apie",
     "thomas": "Tomas",
-    "empty": "Šioje tyloje nieko nėra. Pabandyk „Tomas“ arba „77“.",
+    "empty": "Nieko nerasta. Pabandyk „Sofija“, „Tomas“ arba „Pradžios 1:1“.",
     "close": "Uždaryti"
   },
   "about": {
@@ -89,7 +91,7 @@
   "map": {
     "kicker": "Teminis žemėlapis",
     "title": "Žemėlapis",
-    "blurb": "Ne geografija — sąvokų laukas: eonai, archontai, Sofija, pleroma."
+    "blurb": "Etiopijos Biblijos dalys, Nag Hammadi kodeksai ir sąvokos, vedančios į tekstus."
   },
   "timeline": {
     "kicker": "Atradimai",
@@ -97,17 +99,19 @@
   },
   "glossary": {
     "kicker": "Leksikonas",
-    "title": "Žodynas"
+    "title": "Žodynas",
+    "back": "Atgal"
   },
   "saved": {
     "title": "Išsaugota",
-    "empty": "Kol kas tuščia. Palik žymę Tome — ji liks šiame įrenginyje."
+    "empty": "Kol kas tuščia. Atsiversk tekstą ir paspausk „Išsaugoti“ — jis liks šiame įrenginyje.",
+    "remove": "Ištrinti"
   },
   "compare": {
     "title": "Gretinimas"
   },
   "footer": {
-    "sources": "Šaltiniai: Mattison, Zinner, James 1924, ANF, Mead. Be Brill CGL ir Robinson NHL.",
+    "sources": "Tekstai iš Etiopijos Biblijos ir Nag Hammadi bibliotekos lietuvių kalba.",
     "disclaimer": "Mokslinis archyvas. Kanonas neišjuokiamas ir neapginamas.",
     "about": "Apie",
     "corpus": "Korpusas",
@@ -121,5 +125,44 @@
     "policy": "Privatumo politika",
     "accept": "Sutinku",
     "reject": "Be Google"
+  },
+  "bible": {
+    "home": "Pradžia",
+    "kicker": "Etiopijos Biblija",
+    "title": "Etiopijos Biblija",
+    "lede": "Visas rinkinys lietuvių kalba. Dalys, kanonas ir skyriai visada aiškūs.",
+    "continue": "Tęsti skaitymą",
+    "sections": "Dalys",
+    "canonLabel": "Kanonas",
+    "all": "Visos",
+    "law": "Įstatymas",
+    "history": "Istorija",
+    "wisdom": "Išmintis",
+    "prophets": "Pranašai",
+    "gospels": "Evangelijos",
+    "letters": "Darbai ir laiškai",
+    "revelation": "Apreiškimas",
+    "front": "Pradžia",
+    "common": "66 knygų",
+    "deuterocanon": "Deuterokanonas",
+    "ethiopian": "Tik Etiopijoje",
+    "search": "Ieškoti knygos",
+    "chapters": "skyriai",
+    "chapter": "Skyrius",
+    "opening": "Įžanga",
+    "openingShort": "Įž",
+    "read": "Skaityti",
+    "empty": "Šiems filtrams knygų nėra.",
+    "prev": "Ankstesnis",
+    "next": "Kitas",
+    "books": "Knygos",
+    "verse": "Eilutė",
+    "copied": "Nuoroda nukopijuota",
+    "fallback": "Šio sakinio lietuviško teksto nėra.",
+    "shelf": "Visos knygos",
+    "banner": "Visas kanonas, skyrius po skyriaus.",
+    "chapterOne": "skyrius",
+    "chapterFew": "skyriai",
+    "chapterMany": "skyrių"
   }
 }

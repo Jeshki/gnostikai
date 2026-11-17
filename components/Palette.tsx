@@ -1,10 +1,9 @@
 "use client";
 
-import { useLocale } from "@/components/providers";
 import { about } from "@/content/about";
-import { thomas } from "@/lib/content";
-import { corpus } from "@/lib/corpus";
+import { bibleCatalog } from "@/lib/bible";
 import { glossary } from "@/lib/glossary";
+import { nhCatalog } from "@/lib/nh";
 import { Command } from "cmdk";
 import { useRouter } from "next/navigation";
 import { useEffect, useState } from "react";
@@ -13,7 +12,6 @@ import { useTranslations } from "next-intl";
 export function Palette() {
   const [open, setOpen] = useState(false);
   const router = useRouter();
-  const { locale } = useLocale();
   const t = useTranslations("search");
 
   useEffect(() => {
@@ -56,35 +54,35 @@ export function Palette() {
           <Command.Empty className="px-3 py-8 text-center text-sm text-muted">
             —
           </Command.Empty>
-          <Command.Group heading={t("texts")} className="text-[10px] tracking-[0.18em] text-muted uppercase">
-            {corpus.map((item) => (
+          <Command.Group heading="Biblija" className="text-[10px] tracking-[0.18em] text-muted uppercase">
+            {bibleCatalog.map((item) => (
               <Command.Item
                 key={item.slug}
-                value={`${item.titleEn} ${item.titleLt} ${item.slug}`}
-                onSelect={() => go(`/text/${item.slug}`)}
+                value={`${item.titleLt} ${item.abbrLt} ${item.slug}`}
+                onSelect={() => go(`/bible/${item.slug}`)}
                 className="cursor-pointer px-3 py-2 text-sm text-ink data-[selected=true]:bg-gold/10 data-[selected=true]:text-gold"
               >
-                {locale === "lt" ? item.titleLt : item.titleEn}
+                {item.titleLt}
               </Command.Item>
             ))}
           </Command.Group>
-          <Command.Group heading={t("thomas")} className="text-[10px] tracking-[0.18em] text-muted uppercase">
-            {thomas.sayings.map((saying) => (
+          <Command.Group heading={t("texts")} className="text-[10px] tracking-[0.18em] text-muted uppercase">
+            {nhCatalog.map((item) => (
               <Command.Item
-                key={saying.n}
-                value={`thomas tomas ${saying.n} ${saying.title} ${saying.titleLt} ${saying.en} ${saying.lt}`}
-                onSelect={() => go(`/text/thomas#${saying.n}`)}
+                key={item.slug}
+                value={`${item.title} ${item.codex} ${item.slug}`}
+                onSelect={() => go(`/nh/${item.slug}`)}
                 className="cursor-pointer px-3 py-2 text-sm text-ink data-[selected=true]:bg-gold/10 data-[selected=true]:text-gold"
               >
-                {saying.n} · {locale === "lt" ? saying.titleLt : saying.title}
+                {item.title}
               </Command.Item>
             ))}
           </Command.Group>
           <Command.Group heading={t("about")} className="text-[10px] tracking-[0.18em] text-muted uppercase">
-            {about[locale].sections.map((section) => (
+            {about.lt.sections.map((section) => (
               <Command.Item
                 key={section.id}
-                value={`about apie ${section.title} ${about.lt.sections.find((item) => item.id === section.id)?.title ?? ""} ${about.en.sections.find((item) => item.id === section.id)?.title ?? ""}`}
+                value={`apie ${section.title}`}
                 onSelect={() => go(`/about#${section.id}`)}
                 className="cursor-pointer px-3 py-2 text-sm text-ink data-[selected=true]:bg-gold/10 data-[selected=true]:text-gold"
               >
@@ -96,7 +94,7 @@ export function Palette() {
             {glossary.map((term) => (
               <Command.Item
                 key={term.slug}
-                value={`${term.term} ${term.defEn} ${term.defLt}`}
+                value={`${term.term} ${term.defLt}`}
                 onSelect={() => go(`/glossary#${term.slug}`)}
                 className="cursor-pointer px-3 py-2 text-sm text-ink data-[selected=true]:bg-gold/10 data-[selected=true]:text-gold"
               >

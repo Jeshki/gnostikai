@@ -7,10 +7,12 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
+    "test": "vitest run",
     "translate": "tsx scripts/translate-corpus.mts",
     "translate:core": "tsx scripts/translate-corpus.mts --core",
     "translate:status": "tsx scripts/translate-corpus.mts --status",
-    "translate:meta": "tsx scripts/translate-meta.mts && tsx scripts/generate-previews.mts"
+    "translate:meta": "tsx scripts/translate-meta.mts && tsx scripts/generate-previews.mts",
+    "translate:ethiopian:google": "tsx scripts/translate-ethiopian-google.mts"
   },
   "dependencies": {
     "@next/third-parties": "^16.3.4",
@@ -27,7 +29,7 @@
     "framer-motion": "^13.2.0",
     "gray-matter": "^4.0.3",
     "lucide-react": "^1.41.0",
-    "next": "16.3.4",
+    "next": "^16.4.6",
     "next-intl": "^4.14.2",
     "next-mdx-remote": "^6.0.0",
     "next-themes": "^0.4.6",
@@ -46,6 +48,7 @@
     "eslint-config-next": "16.3.4",
     "tailwindcss": "^4",
     "tsx": "^4.23.13",
-    "typescript": "^5"
+    "typescript": "^5",
+    "vitest": "^4.1.12"
   }
 }

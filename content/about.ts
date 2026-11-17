@@ -34,61 +34,48 @@ export type AboutCopy = {
 };
 
 const currentsShared = {
-  sethian: ["john", "archons", "origin", "thunder", "egyptians-sethian"],
-  valentinian: ["truth", "philip", "tripartite", "valentinus-exposition"],
-  thomas: ["thomas", "contender", "acts-thomas"],
-  voices: ["mary", "judas", "dialogue-savior"],
-  askew: ["pistis-sophia", "books-of-jeu", "untitled-bruce"],
+  sethian: ["jono-apokrifonas", "egiptieciu-evangelija", "trys-seto-steles", "noreos-mintis"],
+  valentinian: ["tiesos-evangelija", "pilypo-evangelija", "trisalis-traktatas", "valentino-ekspozicija"],
+  thomas: ["tomo-evangelija", "tomo-varzybininko-knyga"],
+  voices: ["evangelija-pagal-marija-magdaliete", "gelbetojo-dialogas"],
+  askew: ["jezaus-kristaus-sofija"],
 } as const;
 
 export const about: Record<AboutLocale, AboutCopy> = {
   lt: {
-    kicker: "Įėjimas",
-    title: "Kas yra gnosticizmas?",
-    lede: "„Gnosticizmas“ yra šiuolaikinis mokslinis skėtis, o ne vienos senovės bažnyčios savivardis. Po juo telpa II–IV a. srovės, kurių raštai kalba apie pažinimą — gnosis — pleromą ir pasaulio kūrėjo ribotumą. AEON juos rodo kaip dokumentus: kopijuotus, verstus, slėptus, rastus.",
+    kicker: "Dvi bibliotekos",
+    title: "Apie šias bibliotekas",
+    lede: "Čia skaitomos dvi skirtingos bibliotekos lietuvių kalba. Etiopijos Biblija yra gyvas bažnyčios kanonas. Nag Hammadi yra istorinis gnostinių tekstų radinys.",
     tocLabel: "Skyriai",
-    enter: "Įeiti į korpusą",
+    enter: "Skaityti",
     textsIn: "Tekstai",
     sections: [
       {
-        id: "zodis",
-        title: "Žodis, ne bažnyčia",
+        id: "etiopija",
+        title: "Etiopijos Biblija",
         paragraphs: [
-          "Irenėjas ir kiti eresiologai rašė prieš „erezijas“. Tie, kurių tekstus skaitome, dažniau vadinosi krikščionimis, Seto sėkla, dvasiniais — ne „gnostikais“. AEON vartoja šį žodį kaip katalogo raktą, ne kaip tikėjimo išpažinimą.",
-          "Gnosis čia nėra slaptas klubas ir ne prekė. Tai pažinimas, keičiantis pažįstantįjį: kas esi, iš kur atėjai, kam priklausai. Šalia tikėjimo (pistis) jis stoja kaip kitas kelias — kartais kartu, kartais prieš.",
-          "Pleroma — dieviškoji pilnatvė. Kenoma — tuštuma po jos ribos. Sofija — išmintis, kurios aistra ar klaida pradeda medžiagos istoriją. Demiurgas — pasaulio amatininkas, setianų ir valentinianų tekstuose dažnai aklas. Šie vardai nėra dogma; jie yra leksikonas, kuriuo tekstai kalba vienas apie kitą.",
+          "Etiopijos Biblija – tai šventųjų raštų rinkinys, kurį naudoja Etiopijos Ortodoksų Tewahedo bažnyčia. Tai didžiausias krikščioniškas kanonas pasaulyje. Joje yra ne tik tos knygos, kurias turi katalikai ir protestantai, bet ir daug papildomų senovinių tekstų, kurie kitose bažnyčiose nėra pripažįstami kanoniniais.",
+          "Etiopijos Biblijoje yra apie 81–88 knygos (skaičius šiek tiek skiriasi priklausomai nuo to, kaip skaičiuojamos kai kurios knygos). Ji apima ir Senąjį, ir Naująjį Testamentą, tačiau Senasis Testamentas čia yra žymiai platesnis.",
+          "Be įprastų Senojo Testamento knygų, Etiopijos kanone yra Henochas (1 Enochas), Jubiliejų knyga, Izaijo žengimas į dangų, papildomos Barucho ir Ezdro knygos, daugiau Makabėjų knygų, Sinodo knygos, Klemenso knygos ir kiti senoviniai tekstai.",
+          "Daugelis šių knygų išliko tik etiopų (ge’ez) kalba. Etiopijos bažnyčia jas laiko Dievo įkvėptomis ir kanoninėmis. Dėl šios priežasties Etiopijos Biblija yra unikali – joje galima rasti tekstų, kurių nėra jokioje kitoje krikščioniškoje Biblijoje.",
         ],
       },
       {
-        id: "kanonas",
-        title: "Kanonas ir apokrifas",
+        id: "nag",
+        title: "Nag Hammadi biblioteka",
         paragraphs: [
-          "Apokrifas reiškia „paslėptas“, ne „netikras“. Naujojo Testamento kanonas susiformavo lėtai. Šalia jo — ir kartais prieš jį — buvo rašomos evangelijos be kančios pasakojimo, aktai, apokalipsės, dialogai. Jos nėra kanono parodija ir nėra jo pakaitalas.",
-          "AEON kanono neišjuokia ir neapgina. Žyma „už kanono“ tėra istorinis slenkstis: tekstas gyveno kitoje lentynoje. Skaityk jį greta, ne vietoj.",
+          "Nag Hammadi biblioteka – tai senovinių rankraščių kolekcija, rasta 1945 metais Egipte, netoli Nag Hammadi miesto. Tai ne Biblija ir ne oficialus bažnyčios kanonas. Tai gnostinių ir ankstyvųjų krikščionių apokrifinių tekstų rinkinys.",
+          "1945 metais valstietis Muhammad al-Samman rado molinį ąsotį, kuriame buvo 13 odinių kodeksų. Juose buvo apie 52 skirtingi tekstai, parašyti koptų kalba. Dauguma jų yra vertimai iš graikų kalbos. Rankraščiai datuojami IV amžiumi, o patys tekstai – II–III amžiumi.",
+          "Žinomiausi Nag Hammadi tekstai yra Evangelija pagal Tomą, Evangelija pagal Pilypą, Jono apokrifas, Evangelija pagal Tiesą, Perkūnas (Griaustinis, tobulas protas), Archontų hipostazė ir Trišalis traktatas.",
+          "Šie tekstai atspindi gnostinį pasaulėvaizdį. Juose dažnai kalbama apie slaptą žinojimą (gnosis), dievišką kibirkštį žmoguje, demiurgą ir išgelbėjimą per pažinimą. Nė vienas iš šių tekstų nebuvo įtrauktas į jokį oficialų krikščionišką kanoną.",
+          "Nag Hammadi radinys yra labai svarbus istorikams ir tyrinėtojams, nes jis leido pirmą kartą perskaityti gnostinius tekstus iš pačių rankraščių, o ne tik iš bažnyčios tėvų kritikos.",
         ],
       },
       {
-        id: "skaityti",
-        title: "Kaip skaityti AEON",
+        id: "skirtumas",
+        title: "Du skirtingi rinkiniai",
         paragraphs: [
-          "Tomo evangelija čia visa lietuviškai — 114 posakių per DeepL, kaip ir kitos evangelijos. Rankinis sluoksnis paliktas archyve. Kūnai verčiami per DeepL API iš viešosios nuosavybės anglų tekstų: Mattison, James, ANF, Mead. Angliškas šaltinis lieka per EN arba LT+EN.",
-          "Žemėlapis yra sąvokų laukas, ne geografija. Chronologija — atradimų linija, ne dogma. Gretinimas deda du tekstus greta. Žodynas laiko vardus, kuriais kodeksai kalba.",
-        ],
-      },
-      {
-        id: "saltiniai",
-        title: "Šaltiniai ir teisės",
-        paragraphs: [
-          "Čia tik viešoji nuosavybė. Markas M. Mattisonas (gospels.net) — Tomas, Marija, Judas ir kitos ištraukos. M. R. Jamesas, 1924 — Naujojo Testamento apokrifai. Ante-Nicene Fathers — patristika, aktai, Klementinai. G. R. S. Meadas — Pistis Sophia.",
-          "Brill Coptic Gnostic Library, Robinsono Nag Hammadi Library in English ir Lambdino Tomas nekartojami. Jeu knygos lieka stubu: pilno PD angliško vertimo nėra. Tai ne spraga dizaine — tai teisės slenkstis.",
-        ],
-      },
-      {
-        id: "ne",
-        title: "Kas tai nėra",
-        paragraphs: [
-          "Tai ne bažnyčia ir ne iniciacija. Ne New Age parduotuvė ir ne slaptas ordinas. Istorinė ir religinė literatūra, rodoma kaip muziejaus vitrina: šviesa, stiklas, kortelė su proveniencija.",
-          "Tekstai gali būti keisti, rūstūs, gražūs. Jie neprašo tikėti. Jie prašo būti skaitomi.",
+          "Abu šie rinkiniai yra svarbūs, bet skirtingi. Etiopijos Biblija yra gyva bažnyčios kanonas, kurį ir šiandien naudoja milijonai tikinčiųjų. Nag Hammadi – tai istorinis gnostinių tekstų radinys, kuris padeda geriau suprasti ankstyvosios krikščionybės įvairovę.",
         ],
       },
     ],
@@ -135,59 +122,59 @@ export const about: Record<AboutLocale, AboutCopy> = {
       {
         year: "XVIII–XIX a.",
         body: "Askew ir Bruce kodeksai patenka į Londoną. Pistis Sophia skaitoma dar prieš dykumos ąsočius.",
-        href: "/library/askew-bruce",
+        href: "/nh/jezaus-kristaus-sofija",
       },
       {
         year: "1896–97",
-        body: "Berlyno kodeksas (BG 8502) įsigyjamas Kaire: Marija, trumpasis Jonas, Sofija, Petro aktas.",
-        href: "/library/berlin-codex",
+        body: "Berlyno kodeksas (BG 8502) įsigyjamas Kaire. Jame — Evangelija pagal Mariją Magdalietę.",
+        href: "/nh/evangelija-pagal-marija-magdaliete",
       },
       {
         year: "1897 / 1903",
         body: "Oksirinho papirusai. Graikiškas Tomas jau prieš Nag Hammadi — posakiai be koptų kodekso.",
-        href: "/library/fragments",
+        href: "/nh/tomo-evangelija",
       },
       {
         year: "1945",
         body: "Nag Hammadi: trylika kodeksų, palaidotų apie IV a., rasti Aukštutiniame Egipte.",
-        href: "/library/nag-hammadi",
+        href: "/library",
       },
       {
-        year: "2006",
-        body: "Judo evangelijos koptų kodeksas skelbiamas plačiajai auditorijai. Tchacos — dar viena lentyna.",
-        href: "/text/judas",
+        year: "1945–",
+        body: "Kodeksai išversti ir sudėti į šią biblioteką lietuvių kalba.",
+        href: "/library",
       },
     ],
     paths: [
       {
         href: "/library",
         title: "Biblioteka",
-        blurb: "Visas katalogas pagal kodeksą, temą ir pilnumą.",
+        blurb: "Nag Hammadi traktatai pagal kodeksą.",
+      },
+      {
+        href: "/bible",
+        title: "Etiopijos Biblija",
+        blurb: "Visas kanonas lietuvių kalba, skyrius po skyriaus.",
       },
       {
         href: "/map",
         title: "Žemėlapis",
-        blurb: "Eonai, archontai, Sofija, pleroma — sąvokų laukas.",
+        blurb: "Biblijos dalys, kodeksai ir sąvokos su nuorodomis į tekstus.",
       },
       {
         href: "/glossary",
         title: "Žodynas",
-        blurb: "Vardai, kuriais kodeksai kalba vienas apie kitą.",
-      },
-      {
-        href: "/timeline",
-        title: "Chronologija",
-        blurb: "Atradimai, ne doktrina.",
+        blurb: "Vardai ir sąvokos, vedančios į skaitomus tekstus.",
       },
       {
         href: "/compare",
         title: "Gretinimas",
-        blurb: "Du tekstai greta — Tomas ir Marija, Jonas ir Judas.",
+        blurb: "Du Nag Hammadi tekstai greta.",
       },
       {
-        href: "/text/thomas",
+        href: "/nh/tomo-evangelija",
         title: "Tomo evangelija",
-        blurb: "Pilnas lietuviškas kūnas — 114 posakių.",
+        blurb: "Posakiai lietuvių kalba.",
       },
     ],
   },
@@ -324,19 +311,14 @@ export const about: Record<AboutLocale, AboutCopy> = {
         blurb: "The names the codices use to speak of one another.",
       },
       {
-        href: "/timeline",
-        title: "Timeline",
-        blurb: "Discoveries, not doctrine.",
-      },
-      {
         href: "/compare",
         title: "Compare",
-        blurb: "Two texts side by side — Thomas and Mary, John and Judas.",
+        blurb: "Two Nag Hammadi texts side by side.",
       },
       {
-        href: "/text/thomas",
+        href: "/nh/tomo-evangelija",
         title: "Gospel of Thomas",
-        blurb: "The complete Lithuanian body — 114 sayings.",
+        blurb: "The Lithuanian sayings.",
       },
     ],
   },

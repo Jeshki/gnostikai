@@ -4,9 +4,9 @@ import { aboutJsonLd, breadcrumbJsonLd, pageCrumbs, pageMeta } from "@/lib/seo";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = pageMeta({
-  title: "Kas yra gnosticizmas?",
+  title: "Apie šias bibliotekas",
   description:
-    "Gnosticizmas kaip mokslinis skėtis: setianai, valentinianai, Tomas, Nag Hammadi ir viešosios nuosavybės korpusas. AEON — ne bažnyčia ir ne iniciacija.",
+    "Etiopijos Biblija yra gyvas bažnyčios kanonas. Nag Hammadi yra 1945 metų gnostinių tekstų radinys. Abu rinkiniai čia skaitomi lietuvių kalba.",
   path: "/about",
   titleEn: "What is Gnosticism?",
   descriptionEn:

@@ -25,7 +25,6 @@ type Theme = "night" | "paper" | "sepia";
 export function Reader({
   text,
   chapterId,
-  mdx,
   mdxLt,
   body,
 }: {
@@ -46,7 +45,7 @@ export function Reader({
   const next = nextInCodex(text.slug);
   const related = relatedTexts(text.slug);
   const excerpt = getBody(text.slug);
-  const title = locale === "lt" ? text.titleLt : text.titleEn;
+  const title = text.titleLt;
 
   const sayings = useMemo(() => {
     if (text.slug !== "thomas") return [];
@@ -102,14 +101,7 @@ export function Reader({
               {text.codex ? fieldLabel(text.codex, locale) : collectionLabel(text.collection, locale)} · {fieldLabel(text.discovery, locale)} ·{" "}
               {fieldLabel(text.originalLanguage, locale)}
             </p>
-            <h1 className="font-display mt-3 text-4xl leading-tight md:text-5xl">
-              {bilingual ? `${text.titleLt} / ${text.titleEn}` : title}
-            </h1>
-            {!bilingual ? (
-              <p lang={locale === "lt" ? "en" : "lt"} className="mt-2 font-display text-lg text-muted">
-                {locale === "lt" ? text.titleEn : text.titleLt}
-              </p>
-            ) : null}
+            <h1 className="font-display mt-3 text-4xl leading-tight md:text-5xl">{text.titleLt}</h1>
             {text.originalTitle ? (
               <p className="mt-3 font-display text-sm italic text-muted">{text.originalTitle}</p>
             ) : null}
@@ -274,36 +266,17 @@ export function Reader({
                 </p>
                 {excerpt.map((block) => (
                   <section key={block.heading ?? block.body.slice(0, 24)} className="mb-12">
-                    {(locale === "lt" ? block.headingLt : block.heading) ? (
-                      <h2 className="font-display mb-4 text-xl text-gold">
-                        {locale === "lt" ? block.headingLt : block.heading}
-                      </h2>
+                    {block.headingLt ? (
+                      <h2 className="font-display mb-4 text-xl text-gold">{block.headingLt}</h2>
                     ) : null}
-                    <p className="reader-text font-display whitespace-pre-wrap">
-                      {locale === "lt" ? block.bodyLt : block.body}
-                    </p>
+                    <p className="reader-text font-display whitespace-pre-wrap">{block.bodyLt}</p>
                   </section>
                 ))}
               </>
             ) : (
               <section>
-                {bilingual ? (
-                  <>
-                    {mdxLt ? <div className="prose-aeon">{mdxLt}</div> : null}
-                    {mdx ? <div className="prose-aeon mt-6 text-muted">{mdx}</div> : null}
-                  </>
-                ) : locale === "lt" && mdxLt ? (
-                  <div className="prose-aeon">{mdxLt}</div>
-                ) : locale === "en" && mdx ? (
-                  <div className="prose-aeon">{mdx}</div>
-                ) : null}
-                <p className="reader-text font-display mt-8">
-                  {text.chapters[0]
-                    ? locale === "lt"
-                      ? text.chapters[0].titleLt
-                      : text.chapters[0].titleEn
-                    : "I."}
-                </p>
+                {mdxLt ? <div className="prose-aeon">{mdxLt}</div> : null}
+                <p className="reader-text font-display mt-8">{text.chapters[0]?.titleLt ?? "I."}</p>
                 <p className="mt-6 text-sm text-muted">{t("coming")}</p>
               </section>
             )}
@@ -316,7 +289,7 @@ export function Reader({
                 href={`/text/${next.slug}`}
                 className="font-display mt-2 inline-block text-2xl hover:text-gold"
               >
-                {locale === "lt" ? next.titleLt : next.titleEn}
+                {next.titleLt}
               </Link>
             </div>
           ) : null}
@@ -326,7 +299,7 @@ export function Reader({
               {related.map((item) => (
                 <li key={item.slug}>
                   <Link href={`/text/${item.slug}`} className="hover:text-gold">
-                    {locale === "lt" ? item.titleLt : item.titleEn}
+                    {item.titleLt}
                   </Link>
                 </li>
               ))}
@@ -344,7 +317,7 @@ export function Reader({
                 {related.map((item) => (
                   <li key={item.slug}>
                     <Link href={`/text/${item.slug}`} className="hover:text-gold">
-                      {locale === "lt" ? item.titleLt : item.titleEn}
+                      {item.titleLt}
                     </Link>
                   </li>
                 ))}
@@ -372,11 +345,7 @@ export function Reader({
                     className="hover:text-gold"
                   >
                     {chapter.id}.{" "}
-                    {bilingual
-                      ? `${chapter.titleLt} / ${chapter.titleEn}`
-                      : locale === "lt"
-                        ? chapter.titleLt
-                        : chapter.titleEn}
+                    {chapter.titleLt}
                   </Link>
                 </li>
               ))}
@@ -430,7 +399,7 @@ function ChapterNav({ current }: { current: number }) {
         <span />
       )}
       <Link href="/text/thomas" className="min-h-11 hover:text-gold">
-        {locale === "lt" ? "Korpusas" : "Corpus"}
+        Korpusas
       </Link>
       {next ? (
         <Link href={`/text/thomas/${next}`} className="min-h-11 hover:text-gold">

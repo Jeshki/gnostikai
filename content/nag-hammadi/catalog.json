@@ -1,0 +1,373 @@
+[
+  {
+    "slug": "apastalo-pauliaus-malda",
+    "title": "Apaštalo Pauliaus malda",
+    "codex": "KODEKSAS I",
+    "order": 0,
+    "chars": 1425
+  },
+  {
+    "slug": "jokubo-apokrifonas",
+    "title": "Jokūbo apokrifonas",
+    "codex": "KODEKSAS I",
+    "order": 1,
+    "chars": 29887
+  },
+  {
+    "slug": "tiesos-evangelija",
+    "title": "Tiesos Evangelija",
+    "codex": "KODEKSAS I",
+    "order": 2,
+    "chars": 50025
+  },
+  {
+    "slug": "traktatas-apie-prisikelima",
+    "title": "Traktatas apie prisikėlimą",
+    "codex": "KODEKSAS I",
+    "order": 3,
+    "chars": 6509
+  },
+  {
+    "slug": "trisalis-traktatas",
+    "title": "Trišalis traktatas",
+    "codex": "KODEKSAS I",
+    "order": 4,
+    "chars": 88886
+  },
+  {
+    "slug": "jono-apokrifonas",
+    "title": "Jono apokrifonas",
+    "codex": "KODEKSAS II",
+    "order": 5,
+    "chars": 39280
+  },
+  {
+    "slug": "tomo-evangelija",
+    "title": "Tomo evangelija",
+    "codex": "KODEKSAS II",
+    "order": 6,
+    "chars": 73750
+  },
+  {
+    "slug": "pilypo-evangelija",
+    "title": "Pilypo evangelija",
+    "codex": "KODEKSAS II",
+    "order": 7,
+    "chars": 42429
+  },
+  {
+    "slug": "archontu-hipostaze-valdovu-realybe",
+    "title": "Archontų hipostazė Valdovų realybė",
+    "codex": "KODEKSAS II",
+    "order": 8,
+    "chars": 14029
+  },
+  {
+    "slug": "apie-pasaulio-kilme-tekstas-be-pavadinimo",
+    "title": "Apie pasaulio kilmę „Tekstas be pavadinimo“",
+    "codex": "KODEKSAS II",
+    "order": 9,
+    "chars": 196
+  },
+  {
+    "slug": "sielos-egzegeze",
+    "title": "Sielos egzegezė",
+    "codex": "KODEKSAS II",
+    "order": 10,
+    "chars": 12939
+  },
+  {
+    "slug": "tomo-varzybininko-knyga",
+    "title": "Tomo Varžybininko knyga",
+    "codex": "KODEKSAS II",
+    "order": 11,
+    "chars": 12879
+  },
+  {
+    "slug": "jono-apokrifonas-2",
+    "title": "Jono apokrifonas",
+    "codex": "KODEKSAS III",
+    "order": 12,
+    "chars": 66
+  },
+  {
+    "slug": "egiptieciu-evangelija",
+    "title": "Egiptiečių evangelija",
+    "codex": "KODEKSAS III",
+    "order": 13,
+    "chars": 21314
+  },
+  {
+    "slug": "palaimintasis-eugnostas",
+    "title": "Palaimintasis Eugnostas",
+    "codex": "KODEKSAS III",
+    "order": 14,
+    "chars": 13536
+  },
+  {
+    "slug": "jezaus-kristaus-sofija",
+    "title": "Jėzaus Kristaus Sofija",
+    "codex": "KODEKSAS III",
+    "order": 15,
+    "chars": 18942
+  },
+  {
+    "slug": "gelbetojo-dialogas",
+    "title": "Gelbėtojo dialogas",
+    "codex": "KODEKSAS III",
+    "order": 16,
+    "chars": 16398
+  },
+  {
+    "slug": "jono-apokrifonas-3",
+    "title": "Jono apokrifonas",
+    "codex": "IV KODEKSAS",
+    "order": 17,
+    "chars": 40
+  },
+  {
+    "slug": "egiptieciu-evangelija-2",
+    "title": "Egiptiečių evangelija",
+    "codex": "IV KODEKSAS",
+    "order": 18,
+    "chars": 57
+  },
+  {
+    "slug": "palaimintasis-eugnostas-2",
+    "title": "Palaimintasis Eugnostas",
+    "codex": "V kodeksas",
+    "order": 19,
+    "chars": 67
+  },
+  {
+    "slug": "pauliaus-apokalipse",
+    "title": "Pauliaus apokalipsė",
+    "codex": "V kodeksas",
+    "order": 20,
+    "chars": 4897
+  },
+  {
+    "slug": "pirmoji-jokubo-apokalipse",
+    "title": "(Pirmoji) Jokūbo apokalipsė",
+    "codex": "V kodeksas",
+    "order": 21,
+    "chars": 12161
+  },
+  {
+    "slug": "antroji-jokubo-apokalipse",
+    "title": "(Antroji) Jokūbo apokalipsė",
+    "codex": "V kodeksas",
+    "order": 22,
+    "chars": 10877
+  },
+  {
+    "slug": "adomo-apokalipse",
+    "title": "Adomo apokalipsė",
+    "codex": "V kodeksas",
+    "order": 23,
+    "chars": 13800
+  },
+  {
+    "slug": "petro-ir-dvylikos-apastalu-darbai",
+    "title": "Petro ir Dvylikos apaštalų darbai",
+    "codex": "KODEKSAS VI",
+    "order": 24,
+    "chars": 10070
+  },
+  {
+    "slug": "perkunas-tobulas-protas",
+    "title": "Perkūnas, tobulas protas",
+    "codex": "KODEKSAS VI",
+    "order": 25,
+    "chars": 22079
+  },
+  {
+    "slug": "autoritetingas-mokymas",
+    "title": "Autoritetingas mokymas",
+    "codex": "KODEKSAS VI",
+    "order": 26,
+    "chars": 10508
+  },
+  {
+    "slug": "musu-didziosios-galios-koncepcija",
+    "title": "Mūsų didžiosios galios koncepcija",
+    "codex": "KODEKSAS VI",
+    "order": 27,
+    "chars": 9931
+  },
+  {
+    "slug": "platonas-respublika-588a-589b",
+    "title": "Platonas, Respublika 588A-589B",
+    "codex": "KODEKSAS VI",
+    "order": 28,
+    "chars": 2805
+  },
+  {
+    "slug": "astuntojo-ir-devintojo-diskursas",
+    "title": "Aštuntojo ir devintojo diskursas",
+    "codex": "KODEKSAS VI",
+    "order": 29,
+    "chars": 9875
+  },
+  {
+    "slug": "padekos-malda",
+    "title": "Padėkos malda",
+    "codex": "KODEKSAS VI",
+    "order": 30,
+    "chars": 1666
+  },
+  {
+    "slug": "asklepijas-21-29",
+    "title": "Asklepijas 21–29",
+    "codex": "KODEKSAS VI",
+    "order": 31,
+    "chars": 13636
+  },
+  {
+    "slug": "semo-parafraze",
+    "title": "Šemo parafrazė",
+    "codex": "VII kodeksas",
+    "order": 32,
+    "chars": 39
+  },
+  {
+    "slug": "antrasis-didziojo-seto-traktatas",
+    "title": "Antrasis Didžiojo Seto traktatas",
+    "codex": "VII kodeksas",
+    "order": 33,
+    "chars": 17783
+  },
+  {
+    "slug": "petro-apokalipse",
+    "title": "Petro apokalipsė",
+    "codex": "VII kodeksas",
+    "order": 34,
+    "chars": 10567
+  },
+  {
+    "slug": "silvano-mokymai",
+    "title": "Silvano mokymai",
+    "codex": "VII kodeksas",
+    "order": 35,
+    "chars": 30205
+  },
+  {
+    "slug": "trys-seto-steles",
+    "title": "Trys Seto stelės",
+    "codex": "VII kodeksas",
+    "order": 36,
+    "chars": 8766
+  },
+  {
+    "slug": "zostrianas",
+    "title": "Zostrianas",
+    "codex": "VIII kodeksas",
+    "order": 37,
+    "chars": 66789
+  },
+  {
+    "slug": "petro-laiskas-filipui",
+    "title": "Petro laiškas Filipui",
+    "codex": "VIII kodeksas",
+    "order": 38,
+    "chars": 6525
+  },
+  {
+    "slug": "melchizedekas",
+    "title": "Melchizedekas",
+    "codex": "IX KODEKSAS",
+    "order": 39,
+    "chars": 11077
+  },
+  {
+    "slug": "noreos-mintis",
+    "title": "Noreos mintis",
+    "codex": "IX KODEKSAS",
+    "order": 40,
+    "chars": 7383
+  },
+  {
+    "slug": "tiesos-liudijimas",
+    "title": "Tiesos liudijimas",
+    "codex": "IX KODEKSAS",
+    "order": 41,
+    "chars": 21425
+  },
+  {
+    "slug": "marsanes",
+    "title": "Marsanes",
+    "codex": "KODEKSAS X",
+    "order": 42,
+    "chars": 18619
+  },
+  {
+    "slug": "ziniu-interpretavimas",
+    "title": "Žinių interpretavimas",
+    "codex": "Kodeksas XI",
+    "order": 43,
+    "chars": 15473
+  },
+  {
+    "slug": "valentino-ekspozicija",
+    "title": "Valentino ekspozicija",
+    "codex": "Kodeksas XI",
+    "order": 44,
+    "chars": 13623
+  },
+  {
+    "slug": "alogenai",
+    "title": "Alogenai",
+    "codex": "Kodeksas XI",
+    "order": 45,
+    "chars": 19659
+  },
+  {
+    "slug": "hipsifronas",
+    "title": "Hipsifronas",
+    "codex": "Kodeksas XI",
+    "order": 46,
+    "chars": 1310
+  },
+  {
+    "slug": "seksto-sakiniai",
+    "title": "Seksto sakiniai",
+    "codex": "Kodeksas XII",
+    "order": 47,
+    "chars": 8185
+  },
+  {
+    "slug": "tiesos-evangelija-2",
+    "title": "Tiesos Evangelija",
+    "codex": "Kodeksas XII",
+    "order": 48,
+    "chars": 50025
+  },
+  {
+    "slug": "fragmentai",
+    "title": "Fragmentai",
+    "codex": "Kodeksas XII",
+    "order": 49,
+    "chars": 24
+  },
+  {
+    "slug": "trimorfine-protenoja",
+    "title": "Trimorfinė protenoja",
+    "codex": "Kodeksas XIII",
+    "order": 50,
+    "chars": 19502
+  },
+  {
+    "slug": "apie-pasaulio-kilme-tekstas-be-pavadinimo-2",
+    "title": "Apie pasaulio kilmę „Tekstas be pavadinimo“",
+    "codex": "Kodeksas XIII",
+    "order": 51,
+    "chars": 37698
+  },
+  {
+    "slug": "evangelija-pagal-marija-magdaliete",
+    "title": "Evangelija pagal Marija Magdalietė",
+    "codex": "Papirusas Berolinensis 8502",
+    "order": 52,
+    "chars": 5623
+  }
+]

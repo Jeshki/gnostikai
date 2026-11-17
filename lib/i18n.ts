@@ -1,16 +1,13 @@
 import lt from "@/messages/lt.json";
-import en from "@/messages/en.json";
 
-export const locales = ["lt", "en"] as const;
+export const locales = ["lt"] as const;
 export type Locale = (typeof locales)[number];
 export const defaultLocale: Locale = "lt";
 
 export type Messages = typeof lt;
 
-const all: Record<Locale, Messages> = { lt, en };
-
-export function getMessages(locale: Locale): Messages {
-  return all[locale] ?? lt;
+export function getMessages(_locale?: Locale): Messages {
+  return lt;
 }
 
 export function tGet(messages: Messages, path: string): string {

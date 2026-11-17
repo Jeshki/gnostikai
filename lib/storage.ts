@@ -1,15 +1,17 @@
 export type SavedSaying = { slug: string; n: number };
 export type SavedHighlight = { slug: string; quote: string; at: number };
+export type SavedPlace = { href: string; title: string; kicker?: string };
 
 export type SavedState = {
   texts: string[];
   sayings: SavedSaying[];
   highlights: SavedHighlight[];
+  places: SavedPlace[];
 };
 
 const KEY = "aeon-saved";
 
-const empty: SavedState = { texts: [], sayings: [], highlights: [] };
+const empty: SavedState = { texts: [], sayings: [], highlights: [], places: [] };
 
 export function readSaved(): SavedState {
   if (typeof window === "undefined") return empty;
@@ -21,6 +23,7 @@ export function readSaved(): SavedState {
       texts: parsed.texts ?? [],
       sayings: parsed.sayings ?? [],
       highlights: parsed.highlights ?? [],
+      places: parsed.places ?? [],
     };
   } catch {
     return empty;
@@ -29,6 +32,27 @@ export function readSaved(): SavedState {
 
 export function writeSaved(next: SavedState) {
   window.localStorage.setItem(KEY, JSON.stringify(next));
+}
+
+export function isPlaceSaved(href: string) {
+  return readSaved().places.some((item) => item.href === href);
+}
+
+export function removePlace(href: string): SavedState {
+  const current = readSaved();
+  const next = { ...current, places: current.places.filter((item) => item.href !== href) };
+  writeSaved(next);
+  return next;
+}
+
+export function togglePlace(place: SavedPlace): SavedState {
+  const current = readSaved();
+  const places = current.places.some((item) => item.href === place.href)
+    ? current.places.filter((item) => item.href !== place.href)
+    : [place, ...current.places];
+  const next = { ...current, places };
+  writeSaved(next);
+  return next;
 }
 
 export function toggleText(slug: string): SavedState {

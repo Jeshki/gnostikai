@@ -1,19 +1,16 @@
 "use client";
 
 import { reopenCookieSettings } from "@/components/CookieBanner";
-import { useLocale } from "@/components/providers";
-import { collections, featuredTexts } from "@/lib/corpus";
+import { featuredNh } from "@/lib/nh";
 import { navLinks } from "@/lib/nav";
 import { gaMeasurementId } from "@/lib/site";
-import type { CollectionId } from "@/lib/types";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
 
 export function SiteFooter() {
   const t = useTranslations("footer");
   const nav = useTranslations("nav");
-  const { locale } = useLocale();
-  const featured = featuredTexts().slice(0, 8);
+  const featured = featuredNh();
 
   return (
     <footer className="border-t border-line px-6 pt-16 pb-28 text-sm text-muted md:pb-16">
@@ -62,20 +59,23 @@ export function SiteFooter() {
         <div>
           <p className="text-[10px] tracking-[0.2em] text-gold uppercase">{t("collections")}</p>
           <ul className="mt-3 space-y-2">
-            {(Object.keys(collections) as CollectionId[]).map((id) => (
-              <li key={id}>
-                <Link href={`/library/${id}`} className="hover:text-gold">
-                  {locale === "lt" ? collections[id].titleLt : collections[id].titleEn}
-                </Link>
-              </li>
-            ))}
+            <li>
+              <Link href="/bible" className="hover:text-gold">
+                Etiopijos Biblija
+              </Link>
+            </li>
+            <li>
+              <Link href="/library" className="hover:text-gold">
+                Nag Hammadi
+              </Link>
+            </li>
           </ul>
           {featured.length ? (
             <ul className="mt-6 space-y-2">
               {featured.map((item) => (
                 <li key={item.slug}>
-                  <Link href={`/text/${item.slug}`} className="hover:text-gold">
-                    {locale === "lt" ? item.titleLt : item.titleEn}
+                  <Link href={`/nh/${item.slug}`} className="hover:text-gold">
+                    {item.title}
                   </Link>
                 </li>
               ))}

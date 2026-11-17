@@ -1,7 +1,7 @@
 export const navLinks = [
+  { href: "/bible", key: "bible" as const },
   { href: "/library", key: "library" as const },
   { href: "/map", key: "map" as const },
-  { href: "/timeline", key: "timeline" as const },
   { href: "/glossary", key: "glossary" as const },
   { href: "/about", key: "about" as const },
   { href: "/compare", key: "compare" as const },

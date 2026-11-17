@@ -3,8 +3,7 @@
 import { NextIntlClientProvider } from "next-intl";
 import { ThemeProvider } from "next-themes";
 import { createContext, useContext, useEffect, useMemo, useState } from "react";
-import type { Locale, Messages } from "@/lib/i18n";
-import { defaultLocale } from "@/lib/i18n";
+import { defaultLocale, type Locale, type Messages } from "@/lib/i18n";
 
 type LocaleCtx = {
   locale: Locale;
@@ -27,50 +26,29 @@ export function useLocale() {
 export function Providers({
   children,
   messages,
-  locale,
+  locale: _locale,
 }: {
   children: React.ReactNode;
   messages: Messages;
   locale: Locale;
 }) {
-  const [current, setCurrent] = useState<Locale>(locale);
-  const [bundle, setBundle] = useState(messages);
-  const [bilingual, setBilingualState] = useState(false);
+  const [current] = useState<Locale>(defaultLocale);
+  const [bundle] = useState(messages);
 
   useEffect(() => {
-    const stored = window.localStorage.getItem("aeon-locale") as Locale | null;
-    if (stored && stored !== current) {
-      void import(`@/messages/${stored}.json`).then((mod) => {
-        setBundle(mod.default);
-        setCurrent(stored);
-      });
-    }
-    setBilingualState(window.localStorage.getItem("aeon-bilingual") === "1");
-  }, [current]);
-
-  useEffect(() => {
-    document.documentElement.lang = current;
-  }, [current]);
+    window.localStorage.setItem("aeon-locale", "lt");
+    window.localStorage.setItem("aeon-bilingual", "0");
+    document.documentElement.lang = "lt";
+  }, []);
 
   const value = useMemo(
     () => ({
       locale: current,
-      bilingual,
-      setBilingual: (next: boolean) => {
-        window.localStorage.setItem("aeon-bilingual", next ? "1" : "0");
-        setBilingualState(next);
-      },
-      setLocale: (next: Locale) => {
-        window.localStorage.setItem("aeon-locale", next);
-        window.localStorage.setItem("aeon-bilingual", "0");
-        setBilingualState(false);
-        void import(`@/messages/${next}.json`).then((mod) => {
-          setBundle(mod.default);
-          setCurrent(next);
-        });
-      },
+      bilingual: false,
+      setBilingual: (_next: boolean) => {},
+      setLocale: (_next: Locale) => {},
     }),
-    [current, bilingual],
+    [current],
   );
 
   return (
