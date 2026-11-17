@@ -12,9 +12,9 @@ export function HomeView() {
 
   return (
     <PageFade>
-      <section className="flex min-h-dvh flex-col justify-end px-6 pt-24 pb-28 md:px-16 md:pb-20">
+      <section className="flex flex-col px-6 pt-16 pb-28 md:min-h-dvh md:justify-end md:px-16 md:pt-24 md:pb-20">
         <p className="text-[10px] tracking-[0.32em] text-gold uppercase">AEON</p>
-        <blockquote lang="lt" className="font-display mt-10 max-w-3xl text-2xl leading-[1.3] md:text-4xl lg:text-[2.75rem]">
+        <blockquote lang="lt" className="font-display mt-6 max-w-3xl text-2xl leading-[1.3] md:mt-10 md:text-4xl lg:text-[2.75rem]">
           {t("thunder")}
         </blockquote>
         <p className="mt-6 text-[11px] tracking-[0.18em] text-muted uppercase">{t("thunderAttr")}</p>
